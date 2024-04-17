@@ -74,7 +74,7 @@
 - [The Hash class 🔑📚📖](https://learn.firstdraft.com/lessons/77)
 - [Defining out own classes 📚🧩🆕](https://learn.firstdraft.com/lessons/78)
 - [Running real Ruby programs 🚀🖥️📜](https://learn.firstdraft.com/lessons/80)
-- [Our own classes: level up 🍄](https://learn.firstdraft.com/lessons/286-our-own-classes-level-up)
+- [Our own classes: level up 🍄](https://learn.firstdraft.com/lessons/286-our-own-classes-level-up)([GitHub](https://github.com/appdev-lessons/bp-debug-our-own-classes-level-up))
 - [The One Ruby Reference 📚💎🔍](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference)
 
 # Additional Ruby practice
@@ -104,14 +104,14 @@
   - [Count "the" 🔡🔢📊](https://learn.firstdraft.com/lessons/90)
 
 # Testing
-- [Testing your code with MiniTest 🧪](https://learn.firstdraft.com/lessons/292-minitest)
+- [Testing your code with MiniTest 🧪](https://learn.firstdraft.com/lessons/292-minitest)([GitHub](https://github.com/appdev-lessons/minitest))
 
 # Command Line Interface (CLI) Project
 - Overview: Command Line Interface (CLI) Project
 - Command Line Interface (CLI) Project 🧑‍💻
 
 # HTTP, APIs, & Domain Names
-- [Domain Names 🌐](https://learn.firstdraft.com/lessons/313-domain-names)
+- [Domain Names 🌐](https://learn.firstdraft.com/lessons/313-domain-names) ([GitHub](https://github.com/appdev-lessons/domain-names?tab=readme-ov-file))
 - Overview: HTTP & APIs
 - [HTTP Requests 🌐📡🔗](https://learn.firstdraft.com/lessons/98)
 - [Umbrella ☂️🌦️🌧️](https://learn.firstdraft.com/lessons/104)
