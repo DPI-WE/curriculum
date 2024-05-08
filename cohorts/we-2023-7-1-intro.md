@@ -1,16 +1,15 @@
 # WE-2023-7-1-INTRO
 
-## Additional Ruby practice
-- Overview: Additional Ruby practice
-- [Continuous practice with Exercism.org 🏋️‍♂️🔍💻](https://exercism.org)
-- [Ruby Programming | In One Video 🎥🧐💻](https://www.edu-apps.org/lti_public_resources/launch?driver=youtube&remote_id=8wZ2ZD--VTk)
-- [GoRails: Ruby for Beginners Series 🚂📚💻](https://gorails.com/series/ruby-for-beginners)
-- Try Ruby 💎👩‍💻📚
-- Ruby References 📚🔍💎
-- Subscribe to Ruby Weekly 💎
-
 ## Debugging
 - Rubber duck debugging 🦆
+
+## Style
+<!-- TODO:
+  lesson on:
+  - casing best practices (camelCase, PascalCase, snake_case, etc.) 
+  - indentation
+  - readability, etc.
+-->
 
 ## Ruby Gym
 - Overview: Ruby Gym
