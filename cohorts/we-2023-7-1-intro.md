@@ -1,13 +1,5 @@
 # WE-2023-7-1-INTRO
 
-## Style
-<!-- TODO:
-  lesson on:
-  - casing best practices (camelCase, PascalCase, snake_case, etc.) 
-  - indentation
-  - readability, etc.
--->
-
 ## Ruby Gym
 - Overview: Ruby Gym
 - [Ruby Conclusions and Gym 💎🏋️‍♂️📚](https://learn.firstdraft.com/lessons/20)

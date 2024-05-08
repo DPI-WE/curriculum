@@ -10,7 +10,7 @@
 - [Intro to Ruby](./intro-to-ruby.md)
 - [Additional Ruby Practice](./additional-ruby-practice.md)
 - [Debugging](./debugging.md)
-- Style
+- [Style](./style.md)
 - Ruby Gym
 - Testing
 - Command Line Interface (CLI) Project
