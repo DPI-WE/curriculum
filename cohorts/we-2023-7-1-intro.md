@@ -1,25 +1,5 @@
 # WE-2023-7-1-INTRO
 
-## Intro to Ruby
-- Overview: Intro to Ruby
-- [Codecademy: Ruby 💻📚🔴](https://www.codecademy.com/learn/learn-ruby)
-- [What, why, and how ❓🤔🔍](https://learn.firstdraft.com/lessons/8)
-- [The fundamentals of Ruby 💎📚🧐](https://learn.firstdraft.com/lessons/67)
-- [The String class 🔤📚🧵](https://learn.firstdraft.com/lessons/69)
-- [String interpolation and printing 🧵🖨️📚](https://learn.firstdraft.com/lessons/113)
-- [The Integer class 🧮📚🔢](https://learn.firstdraft.com/lessons/70)
-- [The Float class 🌊📚🔢](https://learn.firstdraft.com/lessons/71)
-- [The Date class 📆📚🗓️](https://learn.firstdraft.com/lessons/72)
-- [The Array class 🧮📚🔢](https://learn.firstdraft.com/lessons/73)
-- [If statements 🔍📜🔀](https://learn.firstdraft.com/lessons/74)
-- [Loops 🔄📚🔁](https://learn.firstdraft.com/lessons/75)
-- [Each 📚🔄🔁](https://learn.firstdraft.com/lessons/76)
-- [The Hash class 🔑📚📖](https://learn.firstdraft.com/lessons/77)
-- [Defining out own classes 📚🧩🆕](https://learn.firstdraft.com/lessons/78)
-- [Running real Ruby programs 🚀🖥️📜](https://learn.firstdraft.com/lessons/80)
-- [Our own classes: level up 🍄](https://learn.firstdraft.com/lessons/286-our-own-classes-level-up)([GitHub](https://github.com/appdev-lessons/bp-debug-our-own-classes-level-up))
-- [The One Ruby Reference 📚💎🔍](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference)
-
 ## Additional Ruby practice
 - Overview: Additional Ruby practice
 - [Continuous practice with Exercism.org 🏋️‍♂️🔍💻](https://exercism.org)

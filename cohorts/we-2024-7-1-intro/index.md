@@ -7,7 +7,7 @@
 - [Hello, World!](./hello-world.md)
 - [HTML & CSS](./html-&-css.md)
 - [HTML & CSS References](./html-&-css-references.md)
-- Intro to Ruby
+- [Intro to Ruby](./intro-to-ruby.md)
 - Additional Ruby Practice
 - Debugging
 - Style
