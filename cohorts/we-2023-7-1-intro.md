@@ -1,14 +1,5 @@
 # WE-2023-7-1-INTRO
 
-## Testing
-- [Testing your code with MiniTest 🧪](https://learn.firstdraft.com/lessons/292-minitest)([GitHub](https://github.com/appdev-lessons/minitest))
-
-## Command Line Interface (CLI) Project
-- Overview: Command Line Interface (CLI) Project
-- Command Line Interface (CLI) Project 🧑‍💻
-  - [GitHub](https://github.com/DPI-WE/command-line-interface-project)
-  - [Learn](https://learn.firstdraft.com/lessons/419-command-line-interface-project)
-
 ## HTTP, APIs, & Domain Names
 - [Domain Names 🌐](https://learn.firstdraft.com/lessons/313-domain-names) ([GitHub](https://github.com/appdev-lessons/domain-names?tab=readme-ov-file))
 - Overview: HTTP & APIs

@@ -12,8 +12,8 @@
 - [Debugging](./debugging.md)
 - [Style](./style.md)
 - [Ruby Gym](./ruby-gym.md)
-- Testing
-- Command Line Interface (CLI) Project
+- [Testing](./testing.md)
+- [Command Line Interface (CLI) Project](./command-line-interface-cli-project.md)
 - HTTP, APIs, & Domain Names
 - Web apps with Sinatra
 - Web App Project
