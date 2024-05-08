@@ -1,8 +1,5 @@
 # WE-2023-7-1-INTRO
 
-## Debugging
-- Rubber duck debugging 🦆
-
 ## Style
 <!-- TODO:
   lesson on:

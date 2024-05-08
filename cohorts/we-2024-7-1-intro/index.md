@@ -9,7 +9,7 @@
 - [HTML & CSS References](./html-&-css-references.md)
 - [Intro to Ruby](./intro-to-ruby.md)
 - [Additional Ruby Practice](./additional-ruby-practice.md)
-- Debugging
+- [Debugging](./debugging.md)
 - Style
 - Ruby Gym
 - Testing
