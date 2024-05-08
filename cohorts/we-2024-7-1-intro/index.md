@@ -18,4 +18,4 @@
 - [Web apps with Sinatra](./web-apps-with-sinatra.md)
 - [Web apps with Sinatra & OpenAI API](./web-apps-with-sinatra-&-openai-api.md)
 - [Web App Project](./web-app-project.md)
-- Career Exploration
+- [Career Exploration](./career-exploration.md)
