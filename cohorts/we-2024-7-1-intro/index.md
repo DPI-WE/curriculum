@@ -11,7 +11,7 @@
 - [Additional Ruby Practice](./additional-ruby-practice.md)
 - [Debugging](./debugging.md)
 - [Style](./style.md)
-- Ruby Gym
+- [Ruby Gym](./ruby-gym.md)
 - Testing
 - Command Line Interface (CLI) Project
 - HTTP, APIs, & Domain Names

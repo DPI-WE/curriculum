@@ -1,19 +1,5 @@
 # WE-2023-7-1-INTRO
 
-## Ruby Gym
-- Overview: Ruby Gym
-- [Ruby Conclusions and Gym 💎🏋️‍♂️📚](https://learn.firstdraft.com/lessons/20)
-  - [Think Fast 🧠⏩💭](https://learn.firstdraft.com/lessons/82)
-  - [Twofer 🤝✌️](https://learn.firstdraft.com/lessons/83)
-  - [Dice Roll 🎲🔄](https://learn.firstdraft.com/lessons/84)
-  - [Leap Year 🦘📅](https://learn.firstdraft.com/lessons/88)
-  - [Secret Encoder 🤐🔐🔠](https://learn.firstdraft.com/lessons/86)
-  - [Secret Decoder 🤫🔓🔡](https://learn.firstdraft.com/lessons/87)
-  - [Sum Odd Integers ➕🧮🔢](https://learn.firstdraft.com/lessons/91)
-  - [Raindrops ☔🌧️](https://learn.firstdraft.com/lessons/89)
-  - [Character Types 🔤🧐🔢](https://learn.firstdraft.com/lessons/85)
-  - [Count "the" 🔡🔢📊](https://learn.firstdraft.com/lessons/90)
-
 ## Testing
 - [Testing your code with MiniTest 🧪](https://learn.firstdraft.com/lessons/292-minitest)([GitHub](https://github.com/appdev-lessons/minitest))
 
