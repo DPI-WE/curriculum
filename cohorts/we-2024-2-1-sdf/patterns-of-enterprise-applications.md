@@ -1,0 +1,17 @@
+# Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐
+- Introduction to Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐
+  - [Learn](https://learn.firstdraft.com/lessons/350-patterns-of-enterprise-application-architecture-intro)
+  - [GitHub](https://github.com/DPI-WE/patterns-of-enterprise-application-architecture-intro)
+- Service Objects 🚆✨
+  - [Learn](https://learn.firstdraft.com/lessons/392-service-objects)
+  - [GitHub](https://github.com/DPI-WE/service-objects)
+- Domain Driven Design 💡
+  - [Learn](https://learn.firstdraft.com/lessons/394-domain-driven-design)
+  - [GitHub](https://github.com/DPI-WE/domain-driven-design)
+- Clean Code 🛀
+  - [Learn](https://learn.firstdraft.com/lessons/391-clean-code)
+  - [GitHub](https://github.com/DPI-WE/clean-code)
+- Writing Code for Humans 🚶
+  - [Learn](https://learn.firstdraft.com/lessons/395-writing-code-for-humans)
+  - [GitHub](https://github.com/DPI-WE/writing-code-for-humans)
+- Refactoring

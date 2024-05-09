@@ -1,0 +1,72 @@
+# Enrichment
+- Adding sample data 🥸
+  - [Lecture 03/2024](https://www.youtube.com/watch?v=3TRjdMoUiNM)
+  - [Gist](https://gist.github.com/heratyian/62bc400bf0db2184cf40fda012757e07)
+  - [Learn](https://learn.firstdraft.com/lessons/207-adding-sample-data)
+  - [GitHub]()<<
+- CSV 📁
+  - [Lecture 11/2023](https://youtu.be/ccv7JDhFZks)
+  - [Learn](https://learn.firstdraft.com/lessons/210-loading-and-exporting-csv-data)
+  <!-- - Not exactly correct repo -->
+  - [GitHub](https://github.com/DPI-WE/csv-webscrape-lecture?tab=readme-ov-file) 
+- Migrations 🕰️
+  - [Learn](https://learn.firstdraft.com/lessons/300-rails-migrations)
+  - [GitHub](https://github.com/DPI-WE/rails-migrations)
+- Debugging 🪳
+  - [Learn](https://learn.firstdraft.com/lessons/290-debugging)
+  - [GitHub](https://learn.firstdraft.com/lessons/290-debugging)
+- Web scraping 🌐
+  - [Lecture 11/2023](https://youtu.be/ccv7JDhFZks)
+  - [Learn](https://learn.firstdraft.com/lessons/209-webscraping-quick-start)
+  - [GitHub]()<<<
+- ChatGPT 🧠
+  - [Lecture 11/2023](https://www.youtube.com/watch?v=0j097m8M4T4)
+  - [Slides](https://bit.ly/49ztZXD)
+  - [Gist](https://gist.github.com/raghubetina/63ea9855a0c4abc6ed3dab603a1a27e8)
+- Payments 🤑
+  - [Lecture 12/2023](https://youtu.be/iTR6_eIlHzA)
+  - [PR](https://github.com/appdev-projects/members-only/pull/1/files)
+- Setting Up a Development Environment 🧑‍💻
+  - [Learn](https://learn.firstdraft.com/lessons/332-setting-up-a-development-environment)
+  - [GitHub](https://github.com/DPI-WE/setting-up-a-development-environment)
+- Domain Names 🌐
+  - [Learn](https://learn.firstdraft.com/lessons/313-rails-domain-names)
+  - [GitHub](https://github.com/DPI-WE/domain-names)
+- Building APIs 🤖
+  - [Learn](https://learn.firstdraft.com/lessons/328-rails-building-apis)
+  - [GitHub](https://github.com/DPI-WE/rails-building-apis)
+- QR Code 🤳
+- Security 🔒
+- Breadcrumbs 🍞
+- Flashes / Alerts 🚨
+- Pagination 📄
+- Searching and filtering 🔎
+- Email 📬
+- Encrypted Credentials 🤫
+- Charts, graphs and data visualizations 📈📊
+- Maps 🗺️
+- Background Jobs 🦸
+- Admin 🧑‍💼
+- Business Insights and Analytics 🕴️
+- SEO - Search Engine Optimization 🔎
+- Google Cloud Translate 🀄️
+- Quality Assurance, Testing, and Monitoring 🪳🧐
+- Style 🕺💃
+- Continuous Integration & Continuous Deployment (CI/CD) GitHub Actions 🔄
+- Hotwire/Turbo 🔥
+- Using Modules to Organize and DRY Up Your Code 🧱
+- Component-Based View Templates 🧩
+- N+1s, Caching and Performance 🏎️
+- Organizing JavaScript Code ☕️
+- OAuth 🪪
+- Testing your code with RSpec 🧪
+- Image Uploads with Ruby on Rails, Active Storage, and Amazon AWS S3 🌇☁️
+- Nesting Routes and Attributes 🪆
+- i18n 🔤➡️🀄️
+- Calendars, Dates, and Timezones 📆
+- Building for Mobile 📲
+- Active Record Callbacks ☎️
+- Polymorphism 🖇️
+- Semantic HTML and Accessibility 👓
+- Rich Text Editor 🖋️
+- Loading Spinner 😵‍💫
