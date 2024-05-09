@@ -10,6 +10,7 @@
 - [Sprint 5 Assignments](./sprint-5-assignments.md)
 - [Sprint 6 Assignments](./sprint-6-assignments.md)
 - [GitHub Workflow](./github-workflow.md)
+- [Building Your Own Idea](./building-your-own-idea.md)
 
 ## Meetings
 
