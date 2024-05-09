@@ -3,6 +3,8 @@
 ## Modules
 - [Getting Started](./getting-started.md)
 - [Technical Setup References](./technical-setup-references.md)
+- [Sprint 1 Assignments](./sprint-1-assignments.md)
+- [Sprint 2 Assignments](./sprint-2-assignments.md)
 
 ## Meetings
 
