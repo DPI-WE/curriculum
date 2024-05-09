@@ -8,6 +8,7 @@
 - [Sprint 3 Assignments](./sprint-3-assignments.md)
 - [Sprint 4 Assignments](./sprint-4-assignments.md)
 - [Sprint 5 Assignments](./sprint-5-assignments.md)
+- [Sprint 6 Assignments](./sprint-6-assignments.md)
 
 ## Meetings
 
