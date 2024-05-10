@@ -23,14 +23,13 @@
 - [Week 3](./week-3-meetings.md)
 - [Week 4](./week-4-meetings.md)
 - [Week 5](./week-5-meetings.md)
-
-- [Week 6]()
-- [Week 7]()
-- [Week 8]()
-- [Week 9]()
-- [Week 10]()
-- [Week 11]()
-- [Week 12]()
+- [Week 6](./week-6-meetings.md)
+- [Week 7](./week-7-meetings.md)
+- [Week 8](./week-8-meetings.md)
+- [Week 9](./week-9-meetings.md)
+- [Week 10](./week-10-meetings.md)
+- [Week 11](./week-11-meetings.md)
+- [Week 12](./week-12-meetings.md)
 
 ## Pre-requisites
 Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO)
