@@ -13,8 +13,8 @@
 - [Building Your Own Idea](./building-your-own-idea.md)
 - [Enrichment](./enrichment.md)
 - [Final Project](./final-project.md)
-
 - [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
+
 - [Next Steps](./next-steps.md)
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
 

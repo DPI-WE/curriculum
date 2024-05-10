@@ -174,13 +174,6 @@
   - https://strada.hotwired.dev/
   ```
 
-<!-- TODO: moved -->
-- Using Modules to Organize and DRY Up Your Code 🧱
-
-<!-- TODO: moved -->
-- Component-Based View Templates 🧩
-
-
 - N+1s, Caching and Performance 🏎️
   - [Learn](https://learn.firstdraft.com/lessons/299-rails-performance)
   - [GitHub](https://github.com/DPI-WE/rails-performance)
@@ -217,12 +210,6 @@
   - [GitHub](https://github.com/DPI-WE/building-for-mobile)
   - [Video](https://youtu.be/IDn4JQ85UUk)
   - [Pull Request](https://github.com/DPI-WE/readit/pull/32)
-
-<!-- TODO: moved -->
-- Active Record Callbacks ☎️
-
-<!-- TODO: moved -->
-- Polymorphism 🖇️
 
 <!-- TODO -->
 - Semantic HTML and Accessibility 👓
