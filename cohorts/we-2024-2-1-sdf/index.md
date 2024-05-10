@@ -11,8 +11,8 @@
 - [Sprint 6 Assignments](./sprint-6-assignments.md)
 - [GitHub Workflow](./github-workflow.md)
 - [Building Your Own Idea](./building-your-own-idea.md)
-
 - [Enrichment](./enrichment.md)
+
 - [Final Project](./final-project.md)
 - [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
 - [Next Steps](./next-steps.md)
