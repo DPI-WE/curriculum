@@ -1,19 +1,19 @@
 # GitHub Workflow
-- Pull Requests and Code Review 📝🔧🔍
+## Pull Requests and Code Review 📝🔧🔍
   ```md
   Let's talk about code review and pull requests
   - [Slides](https://github.com/DPI-WE/sdf-code-review)
   - [Video](https://youtu.be/QyI378QaCOA)
   ```
 
-- Fun Fact 🤪
+## Fun Fact 🤪
   ```md
   Let's add a fun fact to this repository https://github.com/DPI-WE/fun-facts
 
   Please submit the URL of your pull request once it's been approved and merged.
   ```
 
-- Link in Bio 🕴️
+## Link in Bio 🕴️
   ```md
   Let's add a fun fact to this repository https://github.com/DPI-WE/link-in-bio
 
@@ -22,14 +22,14 @@
   - [Video](https://youtu.be/6UXWxOx7Q6s)
   ```
 
-- First Project 🚀
+## First Project 🚀
   ```md
   Let's add a fun fact to this repository https://github.com/DPI-WE/first-project
 
   Please submit the URL of your pull request once it's been approved and merged.
   ```
 
-- Request to Meme 😂
+## Request to Meme 😂
   ```md
   Let's add a meme to this repository https://github.com/DPI-WE/request-to-meme
 
@@ -38,7 +38,7 @@
   [Video](https://youtu.be/WcxZXnXFaqE)
   ```
 
-- One Sentence Story 📖
+## One Sentence Story 📖
   ```md
   Let's create a story together in this repository https://github.com/DPI-WE/one-sentence-story
 
@@ -47,7 +47,7 @@
   [Video](https://youtu.be/tcg0YFCfSZw)
   ```
 
-- Contributing 🙋
+## Contributing 🙋
   ```md
   1. "Open Source" simply means you can look at the code yourself and make a contribution.
     - You can open any Ruby gem and inspect the source code. The best way to get better at writing code is by reading other people's code. 

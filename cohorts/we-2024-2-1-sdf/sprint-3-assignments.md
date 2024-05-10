@@ -1,21 +1,21 @@
 # Sprint 3: Assignments
-- Bulletin Board 1 📌
-  - [Learn](https://learn.firstdraft.com/lessons/136)
-  - [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
+## Bulletin Board 1 📌
+- [Learn](https://learn.firstdraft.com/lessons/136)
+- [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
 
-  - Reading: draft:resource generator 🏭
-    - [Learn](https://learn.firstdraft.com/lessons/133)
-    - [GitHub](https://github.com/appdev-lessons/draft-resource-generator)
+### Reading: draft:resource generator 🏭
+- [Learn](https://learn.firstdraft.com/lessons/133)
+- [GitHub](https://github.com/appdev-lessons/draft-resource-generator)
 
-- Bootstrapping Bulletin Board 1 📌
-  - [Learn](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1)
-  - [GitHub](https://github.com/appdev-lessons/bootstrap-bulletin-board-1)
+## Bootstrapping Bulletin Board 1 📌
+- [Learn](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1)
+- [GitHub](https://github.com/appdev-lessons/bootstrap-bulletin-board-1)
 
-- Bulletin Board 2 (User Accounts) 👥
-  - [Learn](https://learn.firstdraft.com/lessons/137)
-  - [GitHub](https://github.com/appdev-lessons/bulletin-board-2)
+## Bulletin Board 2 (User Accounts) 👥
+- [Learn](https://learn.firstdraft.com/lessons/137)
+- [GitHub](https://github.com/appdev-lessons/bulletin-board-2)
 
-- Must See Movies with Generators
+## Must See Movies with Generators
 ```md
 There is no project associated with this assignment. Just take some time and watch this video, in which I build a Must See Movies application from scratch using generators.
 
@@ -33,6 +33,6 @@ Got it? Alright, now:
 [Sit back, relax, and enjoy the video here](https://share.descript.com/view/vOLIJdopRSz).
 ```
 
-- Delivery Tracker 1 🚚 📦📋
+## Delivery Tracker 1 🚚 📦📋
   - [Learn](https://learn.firstdraft.com/lessons/205-delivery-tracker-1)
   - [GitHub](https://github.com/appdev-lessons/delivery-tracker-1)

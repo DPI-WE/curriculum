@@ -1,5 +1,5 @@
 # Building Your Own Idea
-- Building your own idea 💡
+## Building your own idea 💡
   - [Video](https://youtu.be/4uxzx9Pevcs)
   ```md
   Can you now identify a problem that can be solved with software and build something to test your theory?
@@ -47,12 +47,12 @@
   - Showcase slides 🖼️
   ```
 
-- Requests for Projects 🤝
+## Requests for Projects 🤝
 ```md
 Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get an idea for the types of projects we're looking for. I strongly encourage you to read through this document and think about projects that can make your portfolio stand out to potential employers.
 ```
 
-- "Noticing" a Project Idea 🤔
+## "Noticing" a Project Idea 🤔
   - **Points**: 2
   - **Submitting**: a website url
   - [Slides](https://github.com/DPI-WE/sdf-noticing-a-project-idea)
@@ -63,7 +63,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
   **Assignment**: Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet. We want to make sure you have at lest considered a few ideas before building anything. Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking. [Here's a great example from last cohort](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0).
   ```
 
-- Pain Points 🥲
+## Pain Points 🥲
   - **Points**: 2
   - **Submitting**: a text entry box
   - [Slides](https://github.com/DPI-WE/sdf-pain-points)
@@ -74,7 +74,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
   **Assignment**: What pain point do you plan to address? How do you plan to solve it? Is it a vitamin, pain killer, or cure?
   ```
 
-- Keep it simple 😽
+## Keep it simple 😽
   - **Points**: 2
   - **Submitting**: a text entry box or a website url
   - [Slides](https://github.com/dpi-we/sdf-keep-it-simple)
@@ -85,7 +85,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
   **Assignment**: What's the smallest thing you can build right now that will allow you to test one assumption? Please submit a few essential user stories and the hypothesis you are testing.
   ```
 
-- Sketches ✍️
+## Sketches ✍️
   - **Points**: 2
   - **Submitting**: a text entry box, a website url, or a file upload
   ```md
@@ -110,7 +110,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
   **Assignment**: Please submit some sketches of your idea. Maybe a few different screens of a flow or different takes on the most important screen in the app. 
   ```
 
-- User Stories 📖
+## User Stories 📖
   - **Points**: 2
   - **Submitting**: a text entry box or a website url
   ```md
@@ -129,7 +129,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
   **Assignment**: Please submit a few potential user stories for your idea. Remember to phrase them from the user perspective. "As a **role**, I want to be able to **capability**," (and, optionally), "so that **benefit**."
   ```
 
-- Domain model 🤓
+## Domain model 🤓
   ```md
   Before we begin writing code, we want to have our complete domain model in hand:
 
@@ -155,7 +155,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
       Please submit a screenshot of your entity relationship diagram (ERD) using the [first draft Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com/)
       ```
 
-- User Feedback 🗣️
+## User Feedback 🗣️
   - **Points**: 2
   - **Submitting**: a text entry box
   - [Slides](https://github.com/heratyian/user-feedback)
@@ -166,7 +166,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
   **Assignment**: Who is your user? Can you develop a "persona" of your target user? What are some good questions you can ask them to understand what to build?
   ```
 
-- Estimating and prioritizing work 🤔
+## Estimating and prioritizing work 🤔
   - **Points**: 2
   - **Submitting**: a text entry box or a website url
   - [Slides](https://github.com/DPI-WE/sdf-estimating-and-prioritizing/)
@@ -187,7 +187,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
     - low effort
   ```
 
-- Functional Specification 📝
+## Functional Specification 📝
   - **Points**: 2
   - **Submitting**: a website url
   - [Video](https://youtu.be/twc8BAyKuWE)
@@ -216,7 +216,7 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
 
 We strongly suggest you get approval from an instructor for your project idea before building anything.
 
-- Getting started 🎬
+## Getting started 🎬
   - **Points**: 2
   - **Submitting**: a website url
   ```md
@@ -241,7 +241,7 @@ We strongly suggest you get approval from an instructor for your project idea be
   **Assignment**: Please submit your GitHub Repository URL
   ```
 
-- Launch 🚀
+## Launch 🚀
   - **Points**: 2
   - **Submitting**: a website url
   - [Video](https://youtu.be/rSwtMEx5h-I)
@@ -257,7 +257,7 @@ We strongly suggest you get approval from an instructor for your project idea be
   **Assignment**: Please submit your URL once you launch. You may want to purchase a Domain Name 🌐.
   ```
 
-- How to get your first 5 users (and convert them to customers) 5️⃣📲🥳
+## How to get your first 5 users (and convert them to customers) 5️⃣📲🥳
   - **Points**: 2
   - **Submitting**: a text entry box or a file upload
   - [Slides](https://github.com/DPI-WE/how-to-get-your-first-5-users-customers)

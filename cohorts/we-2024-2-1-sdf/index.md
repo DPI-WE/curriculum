@@ -17,47 +17,26 @@
 - [Next Steps](./next-steps.md)
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
 
-<!-- TODO -->
 ## Meetings
+- [Week 1](./week-1-meetings.md)
+- [Week 2](./week-2-meetings.md)
+- [Week 3](./week-3-meetings.md)
+- [Week 4](./week-4-meetings.md)
+- [Week 5](./week-5-meetings.md)
 
-### Week 1
-- Sprint 1: Meetings
-- Overview 😀
-  - [Slides](https://dpi-we.github.io/sdf-overview/)
-  - [GitHub](https://github.com/DPI-WE/sdf-overview)
-- Record Keeping 📑
-  - [Slides](https://dpi-we.github.io/sdf-record-keeping/)
-  - [GitHub](https://github.com/DPI-WE/sdf-record-keeping)
-- Must See Movies 🎞️
-- NOT the solution, but has a join table: Must See Movies 🎞️ (Sample tables/records)
-- Records and Relationships 🔗
-  - [Lecture 02/2024](https://www.youtube.com/watch?v=2XXdLZNNEFo)
-  - [Slides](https://dpi-we.github.io/sdf-records-and-relationships/)
-  - [GitHub](https://github.com/DPI-WE/sdf-records-and-relationships)
-
-### Week 2
-- Sprint 2: Meetings
-- Photogram 📸
-- Entity Relationship Diagram (ERD) tool 📊
-- Introduction to Bootstrap 🥾
-  - Reading: Design Resources 🧑‍🎨
-- Todo List 📝
-
-### Week 3
-- Very Best 🏆
-- Cargo Cults 🪂
-- Yap 🍔
-  - Yap 🍔 (Sample tables/records)
-
-### Week 4
-- Offer Right 🤝
-  - Offer Right (example solution) 🛒 💡
+- [Week 6]()
+- [Week 7]()
+- [Week 8]()
+- [Week 9]()
+- [Week 10]()
+- [Week 11]()
+- [Week 12]()
 
 ## Pre-requisites
 Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO)
 
 ## How to navigate this course
-- This course is broken up into modules: 
+- This course is broken up into modules 
 - You must complete each module before advancing.
 - We created optional reference modules with resources to support your learning if you want to dig deeper
 - We created deadlines for assignments to help you stay on track for job placement. If you find yourself falling behind, don't get discouraged. We encourage you to keep working through the material. There is no penalty for completing an assignment late.

@@ -36,6 +36,8 @@ For example, I feel like I learn something new every time I read the [Routing Gu
 Peruse through the Rails Guides. You don't have to read them word for word, but get a sense of what's in there so that it rings a bell when you run into a use case. Think of questions to discuss next time (or post them on Ask).
 ```
 
+- (Reading) [Understanding the Rails Application Structure](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj)
+
 - Contact Book: Our very first database 📒
   - [Learn](https://learn.firstdraft.com/lessons/130)
   - [GitHub](https://github.com/appdev-lessons/contact-book-first-database)
@@ -60,6 +62,7 @@ Then try out these fun games:
 ```
 
 - [(Optional) SQL for the weary 😰](https://gvwilson.github.io/sql-tutorial/)
+- [(Optional) SQL Tutorial](https://www.w3schools.com/sql/)
 - (Optional) Top 50 SQL Interview Questions 💪
 ```md
 Looking to refine your SQL skills and prep for that big interview? Here are the [top 50 SQL questions to crack the coding interview](https://leetcode.com/studyplan/top-sql-50/).
