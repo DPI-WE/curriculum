@@ -1,5 +1,7 @@
 # Writing and Documentation
 
+<!-- TODO: add overview -->
+
 ## TIL Blog 📝
 ```md
 Keeping a learning journal is extremely valuable for software developers, for many reasons:
