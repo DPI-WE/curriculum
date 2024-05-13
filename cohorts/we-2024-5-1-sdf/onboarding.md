@@ -2,10 +2,16 @@
 <!-- TODO: anything else needed here? eg attendance, schedule, expectations, etc. -->
 # Onboarding
 
+Requirements
+- must complete all of these requirements
+- must move through requirements in sequential order
+
 ## Welcome!
+- **Requirements**: mark as done
 <!-- TODO: add welcome video -->
 
 ## Join Discord chat 💬
+- **Requirements**: mark as done
 ```md
 Join the Discord server to chat with your classmates and instructors. (link on home page)
 
@@ -17,6 +23,7 @@ Discord Server Rules
 ```
 
 ## Setup your email 📧
+- **Requirements**: submit the assignment
 <!-- TODO: emphasize setting it up on phone, computer, etc. and to check it frequently -->
 <!-- add why we do this -->
 ```md
@@ -24,10 +31,11 @@ Please setup an email client with your account. I use the built in email client 
 
 ![](./assets/email.png)
 
-Please submit the name of the email client you will be using in class.
+**Assignment**: Please submit the name of the email client you will be using in class.
 ```
 
 ## Setup your calendar 📅
+- **Requirements**: submit the assignment
 <!-- TODO: emphasize importance to minding your calendar -->
 ```md
 Canvas has a really neat feature: the Calendar.
@@ -59,11 +67,12 @@ Employees are expected to monitor their calendar. This is a good opportunity to 
 
 Please subscribe to the canvas calendar feed and submit the name of your preferred calendar app.
 
-**Enter the name of your calendar application you're using to subscribe to the canvas calendar.**
+**Assignment**: Enter the name of your calendar application you're using to subscribe to the canvas calendar.
 ```
 
 
 ## Learn: create an account ✏️
+- **Requirements**: mark as done
 ```md
 We will be using a platform called Learn to host project notes, embedded quizzes, and to launch GitHub projects.
 
@@ -103,6 +112,8 @@ Here are some examples from previous cohorts:
 ```
 
 ## Daily Stand-ups 🌟 <!-- Discuss more on agile/scrum ceremonies? retro on fridays, etc. -->
+<!-- TODO: convert to Learn lesson for scoring -->
+- **Requirements**: score at least 2/2
 ```md
 Daily "stand-ups" are a very common practice on "agile" development teams.
 A quick meeting — 10 minutes or less — for the entire team to check in with each other. It's called "stand-up" because it's supposed to be short enough to stand for the entire thing.
