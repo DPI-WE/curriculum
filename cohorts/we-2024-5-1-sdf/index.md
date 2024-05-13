@@ -4,8 +4,7 @@
 ## Modules
 - [Onboarding](./onboarding.md)
 - [Technical Setup References](./technical-setup-references.md)
-- [Asking Questions](./asking-questions.md)
-- [Writing and Documentation](./writing-and-documentation.md)
+- [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
 - [Routing and Forms](./routing-and-forms.md)
 - [Databases and SQL](./databases-and-sql.md)
 - [Domain Modeling](./domain-modeling.md)
