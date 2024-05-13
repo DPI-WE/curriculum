@@ -36,6 +36,7 @@
 ### Week 1
 - [Overview 😀](./onboarding.md#overview-😀)
 - [Record Keeping 📑](./domain-modeling.md#record-keeping-📑)
+- [Must See Movies 🎞️](./domain-modeling.md#must-see-movies-🎞️)
 - [Records and Relationships 🔗](./domain-modeling.md#records-and-relationships-🔗)
 <!-- TODO: might need more here -->
 

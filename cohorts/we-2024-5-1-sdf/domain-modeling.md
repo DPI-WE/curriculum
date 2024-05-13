@@ -3,7 +3,8 @@
 ## Record Keeping 📑
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 - [Video](https://youtu.be/Pe9b52rmhkQ)
-- Must See Movies 🎞️
+
+## Must See Movies 🎞️
 - **Points**: 2
 - **Submitting**: a text entry box
 ```md
@@ -15,7 +16,7 @@ Lets examine an [application](https://msm-associations.matchthetarget.com/) that
 
 **Assignment**: Please submit a list of the tables/columns needed to store all of the information required to power this app.
 ```
-- [Solution: Must See Movies 🎞️ ](./assets/must-see-movies-tables.pdf)
+### [Solution: Must See Movies 🎞️ ](./assets/must-see-movies-tables.pdf)
 
 ## Records and Relationships 🔗
 - **Points**: 2
