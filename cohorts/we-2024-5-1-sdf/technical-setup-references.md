@@ -1,5 +1,8 @@
 # Technical Setup References
-- Setup References (forking, 💻 coding, 📊 grading, 🐱‍💻 git, etc.)
+
+Prerequisites: Onboarding
+
+## Setup References (forking, 💻 coding, 📊 grading, 🐱‍💻 git, etc.)
 ```md
 Here is your one-stop-shop for technical references. You completed many of these steps during the "Hello, world" deployment lesson, but these lessons provide dedicated expansions on some key topics. Keep this page handy, and skim through the materials now.
 
