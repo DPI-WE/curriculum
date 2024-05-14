@@ -64,29 +64,23 @@
 
 ### Week 5
 - [Pain Points 🥲](./building-your-own-idea.md#pain-points-🥲)
-
 - [Must See Movies with Generators](./generators-and-user-accounts.md#must-see-movies-with-generators)
 - [Reading: draft:resource generator 🏭](./generators-and-user-accounts.md#reading-draftresource-generator-🏭)
 - [Migrations 🕰️](./databases-and-sql.md#database-migrations-🕰️)
-
 - [Keep it simple 😽](./building-your-own-idea.md#keep-it-simple-😽)
 - [Sketches ✍️](./building-your-own-idea.md#sketches-✍️)
 - [User Stories 📖](./building-your-own-idea.md#user-stories-📖)
 - [Domain model 🤓](./building-your-own-idea.md#domain-model-🤓)
-
-[Request to Meme 😂](./github-workflow.md#request-to-meme-😂)
+- [Request to Meme 😂](./github-workflow.md#request-to-meme-😂)
 
 We'll also do a live code review and talk about best practices.
 
 ### Week 6
 - [Photogram Industrial Authorization 🔒](./photogram-industrial-grade.md#photogram-industrial-authorization-🔒)
 - [Reading: Authorization with Pundit 🔒](./photogram-industrial-grade.md#reading-authorization-with-pundit-🔒)
-
 - [User Feedback 🗣️](./building-your-own-idea.md#user-feedback-🗣️)
-
 - [One Sentence Story 📖](./github-workflow.md#one-sentence-story-📖)
 - [Contributing 🙋](./github-workflow.md#contributing-🙋)
-
 - [Getting started 🎬](./building-your-own-idea.md#getting-started-🎬)
 - [Estimating and prioritizing work 🤔](./building-your-own-idea.md#estimating-and-prioritizing-work-🤔)
 
@@ -111,12 +105,9 @@ We'll also do a live code review and talk about best practices.
 ### Week 9
 - [CSV 📁](./data-extract-transform-load.md#csv-📁)
 - [Web scraping 🌐](./data-extract-transform-load.md#web-scraping-🌐)
-
 - [Admin 🧑‍💼](./visualization-and-reporting.md#admin-🧑‍💼)
 - [Business Insights and Analytics 🕴️](./visualization-and-reporting.md#business-insights-and-analytics-🕴️)
-
 - [Image Uploads with Ruby on Rails, Active Storage, and Amazon AWS S3 🌇☁️](./cloud.md#image-uploads-with-ruby-on-rails-active-storage-and-amazon-aws-s3-🌇☁️)
-
 - [Launch 🚀](./building-your-own-idea.md#launch-🚀)
 
 ### Week 10
