@@ -103,3 +103,8 @@ All of these open source libraries are listed on https://rubygems.org. If you're
 
 **Optional Assignment**: Make a contribution to open source and share a link/screenshot of your contribution. Share knowledge, submit an issue, ask a question, review a pull request, work on a bounty etc. You may even submit an issue for an assignment or slide deck if you think there is a bug or something is not clear.
 ```
+
+## Continuous Integration & Continuous Deployment (CI/CD) GitHub Actions 🔄
+- [Learn](https://learn.firstdraft.com/lessons/402-continuous-integration-continuous-deployment)
+- [GitHub](https://github.com/DPI-WE/continuous-integration-continuous-deployment)
+- [Pull Request](https://github.com/DPI-WE/readit/pull/30)

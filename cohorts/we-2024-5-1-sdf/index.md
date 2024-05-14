@@ -4,11 +4,12 @@
 ## Modules
 - [Onboarding](./onboarding.md)
 - [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
-- [Routing and Forms](./routing-and-forms.md)
+- [Route, Controller, Action, View (RCAV)](./route-controller-action-view.md)
 - [Databases and SQL](./databases-and-sql.md)
 - [Domain Modeling](./domain-modeling.md)
 - [Object Relational Mapping (ORM), Rich Domain Models, and CRUD](./orm-rich-models-and-crud.md)
-- [HTML, CSS, Design, and User Interfaces](./html-css-design-and-user-interfaces.md)
+- [HTML, CSS, and Design](./html-css-and-design.md)
+- [User Interface](./user-interface.md)
 - [Development Tooling and Practices](./development-tooling-and-practices.md)
 - [Building Your Own Idea](./building-your-own-idea.md)
 - [Generators and User Accounts](./generators-and-user-accounts.md)
@@ -18,7 +19,9 @@
 - [Javascript](./javascript.md)
 - [Data (Extract, Transform, and Load)](./data-extract-transform-load.md)
 - [Performance and Optimization](./performance-and-optimization.md)
-- [Visualization and Reporting](./visualization-and-reporting.md)
+- [Quality Assurance, Testing, and Monitoring](./qa-testing-and-monitoring.md)
+- [Application Management, Analytics and Insights](./application-management-analytics-and-insights.md)
+- [Search Engine Optimization (SEO)](./seo.md)
 - [Artificial Inteligence](./artificial-inteligence.md)
 - [Authentication, Authorization, and Security](./authentication-authorization-and-security.md)
 - [Cloud](./cloud.md)
@@ -26,10 +29,11 @@
 - [Payment Solutions](./payment-solutions.md)
 - [Communication and Notifications](./communication-and-notifications.md)
 - [API Development](./api-development.md)
-- [Final Project](./final-project.md)
 - [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
+- [Final Project](./final-project.md)
 - [Next Steps](./next-steps.md)
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
+- [Stacks on Stacks](./stacks-on-stacks.md)
 
 ## Meetings
 ### Week 1
@@ -37,7 +41,13 @@
 - [Record Keeping 📑](./domain-modeling.md#record-keeping-📑)
 - [Must See Movies 🎞️](./domain-modeling.md#must-see-movies-🎞️)
 - [Records and Relationships 🔗](./domain-modeling.md#records-and-relationships-🔗)
-<!-- TODO: might need more here -->
+<!-- TODO
+  might need more here
+  maybe go over shortcuts, vscode, terminal, mac tips, etc. ?
+  ./development-tooling-and-practices.md#VS-Code-and-the-terminal
+
+  or move up bootstrap
+-->
 
 ### Week 2
 - [Photogram 📸](./domain-modeling.md#photogram-📸)

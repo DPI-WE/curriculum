@@ -104,7 +104,7 @@ You can close this browser tab when you've completed the sign up.
 - [GitHub](https://github.com/appdev-lessons/using-rake-grade)
 ```
 
-## Log in to DPI Dashboard 🌐 <!-- TODO: move to resumes, networking, and career development? -->
+## Log in to DPI Dashboard 🌐 <!-- TODO: move to career development? -->
 ```md
 Please go to https://dashboard.dpi.dev
 

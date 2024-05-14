@@ -90,20 +90,7 @@ Checkout this wonderful guide to setting up Ruby and Rails on your own machine. 
 - [Learn](https://learn.firstdraft.com/lessons/290-debugging)
 - [GitHub](https://github.com/DPI-WE/debugging)
 
-## Quality Assurance, Testing, and Monitoring 🪳🧐
-- [Learn](https://learn.firstdraft.com/lessons/399-rails-qa-testing)
-- [GitHub](https://github.com/DPI-WE/rails-qa-testing)
-- [Video](https://youtu.be/aIbkLU8av0A)
-
 ## Style Guides and Linters 🕺💃
 - [Learn](https://learn.firstdraft.com/lessons/390-style)
 - [GitHub](https://github.com/DPI-WE/style)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/27)
-
-## Continuous Integration & Continuous Deployment (CI/CD) GitHub Actions 🔄
-- [Learn](https://learn.firstdraft.com/lessons/402-continuous-integration-continuous-deployment)
-- [GitHub](https://github.com/DPI-WE/continuous-integration-continuous-deployment)
-- [Pull Request](https://github.com/DPI-WE/readit/pull/30)
-
-<!-- TODO: move to testing module? -->
-## Testing your code with RSpec 🧪

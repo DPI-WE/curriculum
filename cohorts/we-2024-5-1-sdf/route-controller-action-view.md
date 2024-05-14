@@ -1,4 +1,4 @@
-# Routing and Forms
+# Route, Controller, Action, View (RCAV)
 ## Rails: Rock, Paper, Scissors 🪨🧻✂️
 - [Learn](https://learn.firstdraft.com/lessons/119)
 - [GitHub](https://github.com/appdev-lessons/rails-rps)
@@ -24,10 +24,10 @@
 - [GitHub](https://github.com/appdev-lessons/rails-omnicalc-2)
 
 <!-- TODO -->
-### Nesting Routes and Attributes 🪆
+## Nesting Routes and Attributes 🪆
 
 <!-- TODO: make optional? -->
-### QR Code 🤳
+## QR Code 🤳
 ```md
 In this project we'll practice RCAV and query string params by building a web-based QR code generator.
 
