@@ -2,6 +2,8 @@
 
 <!-- TODO: due dates and pre-requisites -->
 ## Modules
+
+### Web Development
 - [Onboarding](./onboarding.md)
 - [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
 - [Route, Controller, Action, View (RCAV)](./route-controller-action-view.md)
@@ -11,12 +13,15 @@
 - [HTML, CSS, and Design](./html-css-and-design.md)
 - [User Interface](./user-interface.md)
 - [Development Tooling and Practices](./development-tooling-and-practices.md)
-- [Building Your Own Idea](./building-your-own-idea.md)
 - [Generators and User Accounts](./generators-and-user-accounts.md)
 - [Scaffolding and Helper Methods](./scaffolding-and-helper-methods.md)
 - [GitHub Workflow](./github-workflow.md)
 - [Photogram: Industrial Grade](./photogram-industrial-grade.md)
 - [Javascript](./javascript.md)
+- [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
+
+### Project
+- [Building Your Own Idea](./building-your-own-idea.md)
 - [Data (Extract, Transform, and Load)](./data-extract-transform-load.md)
 - [Performance and Optimization](./performance-and-optimization.md)
 - [Quality Assurance, Testing, and Monitoring](./qa-testing-and-monitoring.md)
@@ -29,8 +34,9 @@
 - [Payment Solutions](./payment-solutions.md)
 - [Communication and Notifications](./communication-and-notifications.md)
 - [API Development](./api-development.md)
-- [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
 - [Final Project](./final-project.md)
+
+### Bridge
 - [Next Steps](./next-steps.md)
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
 - [Stacks on Stacks](./stacks-on-stacks.md)
