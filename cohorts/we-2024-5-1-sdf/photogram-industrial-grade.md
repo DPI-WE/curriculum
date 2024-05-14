@@ -16,6 +16,7 @@
 ```md
 IMPORTANT: Please make sure to submit a pull request to merge into the `main` branch of <u>your own repository</u>. We do not want to submit requests to pull into the `appdev-projects` repository! 😵‍💫
 
+<!-- todo: swap out TA -->
 Please invite Fidel Leal (@flealc on Github) to collaborate on your repository. Also, be sure to **assign @flealc to review your pull request**.
 ```
 
@@ -30,6 +31,7 @@ Please invite Fidel Leal (@flealc on Github) to collaborate on your repository. 
 
 ### Pull Request URL for Photogram Industrial: starting-on-ui > photogram-industrial 📥📋
 ```md
+<!-- todo: swap out TA -->
 Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your repository. Also, be sure to **assign @ajmompr to review your pull request**.
 ```
 
@@ -44,6 +46,7 @@ Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your reposi
 
 ### Pull Request URL for Photogram Industrial: profile-page > starting-on-ui 📥📋
 ```md
+<!-- todo: swap out TA -->
 Please invite Carlos Castaneda (@CarlosCastanedaDev on Github) to collaborate on your repository. Also, be sure to **assign @CarlosCastanedaDev to review your pull request**.
 ```
 #### Pull Request URL for Photogram Industrial: profile-page > starting-on-ui 📥📋 (giving a code review)
@@ -53,6 +56,7 @@ Please invite Carlos Castaneda (@CarlosCastanedaDev on Github) to collaborate on
 
 ### Pull Request URL for Photogram Industrial: tabbed-interface > profile-page 📥📋
 ```md
+<!-- todo: swap out TA -->
 Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your repository. Also, be sure to **assign @ajmompr to review your pull request**.
 ```
 
@@ -67,6 +71,7 @@ Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your reposi
 
 ### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋
 ```md
+<!-- todo: swap out TA -->
 Please invite Jorge Gomez (@gomezzzer on Github) to collaborate on your repository. Also, be sure to **assign @gomezzzer to review your pull request**.
 ```
 
