@@ -1,4 +1,4 @@
-# Software Development Foundations (we-2024-2-1-sdf)
+# Software Development Foundations (we-2024-5-1-sdf)
 
 <!-- TODO: due dates and pre-requisites -->
 ## Modules
