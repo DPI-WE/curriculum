@@ -4,6 +4,7 @@
 - [Learn](https://learn.firstdraft.com/lessons/136)
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
 
+<!-- TODO: clarify that draft:resource is only for our learning purposes-->
 ### Reading: draft:resource generator 🏭
 - [Learn](https://learn.firstdraft.com/lessons/133)
 - [GitHub](https://github.com/appdev-lessons/draft-resource-generator)
@@ -34,6 +35,7 @@ Got it? Alright, now:
 [Sit back, relax, and enjoy the video here](https://share.descript.com/view/vOLIJdopRSz).
 ```
 
+<!-- TODO: maybe make this a mid-term? -->
 ## Delivery Tracker 1 🚚 📦📋
 - [Learn](https://learn.firstdraft.com/lessons/205-delivery-tracker-1)
 - [GitHub](https://github.com/appdev-lessons/delivery-tracker-1)
