@@ -16,7 +16,7 @@
 - [Generators and User Accounts](./generators-and-user-accounts.md)
 - [Scaffolding and Helper Methods](./scaffolding-and-helper-methods.md)
 - [GitHub Workflow](./github-workflow.md)
-- [Photogram: Industrial Grade](./photogram-industrial-grade.md)
+- [Industrial Grade Application: Photogram](./photogram-industrial-grade.md)
 - [Javascript](./javascript.md)
 - [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
 

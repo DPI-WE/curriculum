@@ -1,4 +1,4 @@
-# Photogram: Industrial Grade
+# Industrial Grade Application: Photogram
 <!-- Students must move through requirements in sequential order -->
 <!-- TODO: add point requirements -->
 
