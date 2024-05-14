@@ -1,4 +1,3 @@
-<!-- TODO: simplify -->
 <!-- TODO: anything else needed here? eg attendance, schedule, expectations, etc. -->
 # Onboarding
 
@@ -93,7 +92,19 @@ In the future, to get back the list of lessons you've begun, click on the "first
 You can close this browser tab when you've completed the sign up.
 ```
 
-## Log in to DPI Dashboard 🌐 <!-- TODO: move to resumes, networking, and career development -->
+<!-- Paired with Learn -->
+### Learn: Setup References (forking, 💻 coding, 📊 grading, etc.)
+```md
+## Forking, Setting up a Codespace, and using `rake grade`
+- [Learn](https://learn.firstdraft.com/lessons/46)
+- [GitHub](https://github.com/appdev-lessons/project-setup)
+
+## Notes about `rake grade`
+- [Learn](https://learn.firstdraft.com/lessons/125)
+- [GitHub](https://github.com/appdev-lessons/using-rake-grade)
+```
+
+## Log in to DPI Dashboard 🌐 <!-- TODO: move to resumes, networking, and career development? -->
 ```md
 Please go to https://dashboard.dpi.dev
 

@@ -1,5 +1,16 @@
 # Development Tooling and Practices
 
+## VS Code and the terminal
+- [Learn](https://learn.firstdraft.com/lessons/61)
+- [GitHub](https://github.com/appdev-lessons/vscode-terminal/)
+
+## Tips and Tricks: hard refreshing and keyboard shortcuts
+- [Learn](https://learn.firstdraft.com/lessons/31)
+- [GitHub](https://github.com/appdev-lessons/tips-and-tricks)
+
+## Mac tips & tricks
+- [Learn](https://learn.firstdraft.com/lessons/2)
+
 ## Create a Workspace folder 👷
 ```md
 It's a best practice to keep 1 workspace folder for all of your code. Let's set that up now.
@@ -94,5 +105,5 @@ Checkout this wonderful guide to setting up Ruby and Rails on your own machine. 
 - [GitHub](https://github.com/DPI-WE/continuous-integration-continuous-deployment)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/30)
 
-<!-- TODO -->
+<!-- TODO: move to testing module? -->
 ## Testing your code with RSpec 🧪

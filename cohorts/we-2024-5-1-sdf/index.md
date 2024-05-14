@@ -3,7 +3,6 @@
 <!-- TODO: due dates and pre-requisites -->
 ## Modules
 - [Onboarding](./onboarding.md)
-- [Technical Setup References](./technical-setup-references.md)
 - [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
 - [Routing and Forms](./routing-and-forms.md)
 - [Databases and SQL](./databases-and-sql.md)

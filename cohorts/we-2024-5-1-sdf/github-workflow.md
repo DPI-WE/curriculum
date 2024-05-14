@@ -19,11 +19,19 @@ Here are the steps to update your 'display name':
 ![](./assets/sign-up-for-github-5.png)
 ```
 
+## Git: (alway be) committing and push to publish
+- [Learn](https://learn.firstdraft.com/lessons/50)
+- [GitHub](https://github.com/appdev-lessons/git-commit-and-push)
+
 ## Reading: Command-line Git basics 🪄
 - [Learn](https://learn.firstdraft.com/lessons/196-git-cli)
 - [GitHub](https://github.com/appdev-lessons/git-cli)
 
-<!-- TODO: add vscode git gui basics -->
+<!-- TODO: add vscode git gui basics? -->
+
+## (optional) Sidequest: branching and merging
+- [Learn](https://learn.firstdraft.com/lessons/54)
+- [GitHub](https://github.com/appdev-lessons/git-branch-and-merge)
 
 ## Pull Requests and Code Review 📝🔧🔍
 ```md

@@ -117,4 +117,22 @@ If you want to go a step further, make your notes folder a git repository. That 
 Please submit a screenshot showing this notes folder with a markdown file for todays notes.
 ```
 
-<!-- TODO: details on how to read/write a README -->
+<!-- TODO: make this a documentation assignment? -->
+## Rails Guides 🦮
+- **Prerequisites**: routing and forms
+s
+```md
+The [Rails Guides](https://guides.rubyonrails.org/) are a terrific resource, and you now have the vocabulary to understand the gist of most of them. Especially these:
+
+![](./assets/rails-guides.png)
+
+For example, I feel like I learn something new every time I read the [Routing Guide](https://guides.rubyonrails.org/routing.html)
+
+Peruse through the Rails Guides. You don't have to read them word for word, but get a sense of what's in there so that it rings a bell when you run into a use case. Think of questions to discuss next time (or post them on Ask).
+```
+
+- [devdocs.io](https://devdocs.io/)
+<!-- TODO: add api.rubyonrails.org docs -->
+
+
+<!-- TODO: lesson on how to read/write a README -->
