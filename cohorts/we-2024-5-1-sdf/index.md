@@ -41,6 +41,7 @@
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
 - [Stacks on Stacks](./stacks-on-stacks.md)
 
+<!-- TODO: fix meeting links 😅 -->
 ## Meetings
 ### Week 1
 - [Overview 😀](./onboarding.md#overview-😀)
