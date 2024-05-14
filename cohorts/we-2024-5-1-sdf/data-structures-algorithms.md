@@ -1,4 +1,13 @@
 # Data Structures, Algorithms, and Acing Coding Interviews
+
+**Prerequisites**:
+- Final Project
+
+**Requirements**:
+- must complete all of these requirements
+
+<!-- TODO: overview -->
+
 ## Introduction to Data Structures, Algorithms, and Acing Coding Interviews
 - **Points**: 5
 - [Learn](https://learn.firstdraft.com/lessons/330-ruby-data-structures-algorithms-intro)

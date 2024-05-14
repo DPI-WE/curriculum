@@ -1,7 +1,7 @@
 <!-- TODO: anything else needed here? eg attendance, schedule, expectations, etc. -->
 # Onboarding
 
-Requirements:
+**Requirements**:
 - must complete all of these requirements
 - must move through requirements in sequential order
 

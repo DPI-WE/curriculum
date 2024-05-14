@@ -1,4 +1,9 @@
-# Artificial Inteligence
+# Artificial Intelligence
+
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
 
 ## ChatGPT 🧠
 - [Video](https://www.youtube.com/watch?v=0j097m8M4T4)

@@ -1,5 +1,9 @@
-<!-- TODO: maybe rename "Visibility and Engagement Techniques" or "Search Engine Optimization (SEO) -->
 # Search Engine Optimization (SEO)
+
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
 
 ## SEO - Search Engine Optimization 🔎
 - [Learn](https://learn.firstdraft.com/lessons/400-search-engine-optimization)

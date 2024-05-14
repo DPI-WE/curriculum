@@ -1,5 +1,10 @@
 # Payment Solutions
 
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Payments 🤑
 - [Video](https://youtu.be/iTR6_eIlHzA)
 ```md

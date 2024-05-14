@@ -1,5 +1,15 @@
 # Development Tooling and Practices
 
+**Prerequisites**:
+- onboarding
+- Writing, Documentation, and Asking Questions
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## VS Code and the terminal
 - [Learn](https://learn.firstdraft.com/lessons/61)
 - [GitHub](https://github.com/appdev-lessons/vscode-terminal/)

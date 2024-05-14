@@ -1,4 +1,12 @@
 # Next Steps
+
+**Prerequisites**:
+- Final Project
+
+**Requirements**:
+
+<!-- TODO: overview -->
+
 ## [Video](https://youtu.be/PQc5NR6ZE6c)
 
 ## Impostor Syndrome 🥸

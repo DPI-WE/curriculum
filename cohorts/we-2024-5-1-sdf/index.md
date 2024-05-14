@@ -1,33 +1,33 @@
 # Software Development Foundations (we-2024-5-1-sdf)
 
-<!-- TODO: due dates and pre-requisites -->
+<!-- TODO: due dates, pre-requisites, requirements and points -->
 ## Modules
 
 ### Web Development
 - [Onboarding](./onboarding.md)
 - [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
+- [Development Tooling and Practices](./development-tooling-and-practices.md)
+- [HTML, CSS, and Design](./html-css-and-design.md)
 - [Route, Controller, Action, View (RCAV)](./route-controller-action-view.md)
 - [Databases and SQL](./databases-and-sql.md)
 - [Domain Modeling](./domain-modeling.md)
 - [Object Relational Mapping (ORM), Rich Domain Models, and CRUD](./orm-rich-models-and-crud.md)
-- [HTML, CSS, and Design](./html-css-and-design.md)
-- [User Interface](./user-interface.md)
-- [Development Tooling and Practices](./development-tooling-and-practices.md)
 - [Generators and User Accounts](./generators-and-user-accounts.md)
 - [Scaffolding and Helper Methods](./scaffolding-and-helper-methods.md)
 - [GitHub Workflow](./github-workflow.md)
 - [Industrial Grade Application: Photogram](./photogram-industrial-grade.md)
 - [Javascript](./javascript.md)
-- [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
 
 ### Project
 - [Building Your Own Idea](./building-your-own-idea.md)
+- [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
+- [User Interface](./user-interface.md)
 - [Data (Extract, Transform, and Load)](./data-extract-transform-load.md)
 - [Performance and Optimization](./performance-and-optimization.md)
 - [Quality Assurance, Testing, and Monitoring](./qa-testing-and-monitoring.md)
 - [Application Management, Analytics and Insights](./application-management-analytics-and-insights.md)
 - [Search Engine Optimization (SEO)](./seo.md)
-- [Artificial Inteligence](./artificial-inteligence.md)
+- [Artificial Intelligence](./artificial-intelligence.md)
 - [Authentication, Authorization, and Security](./authentication-authorization-and-security.md)
 - [Cloud](./cloud.md)
 - [Internationalization](./internationalization.md)
@@ -110,7 +110,7 @@ We'll also do a live code review and talk about best practices.
 - [Searching and filtering 🔎](./performance-and-optimization.md#searching-and-filtering-🔎)
 
 ### Week 8
-- [ChatGPT 🧠](./artificial-inteligence.md#chatgpt-🧠)
+- [ChatGPT 🧠](./artificial-intelligence.md#chatgpt-🧠)
 - [Charts, graphs and data visualizations 📈📊](./visualization-and-reporting.md#charts-graphs-and-data-visualizations-📈📊)
 - [Encrypted Credentials 🤫](./authentication-authorization-and-security.md#encrypted-credentials-🤫)
 - [Storing Credentials Securely](./authentication-authorization-and-security.md#storing-credentials-securely-using-environment-variables)

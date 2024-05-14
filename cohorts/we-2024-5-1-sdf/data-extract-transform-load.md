@@ -1,5 +1,10 @@
 # Data (Extract, Transform, and Load)
 
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Adding sample data 🥸
 - [Learn](https://learn.firstdraft.com/lessons/207-adding-sample-data)
 - [Video](https://www.youtube.com/watch?v=3TRjdMoUiNM)

@@ -1,5 +1,13 @@
 # Domain Modeling
 
+**Prerequisites**:
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Record Keeping 📑
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 - [Video](https://youtu.be/Pe9b52rmhkQ)
@@ -110,7 +118,6 @@ Once you select the two associations, you can choose more specific names for eac
 ![](./assets/erd-tool-8.png)
 ```
 
-
 ## Todo List 📝
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 - [Video](https://youtu.be/XqHnkDFao4s)
@@ -195,16 +202,17 @@ Remember that it's usually helpful to create your tables on paper or in a spread
 
 **Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the first draft Entity Relationship Diagram (ERD) tool
 ```
-- Offer Right (example solution) 🛒 💡
-  ```md
-  Here is an example solution for the Offer Right assignment:
 
-  ## Example Solution
-  There is definitely more than one data model that will work! But here is one example solution. Take a look, compare it to your own, and ask questions if anything is not clear!
+### Offer Right (example solution) 🛒 💡
+```md
+Here is an example solution for the Offer Right assignment:
 
-  ERD ([Entity–relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model))
+## Example Solution
+There is definitely more than one data model that will work! But here is one example solution. Take a look, compare it to your own, and ask questions if anything is not clear!
 
-  ![](./assets/offer-up-erd.png)
+ERD ([Entity–relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model))
 
-  ![](./assets/offer-up-associations.png)
-  ```
+![](./assets/offer-up-erd.png)
+
+![](./assets/offer-up-associations.png)
+```

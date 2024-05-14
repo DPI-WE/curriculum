@@ -1,5 +1,10 @@
 # Authentication, Authorization and Security
 
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Reading: Authorization with Pundit 🔒
 - [Learn](https://learn.firstdraft.com/lessons/202-pundit-authorization)
 - [GitHub](https://github.com/appdev-lessons/pundit-authorization)

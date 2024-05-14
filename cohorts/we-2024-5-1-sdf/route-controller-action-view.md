@@ -1,4 +1,12 @@
 # Route, Controller, Action, View (RCAV)
+
+**Prerequisites**:
+- Writing, Documentation, and Asking Questions
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
 ## Rails: Rock, Paper, Scissors 🪨🧻✂️
 - [Learn](https://learn.firstdraft.com/lessons/119)
 - [GitHub](https://github.com/appdev-lessons/rails-rps)

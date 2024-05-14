@@ -1,8 +1,15 @@
 # Industrial Grade Application: Photogram
-<!-- Students must move through requirements in sequential order -->
 <!-- TODO: add point requirements -->
-
 <!-- TODO: refactor so we merge into main (which is more common) -->
+
+**Prerequisites**:
+- Scaffolding and Helper Methods
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
 
 ## Photogram Industrial Part 1: Devise accounts and photos scaffold 📸 🏭
   - [Learn](https://learn.firstdraft.com/lessons/197-photogram-industrial-part-1)

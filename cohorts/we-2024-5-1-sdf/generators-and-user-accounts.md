@@ -1,5 +1,14 @@
 # Generators and User Accounts
 
+**Prerequisites**:
+- Object Relational Mapping (ORM), Rich Domain Models, and CRUD
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Bulletin Board 1 📌
 - [Learn](https://learn.firstdraft.com/lessons/136)
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-1)

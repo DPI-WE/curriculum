@@ -1,5 +1,11 @@
 # Quality Assurance, Testing, and Monitoring
 
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
+<!-- TODO: split out this lesson? -->
 ## Quality Assurance, Testing, and Monitoring 🪳🧐
 - [Learn](https://learn.firstdraft.com/lessons/399-rails-qa-testing)
 - [GitHub](https://github.com/DPI-WE/rails-qa-testing)

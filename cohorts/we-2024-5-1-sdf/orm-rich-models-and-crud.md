@@ -1,5 +1,15 @@
 # Object Relational Mapping (ORM), Rich Domain Models, and CRUD
 
+**Prerequisites**:
+- Route, Controller, Action, View (RCAV)
+- Databases and SQL
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Must See Movies Queries: Intro to ActiveRecord 🎞️
 - [Learn](https://learn.firstdraft.com/lessons/126)
 - [GitHub](https://github.com/appdev-lessons/msm-queries)

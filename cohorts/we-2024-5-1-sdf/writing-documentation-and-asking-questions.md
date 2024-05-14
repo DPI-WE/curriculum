@@ -1,6 +1,13 @@
 # Writing, Documentation, and Asking Questions
 
-<!-- TODO: add overview -->
+**Prerequisites**:
+- onboarding
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
 
 <!-- TODO: simplify and add more follow up questions -->
 ## Asking Questions ❓

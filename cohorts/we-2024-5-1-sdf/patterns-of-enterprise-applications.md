@@ -1,4 +1,14 @@
 # Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐
+
+**Prerequisites**:
+- JavaScript
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Introduction to Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐
 - [Learn](https://learn.firstdraft.com/lessons/350-patterns-of-enterprise-application-architecture-intro)
 - [GitHub](https://github.com/DPI-WE/patterns-of-enterprise-application-architecture-intro)

@@ -1,5 +1,14 @@
-# JavaScript, AJAX, and JQuery
-<!-- TODO: add overview -->
+# JavaScript
+
+**Prerequisites**:
+- Industrial Grade Application: Photogram
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## JavaScript: The Slimmest Guide ☕️
 - [Learn](https://learn.firstdraft.com/lessons/203-minimal-js)
 - [GitHub](https://github.com/appdev-lessons/minimal-js)

@@ -1,5 +1,14 @@
 # User Interface
 
+**Prerequisites**:
+<!-- finish all web dev modules -->
+- javascript
+
+**Requirements**:
+<!-- none -->
+
+<!-- TODO: overview -->
+
 ## Breadcrumbs 🍞
 - [Video](https://www.youtube.com/watch?v=zxtc5Ye-TkY)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/12)

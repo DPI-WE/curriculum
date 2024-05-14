@@ -1,5 +1,12 @@
 # Stacks on Stacks
 
+**Prerequisites**:
+- Final Project
+
+**Requirements**:
+
+<!-- TODO: overview -->
+
 ## Python & Django
 - [Learn](https://learn.firstdraft.com/runs/22-from-ruby-rails-to-python-django)
 

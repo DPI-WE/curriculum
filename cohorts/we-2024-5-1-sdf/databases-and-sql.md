@@ -1,14 +1,21 @@
 # Databases and SQL
 
+**Prerequisites**:
+- Route, Controller, Action, View (RCAV)
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Contact Book: Our very first database 📒
-  - [Learn](https://learn.firstdraft.com/lessons/130)
-  - [GitHub](https://github.com/appdev-lessons/contact-book-first-database)
+- [Learn](https://learn.firstdraft.com/lessons/130)
+- [GitHub](https://github.com/appdev-lessons/contact-book-first-database)
 
 ## Database Migrations 🕰️
 - [Learn](https://learn.firstdraft.com/lessons/300-rails-migrations)
 - [GitHub](https://github.com/DPI-WE/rails-migrations)
-
-<!-- TODO: overview on SQL -->
 
 ## (Optional) SQL for Beginners 🧐 📚
 ```md

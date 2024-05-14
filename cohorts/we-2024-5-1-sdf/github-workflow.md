@@ -1,5 +1,14 @@
 # GitHub Workflow
 
+**Prerequisites**:
+- Onboarding
+- Development Tooling and Practices
+
+**Requirements**:
+- must complete all of these requirements
+
+<!-- TODO: overview -->
+
 ## Sign up for GitHub 😸
 ```md
 Please sign up for [GitHub](https://github.com/join) and share your profile page. It should be something like this `github.com/<username>`. Please set a profile image and display name using your first and last name so it's easy to tag you. Your GitHub profile is like a software engineering resume. It's important for employers, clients, teammates, etc. to know it's you. I also recommend keeping only 1 GitHub account so your contribution graph is full of green. You can create organizations to separate your repositories. 

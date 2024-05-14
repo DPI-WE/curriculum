@@ -1,5 +1,10 @@
 # Internationalization
 
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Google Cloud Translate 🀄️
 - [Learn](https://learn.firstdraft.com/lessons/146-google-translate)
 - [GitHub](https://github.com/appdev-lessons/google-translate)

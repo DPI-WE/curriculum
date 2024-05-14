@@ -1,5 +1,12 @@
 # Scaffolding and Helper Methods
 
+**Prerequisites**:
+- Generators and User Accounts
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
 ## Getting Started with Scaffolds 🏗️
 - [Learn](https://learn.firstdraft.com/lessons/158-getting-started-with-scaffolds)
 - [GitHub](https://github.com/appdev-lessons/getting-started-with-scaffolds)

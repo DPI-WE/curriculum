@@ -1,4 +1,10 @@
 # Final Project
+
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Timeline, guidelines & tips for your presentation 🎤
 ```md
 ## Timeline

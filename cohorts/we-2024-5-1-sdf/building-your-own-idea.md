@@ -1,5 +1,14 @@
 # Building Your Own Idea
 
+**Prerequisites**:
+<!-- none? -->
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Building your own idea 💡
 - [Video](https://youtu.be/4uxzx9Pevcs)
 ```md

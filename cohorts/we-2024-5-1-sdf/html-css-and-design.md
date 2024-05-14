@@ -1,9 +1,22 @@
 # HTML, CSS, and Design
 
+**Prerequisites**:
+- onboarding
+- Writing, Documentation, and Asking Questions
+
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
+<!-- TODO: overview -->
+
 ## Introduction to Bootstrap 🥾
 - [Learn](https://learn.firstdraft.com/lessons/139)
 - [GitHub](https://github.com/appdev-lessons/intro-to-bootstrap)
 - [Video](https://youtu.be/NW2W7rz4sY8)
+
+### (Optional) Scrimba: Learn Bootstrap
+- [Link](https://scrimba.com/learn/bootstrap4)
 
 ## Reading: Design Resources 🧑‍🎨
 - [Learn](https://learn.firstdraft.com/lessons/143-design-resources)

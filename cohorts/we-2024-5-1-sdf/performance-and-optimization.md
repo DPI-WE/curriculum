@@ -1,4 +1,10 @@
 # Performance and Optimization
+
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Pagination 📄
 - [Video](https://youtu.be/zxtc5Ye-TkY)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/13)

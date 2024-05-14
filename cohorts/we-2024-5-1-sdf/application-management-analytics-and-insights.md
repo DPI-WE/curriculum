@@ -3,6 +3,11 @@
 think of this as post-deploy items to do
 -->
 
+**Prerequisites**:
+- JavaScript
+
+<!-- TODO: overview -->
+
 ## Admin 🧑‍💼
 - [Learn](https://learn.firstdraft.com/lessons/353-rails-admin)
 - [GitHub](https://github.com/DPI-WE/rails-admin)
