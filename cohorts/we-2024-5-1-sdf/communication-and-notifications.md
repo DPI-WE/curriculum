@@ -10,3 +10,6 @@
 - [GitHub](https://github.com/DPI-WE/email)
 
 <!-- TODO: twilio sms lesson -->
+## SMS 📱
+- [Learn](https://learn.firstdraft.com/lessons/144-sending-emails-and-texts)
+- [GitHub](https://github.com/appdev-lessons/sending-emails-and-texts)
