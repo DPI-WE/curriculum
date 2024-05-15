@@ -23,6 +23,7 @@ Discord Server Rules
 2. Use the same name (first and last) used in canvas in your server profile
 3. Use a workplace appropriate profile image
 ```
+<!-- TODO: introduce yourself on discord? -->
 
 ## Setup your email 📧
 - **Points**: 2
