@@ -87,26 +87,17 @@ You can close this browser tab when you've completed the sign up.
 - [GitHub](https://github.com/appdev-lessons/using-rake-grade)
 ```
 
-## Log in to DPI Dashboard 🌐 <!-- TODO: move to career development? -->
+## Setup Your Internal Profile
 - **Points**: 2
 - **Requirements**: submit
 - **Due**: end of week 1
-```md
-Please go to https://dashboard.dpi.dev
+- [Learn](https://learn.firstdraft.com/lessons/423-setup-your-internal-profile)
+- [GitHub](https://github.com/DPI-WE/setup-your-internal-profile)
 
-If this is the first time you are logging in, select the **forgot my password link**, enter your Canvas email, and look for an email verification and sign-in link to set a new password for the dashboard. Check your spam folder for the email if you do not find it in your Inbox.
-
-In the dashboard: update your profile, and **submit your snapshot url**. Make sure to check out your snapshot and edit your profile so it has updated information. We share these snapshots with employers so make sure it is a good reflection of your skills and experience.
-
-Here are some examples from previous cohorts:
-
-![](./assets/snapshot-marcus.png)
-![](./assets/snapshot-paulina.png)
-![](./assets/snapshot-john.png)
-![](./assets/snapshot-josseph.png)
-![](./assets/snapshot-ximena.png)
-![](./assets/snapshot-jewell.png)
-```
+### Submit Your Snapshot URL
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 1
 
 ## Daily Stand-ups 🌟 <!-- Discuss more on agile/scrum ceremonies? retro on fridays, etc. -->
 - **Points**: 2
