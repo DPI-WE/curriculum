@@ -33,7 +33,7 @@
 IMPORTANT: Please make sure to submit a pull request to merge into the `main` branch of <u>your own repository</u>. We do not want to submit requests to pull into the `appdev-projects` repository! 😵‍💫
 
 <!-- todo: swap out TA -->
-Please invite Fidel Leal (@flealc on Github) to collaborate on your repository. Also, be sure to **assign @flealc to review your pull request**.
+Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 
 #### Pull Request URL for Photogram Industrial: photogram-industrial > main 📥📋 (giving a code review)
@@ -56,7 +56,7 @@ Please invite Fidel Leal (@flealc on Github) to collaborate on your repository. 
 - **Due**: end of week 6
 ```md
 <!-- todo: swap out TA -->
-Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your repository. Also, be sure to **assign @ajmompr to review your pull request**.
+Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 
 #### Pull Request URL for Photogram Industrial: starting-on-ui > photogram-industrial 📥📋 (giving a code review)
@@ -81,7 +81,7 @@ Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your reposi
 - **Due**: end of week 6
 ```md
 <!-- todo: swap out TA -->
-Please invite Carlos Castaneda (@CarlosCastanedaDev on Github) to collaborate on your repository. Also, be sure to **assign @CarlosCastanedaDev to review your pull request**.
+Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 #### Pull Request URL for Photogram Industrial: profile-page > starting-on-ui 📥📋 (giving a code review)
 - **Points**: 2
@@ -97,7 +97,7 @@ Please invite Carlos Castaneda (@CarlosCastanedaDev on Github) to collaborate on
 - **Due**: end of week 6
 ```md
 <!-- todo: swap out TA -->
-Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your repository. Also, be sure to **assign @ajmompr to review your pull request**.
+Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 
 #### Pull Request URL for Photogram Industrial: tabbed-interface > profile-page 📥📋 (giving a code review)
@@ -122,7 +122,7 @@ Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your reposi
 - **Due**: end of week 6
 ```md
 <!-- todo: swap out TA -->
-Please invite Jorge Gomez (@gomezzzer on Github) to collaborate on your repository. Also, be sure to **assign @gomezzzer to review your pull request**.
+Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 
 #### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋 (giving a code review)
@@ -155,7 +155,7 @@ Check list:
 - Have you called `authorize` for each action in each controller?
 - Have you set up policies for each action in each controller?
 - Have you made sure everything is working in the live preview?
-- **Please assign Thierry Chau (@thierrychau) to review your pull request**.
+- **Please assign <name> (@<username>) to review your pull request**.
 ```
 
 #### Pull Request for Pundit Policies: add-pundit > add-authorization 📥📋 (giving a code review)
