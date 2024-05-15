@@ -11,6 +11,8 @@
 
 <!-- TODO: simplify and add more follow up questions -->
 ## Asking Questions ❓
+- **Points**: 2
+- **Requirements**: score at least 2/2
 ```md
 ## Questions ❓
 - This course is question-driven.
@@ -75,6 +77,9 @@ What is the 5-step framework for asking good questions?
 ```
 
 ## Ask: create an account 🙋
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 1
 ```md
 Visit this link and sign up for an account at ask.firstdraft.com.
 
@@ -84,6 +89,9 @@ Please submit your Ask username and email so we can add you to the 2023-9.1 SDF 
 ```
 
 ## TIL Blog 📝
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 1
 ```md
 Keeping a learning journal is extremely valuable for software developers, for many reasons:
 
@@ -109,7 +117,17 @@ A great source of TIL blog posts are answers to questions you've asked and other
 Keep track of everyone's TIL blogs on [news.dpi.dev](https://news.dpi.dev/). Someone else might have already written the answer to your question!
 ```
 
+<!-- 
+TODO: 
+submit a TIL blog post assignment
+- **Points**: 2
+- **Requirements**: score at least 2/2 
+-->
+
 ## Taking notes 📝
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 1
 ```md
 Please create a `notes` folder inside your `Workspace` folder.
 
@@ -124,8 +142,10 @@ If you want to go a step further, make your notes folder a git repository. That 
 Please submit a screenshot showing this notes folder with a markdown file for todays notes.
 ```
 
-## Rails Guides 🦮 <!-- TODO: make this a documentation assignment? -->
-- **Prerequisites**: routing and forms
+## Rails Guides 🦮 <!-- TODO: make this a reading documentation assignment. link to the docs we should reference -->
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 1
 
 ```md
 The [Rails Guides](https://guides.rubyonrails.org/) are a terrific resource, and you now have the vocabulary to understand the gist of most of them. Especially these:

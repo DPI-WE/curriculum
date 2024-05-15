@@ -10,10 +10,14 @@
 <!-- TODO: overview -->
 
 ## Contact Book: Our very first database 📒
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/130)
 - [GitHub](https://github.com/appdev-lessons/contact-book-first-database)
 
 ## Database Migrations 🕰️
+<!-- TODO: add questions/points to this lesson -->
 - [Learn](https://learn.firstdraft.com/lessons/300-rails-migrations)
 - [GitHub](https://github.com/DPI-WE/rails-migrations)
 

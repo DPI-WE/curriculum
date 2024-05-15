@@ -6,11 +6,14 @@
 - must move through requirements in sequential order
 
 ## Welcome!
+- **Points**: 0
 - **Requirements**: mark as done
 <!-- TODO: add welcome video -->
 
 ## Join Discord chat 💬
+- **Points**: 0
 - **Requirements**: mark as done
+- **Due**: end of week 1
 ```md
 Join the Discord server to chat with your classmates and instructors. (link on home page)
 
@@ -22,7 +25,9 @@ Discord Server Rules
 ```
 
 ## Setup your email 📧
+- **Points**: 0
 - **Requirements**: submit the assignment
+- **Due**: end of week 1
 <!-- TODO: emphasize setting it up on phone, computer, etc. and to check it frequently -->
 <!-- add why we do this -->
 ```md
@@ -34,7 +39,9 @@ Please setup an email client with your account. I use the built in email client 
 ```
 
 ## Setup your calendar 📅
+- **Points**: 0
 - **Requirements**: submit the assignment
+- **Due**: end of week 1
 <!-- TODO: emphasize importance to minding your calendar -->
 ```md
 Canvas has a really neat feature: the Calendar.
@@ -69,9 +76,11 @@ Please subscribe to the canvas calendar feed and submit the name of your preferr
 **Assignment**: Enter the name of your calendar application you're using to subscribe to the canvas calendar.
 ```
 
-
+<!-- TODO: check if there is an updated lesson for this -->
 ## Learn: create an account ✏️
+- **Points**: 0
 - **Requirements**: mark as done
+- **Due**: end of week 1
 ```md
 We will be using a platform called Learn to host project notes, embedded quizzes, and to launch GitHub projects.
 
@@ -105,6 +114,9 @@ You can close this browser tab when you've completed the sign up.
 ```
 
 ## Log in to DPI Dashboard 🌐 <!-- TODO: move to career development? -->
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 1
 ```md
 Please go to https://dashboard.dpi.dev
 
@@ -123,8 +135,10 @@ Here are some examples from previous cohorts:
 ```
 
 ## Daily Stand-ups 🌟 <!-- Discuss more on agile/scrum ceremonies? retro on fridays, etc. -->
+- **Points**: 2
 <!-- TODO: convert to Learn lesson for scoring -->
 - **Requirements**: score at least 2/2
+- **Due**: end of week 1
 ```md
 Daily "stand-ups" are a very common practice on "agile" development teams.
 A quick meeting — 10 minutes or less — for the entire team to check in with each other. It's called "stand-up" because it's supposed to be short enough to stand for the entire thing.
