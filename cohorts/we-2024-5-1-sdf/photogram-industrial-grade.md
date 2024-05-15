@@ -15,19 +15,15 @@
 - **Points**: 10
 - **Requirements**: Score at least 2.0
 - **Due**: end of week 5
-```md
   - [Learn](https://learn.firstdraft.com/lessons/197-photogram-industrial-part-1)
   - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-1)
-  ```
 
 ## Photogram Industrial Part 2: Associations, validations, and sample data 📸 🏭
 - **Points**: 0
 - **Requirements**:  mark as done
 - **Due**: end of week 5
-```md
 - [Learn](https://learn.firstdraft.com/lessons/198-photogram-industrial-part-2)
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-2)
-```
 
 ### Pull Request URL for Photogram Industrial: photogram-industrial > main 📥📋
 - **Points**: 5
@@ -44,18 +40,15 @@ Please invite Fidel Leal (@flealc on Github) to collaborate on your repository. 
 - **Points**: 2
 - **Requirements**:  submit
 - **Due**: end of week 6
-```md
   **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
-```
 
 ## Photogram Industrial Part 3: Starting user interface 📸 🏭
 - **Points**: 0
 - **Requirements**:  mark as done
 - **Due**: end of week 5
-```md
 - [Learn](https://learn.firstdraft.com/lessons/199-photogram-industrial-part-3)
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-3)
-```
+
 
 ### Pull Request URL for Photogram Industrial: starting-on-ui > photogram-industrial 📥📋
 - **Points**: 5
@@ -78,10 +71,9 @@ Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your reposi
 - **Points**: 0
 - **Requirements**:  mark as done
 - **Due**: end of week 5
-```md
 - [Learn](https://learn.firstdraft.com/lessons/200-photogram-industrial-part-4)
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-4)
-```
+
 
 ### Pull Request URL for Photogram Industrial: profile-page > starting-on-ui 📥📋
 - **Points**: 5
@@ -120,10 +112,9 @@ Please invite Alex Mompremier (@ajmompr on Github) to collaborate on your reposi
 - **Points**: 0
 - **Requirements**:  mark as done
 - **Due**: end of week 6
-```md
 - [Learn](https://learn.firstdraft.com/lessons/201-photogram-industrial-authorization)
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-authorization)
-```
+
 
 ### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋
 - **Points**: 5
@@ -146,10 +137,9 @@ Please invite Jorge Gomez (@gomezzzer on Github) to collaborate on your reposito
 - **Points**: 0
 - **Requirements**:  mark as done
 - **Due**: end of week 6
-```md
 - [Learn](https://learn.firstdraft.com/lessons/202-pundit-authorization)
 - [GitHub](https://github.com/appdev-lessons/pundit-authorization)
-```
+
 
 ### Pull Request for Pundit Policies: add-pundit > add-authorization 📥📋
 - **Points**: 5
