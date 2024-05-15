@@ -9,12 +9,16 @@
 <!-- TODO: overview -->
 
 ## Record Keeping 📑
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 1
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 - [Video](https://youtu.be/Pe9b52rmhkQ)
 
 ## Must See Movies 🎞️
 - **Points**: 2
-- **Submitting**: a text entry box
+- **Requirements**: submit
+- **Due**: end of week 1
 ```md
 Lets examine an [application](https://msm-associations.matchthetarget.com/) that we'll build in class. It's a very simplified version of the iMDB (the Internet Movie Database).
     - Click around it for a minute. Observe and identify:
@@ -28,7 +32,8 @@ Lets examine an [application](https://msm-associations.matchthetarget.com/) that
 
 ## Records and Relationships 🔗
 - **Points**: 2
-- **Submitting**: a text entry box
+- **Requirements**: submit
+- **Due**: end of week 1
 - [Video](https://www.youtube.com/watch?v=2XXdLZNNEFo)
 - [Slides](https://github.com/DPI-WE/sdf-records-and-relationships)
 ```md
@@ -38,8 +43,9 @@ This lesson practices domain modeling by discussing when to use a one-to-many or
 ```
 
 ## Photogram 📸
-  - **Points**: 2
-  - **Submitting**: a text entry box or a file upload
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 2
   - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
   - [Video](https://youtu.be/XqHnkDFao4s)
   ```md
@@ -119,6 +125,9 @@ Once you select the two associations, you can choose more specific names for eac
 ```
 
 ## Todo List 📝
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 2
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 - [Video](https://youtu.be/XqHnkDFao4s)
 ```md
@@ -135,6 +144,9 @@ Slides
 ```
 
 ## Very Best 🏆
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 3
 - [Video](https://youtu.be/oJEYq0Ygf1E)
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 ```md
@@ -156,7 +168,8 @@ I find it helpful to use paper or a spreadsheet to actually draw out all my tabl
 
 ## Yap 🍔
 - **Points**: 2
-- **Submitting**: a text entry box or a file upload
+- **Requirements**: submit
+- **Due**: end of week 3
 - [Video](https://youtu.be/FYUK36jEDl0)
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 ```md
@@ -173,6 +186,9 @@ Let's figure out the data model behind [this Yelp-clone, Yap](https://yap.matcht
 - [Yap 🍔 (Sample tables/records)](./assets/yap-tables.pdf)
 
 ## Offer Right 🤝
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 4
 - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
 - [Video](https://youtu.be/Fltvtv9Mltk)
 ```md

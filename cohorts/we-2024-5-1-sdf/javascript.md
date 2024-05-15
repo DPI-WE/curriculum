@@ -10,10 +10,16 @@
 <!-- TODO: overview -->
 
 ## JavaScript: The Slimmest Guide ☕️
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 6
 - [Learn](https://learn.firstdraft.com/lessons/203-minimal-js)
 - [GitHub](https://github.com/appdev-lessons/minimal-js)
 
 ## Photogram Ajax 📸
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 6
 ```md
 IMPORTANT: We are asking you to "ajaxify" comments, likes, and follow requests for this assignment. Please disregard the section of the lesson that states likes and follow requests are optional.
 ```
@@ -21,6 +27,9 @@ IMPORTANT: We are asking you to "ajaxify" comments, likes, and follow requests f
 - [GitHub](https://github.com/appdev-lessons/rails-unobtrusive-ajax)
 
 ### Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests
+- **Points**: 10
+- **Requirements**: mark as done
+- **Due**: end of week 6
 ```md
 IMPORTANT: We are asking you to "ajaxify" comments, likes, and follow requests for this assignment. Please disregard the section of the lesson that states likes and follow requests are optional.
 
@@ -28,11 +37,17 @@ Submit a pull request from your fork of the photogram-ajaxLinks to an external s
 ```
 #### Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests (giving a code review)
 <!-- TODO: do we want to have 3 separate pull requests? -->
+- **Points**: 2
+- **Requirements**: mark as done
+- **Due**: end of week 6
 ```md
 Give a code review to one your fellow trainees and share the GitHub URL.
 ```
 
 ## (Optional) More UJS Practice
+- **Points**: 0
+- **Requirements**:
+- **Due**:
 ```md
 Here is a link to the repository for the [Todo List 📝](https://dpi.instructure.com/courses/294/assignments/2195) app we data modeled in sprint 2.
 

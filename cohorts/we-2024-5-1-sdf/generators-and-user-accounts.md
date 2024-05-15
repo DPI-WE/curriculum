@@ -8,25 +8,70 @@
 - must move through requirements in sequential order
 
 <!-- TODO: overview -->
+## Very Best Debug 🔍 🛠️
+- **Points**: 5
+- **Requirements**: score at least 5.0
+- **Due**: end of week 3
+- [Learn](https://learn.firstdraft.com/lessons/155-very-best-debug)
+- [GitHub](https://github.com/appdev-lessons/very-best-debug)
+
+## Refactoring Must See Movies GUI 2 with Association Accessor Helper Methods 🔄🎥
+- **Points**: 10
+- **Requirements**: score at least 10.0
+- **Due**: end of week 3
+- [Learn](https://learn.firstdraft.com/lessons/156-refactoring-msm-gui-2)
+- [GitHub](https://github.com/appdev-lessons/refactoring-msm-gui-2)
+
+### Association Accessor Wizard 🧙‍♂️🔮
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 3
+```md
+We introduced the association accessor wizard in the previous refactoring project. [See the last six minutes beginning at 23:30 of this walkthrough video](https://share.descript.com/view/wy5mgzsL2WX) for a refresher on that tool, and keep this link handy to help you build your associations:
+
+https://association-accessors.firstdraft.com
+```
+
+## Photogram Associations 📸
+- **Points**: 5
+- **Requirements**: score at least 5.0
+- **Due**: end of week 3
+- [Learn](https://learn.firstdraft.com/lessons/157-photogram-associations)
+- [GitHub](https://github.com/appdev-lessons/photogram-associations)
 
 ## Bulletin Board 1 📌
+- **Points**: 10
+- **Requirements**:  score at least 10.0
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/136)
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
 
 <!-- TODO: clarify that draft:resource is only for our learning purposes-->
 ### Reading: draft:resource generator 🏭
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/133)
 - [GitHub](https://github.com/appdev-lessons/draft-resource-generator)
 
 ## Bootstrapping Bulletin Board 1 📌
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1)
 - [GitHub](https://github.com/appdev-lessons/bootstrap-bulletin-board-1)
 
 ## Bulletin Board 2 (User Accounts) 👥
+- **Points**: 10 
+- **Requirements**:  score at least 10.0
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/137)
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-2)
 
 ## Must See Movies with Generators
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 ```md
 There is no project associated with this assignment. Just take some time and watch this video, in which I build a Must See Movies application from scratch using generators.
 
@@ -46,9 +91,15 @@ Got it? Alright, now:
 
 <!-- TODO: maybe make this a mid-term? -->
 ## Delivery Tracker 1 🚚 📦📋
+- **Points**: 10
+- **Requirements**:  score at least 10.0
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/205-delivery-tracker-1)
 - [GitHub](https://github.com/appdev-lessons/delivery-tracker-1)
 
 ## Reading: More on User Authentication with Devise
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/195-authentication-with-devise)
 - [GitHub](https://github.com/appdev-lessons/authentication-with-devise)
