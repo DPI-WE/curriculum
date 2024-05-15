@@ -25,58 +25,30 @@ Discord Server Rules
 ```
 
 ## Setup your email 📧
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: submit the assignment
 - **Due**: end of week 1
-<!-- TODO: emphasize setting it up on phone, computer, etc. and to check it frequently -->
-<!-- add why we do this -->
-<!-- maybe assignment is to send me an email -->
+- [Learn](https://learn.firstdraft.com/lessons/421-setup-your-email)
+- [GitHub](https://github.com/DPI-WE/setup-your-email)
+
+### Follow up email
+- **Points**: 2
+- **Due**: end of week 1
 ```md
-Please setup an email client with your account. I use the built in email client on macOS. It is very important to mind your email on the job. When you use an email client it's much easier to monitor incoming emails. (especially if you have multiple accounts)
-
-![](./assets/email.png)
-
-**Assignment**: Please submit the name of the email client you will be using in class.
+Send an email from your student account to a TA with the subject line: “Setup my email”. This will confirm that you have successfully set up your email client.
 ```
 
 ## Setup your calendar 📅
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: submit the assignment
 - **Due**: end of week 1
-<!-- TODO: emphasize importance to minding your calendar -->
-<!-- TODO: maybe schedule an meeting with someone as an assignment -->
-```md
-Canvas has a really neat feature: the Calendar.
+- [Learn](https://learn.firstdraft.com/lessons/422-setup-your-calendar)
+- [GitHub](https://github.com/DPI-WE/setup-your-calendar)
 
-It will aggregate events, assignments, etc, from all of the courses you are enrolled in:
-
-![](./assets/canvas-calendar-1.png)
-
-It also provides a calendar feed URL, which you can subscribe to in your calendar of choice (I use apple calendar):
-
-![](./assets/canvas-calendar-2.png)
-
-Option A (Outlook):
-![](./assets/email-outlook-1.png)
-
-![](./assets/email-outlook-2.png)
-
-Option B (Apple):
-
-![](./assets/ical-1.png)
-
-![](./assets/ical-2.png)
-
-We will be using this feature for scheduling lectures and assignments. Make sure to set the calendar subscription to auto-refresh at least every 15-minutes so you always have an accurate calendar. 
-
-![](./assets/ical-3.png)
-
-Employees are expected to monitor their calendar. This is a good opportunity to practice using your calendar, whether it's Apple Calendar, Google Calendar, Outlook or any other.
-
-Please subscribe to the canvas calendar feed and submit the name of your preferred calendar app.
-
-**Assignment**: Enter the name of your calendar application you're using to subscribe to the canvas calendar.
-```
+### Follow up calendar invite
+- **Points**: 2
+- **Due**: end of week 1
+**Assignment**: Create a New Recurring Meeting and add a TA
 
 <!-- TODO: check if there is an updated lesson for this -->
 ## Learn: create an account ✏️
