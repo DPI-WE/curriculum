@@ -8,6 +8,36 @@
 - must move through requirements in sequential order
 
 <!-- TODO: overview -->
+## Very Best Debug 🔍 🛠️
+- **Points**: 5
+- **Requirements**: score at least 5.0
+- **Due**: end of week 3
+- [Learn](https://learn.firstdraft.com/lessons/155-very-best-debug)
+- [GitHub](https://github.com/appdev-lessons/very-best-debug)
+
+## Refactoring Must See Movies GUI 2 with Association Accessor Helper Methods 🔄🎥
+- **Points**: 10
+- **Requirements**: score at least 10.0
+- **Due**: end of week 3
+- [Learn](https://learn.firstdraft.com/lessons/156-refactoring-msm-gui-2)
+- [GitHub](https://github.com/appdev-lessons/refactoring-msm-gui-2)
+
+### Association Accessor Wizard 🧙‍♂️🔮
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 3
+```md
+We introduced the association accessor wizard in the previous refactoring project. [See the last six minutes beginning at 23:30 of this walkthrough video](https://share.descript.com/view/wy5mgzsL2WX) for a refresher on that tool, and keep this link handy to help you build your associations:
+
+https://association-accessors.firstdraft.com
+```
+
+## Photogram Associations 📸
+- **Points**: 5
+- **Requirements**: score at least 5.0
+- **Due**: end of week 3
+- [Learn](https://learn.firstdraft.com/lessons/157-photogram-associations)
+- [GitHub](https://github.com/appdev-lessons/photogram-associations)
 
 ## Bulletin Board 1 📌
 - **Points**: 10
