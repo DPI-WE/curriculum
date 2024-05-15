@@ -21,10 +21,10 @@
 - **Due**: end of week 1
 ```md
 Lets examine an [application](https://msm-associations.matchthetarget.com/) that we'll build in class. It's a very simplified version of the iMDB (the Internet Movie Database).
-    - Click around it for a minute. Observe and identify:
-    - How are the URLs named? What is indicated by each part of the URL?
-    - What all information is being stored and displayed on each page?
-    - If you had to design tables to store all of the information required to power that app, what would they be? What columns would they have? Think of questions.
+- Click around it for a minute. Observe and identify:
+- How are the URLs named? What is indicated by each part of the URL?
+- What all information is being stored and displayed on each page?
+- If you had to design tables to store all of the information required to power that app, what would they be? What columns would they have? Think of questions.
 
 **Assignment**: Please submit a list of the tables/columns needed to store all of the information required to power this app.
 ```
@@ -46,24 +46,24 @@ This lesson practices domain modeling by discussing when to use a one-to-many or
 - **Points**: 2
 - **Requirements**: submit
 - **Due**: end of week 2
-  - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
-  - [Video](https://youtu.be/XqHnkDFao4s)
-  ```md
-  Let's figure out the data model behind [an app called Photogram](https://pg-ajax-1.matchthetarget.com/).
+- [Slides](https://github.com/DPI-WE/sdf-record-keeping)
+- [Video](https://youtu.be/XqHnkDFao4s)
+```md
+Let's figure out the data model behind [an app called Photogram](https://pg-ajax-1.matchthetarget.com/).
 
-  Sign in with one of the existing users (All of their passwords are "password"):
-    - alice@example.com
-    - bob@example.com
-    - carol@example.com
-    - doug@example.com
-    - ellen@example.com
-  
-  Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
-  What tables and columns will you need? Try to produce a complete list of tables and columns.
-  I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
+Sign in with one of the existing users (All of their passwords are "password"):
+- alice@example.com
+- bob@example.com
+- carol@example.com
+- doug@example.com
+- ellen@example.com
 
-  **Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the [Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com)
-  ```
+Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
+What tables and columns will you need? Try to produce a complete list of tables and columns.
+I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
+
+**Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the [Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com)
+```
 
 ### Entity Relationship Diagram (ERD) tool 📊
 ```md
