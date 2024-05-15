@@ -50,7 +50,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-3)
 
 
-### Pull Request URL for Photogram Industrial: starting-on-ui > photogram-industrial 📥📋
+### Pull Request URL for Photogram Industrial: starting-on-ui > main 📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
 - **Due**: end of week 6
@@ -59,7 +59,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 
-#### Pull Request URL for Photogram Industrial: starting-on-ui > photogram-industrial 📥📋 (giving a code review)
+#### Pull Request URL for Photogram Industrial: starting-on-ui > main  📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
 - **Due**: end of week 6
@@ -75,7 +75,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-4)
 
 
-### Pull Request URL for Photogram Industrial: profile-page > starting-on-ui 📥📋
+### Pull Request URL for Photogram Industrial: profile-page > main  📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
 - **Due**: end of week 6
@@ -83,7 +83,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 <!-- todo: swap out TA -->
 Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
-#### Pull Request URL for Photogram Industrial: profile-page > starting-on-ui 📥📋 (giving a code review)
+#### Pull Request URL for Photogram Industrial: profile-page > main  📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
 - **Due**: end of week 6
@@ -91,7 +91,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 ```
 
-### Pull Request URL for Photogram Industrial: tabbed-interface > profile-page 📥📋
+### Pull Request URL for Photogram Industrial: tabbed-interface > main  📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
 - **Due**: end of week 6
@@ -100,7 +100,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
 ```
 
-#### Pull Request URL for Photogram Industrial: tabbed-interface > profile-page 📥📋 (giving a code review)
+#### Pull Request URL for Photogram Industrial: tabbed-interface > main  📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
 - **Due**: end of week 6
@@ -141,7 +141,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 - [GitHub](https://github.com/appdev-lessons/pundit-authorization)
 
 
-### Pull Request for Pundit Policies: add-pundit > add-authorization 📥📋
+### Pull Request for Pundit Policies: add-pundit > main 📥📋
 - **Points**: 5
 - **Requirements**:  submit
 - **Due**: end of week 6
@@ -158,7 +158,7 @@ Check list:
 - **Please assign <name> (@<username>) to review your pull request**.
 ```
 
-#### Pull Request for Pundit Policies: add-pundit > add-authorization 📥📋 (giving a code review)
+#### Pull Request for Pundit Policies: add-pundit > main 📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
 - **Due**: end of week 6
