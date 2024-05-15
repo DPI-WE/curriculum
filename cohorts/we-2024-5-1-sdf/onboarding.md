@@ -30,6 +30,7 @@ Discord Server Rules
 - **Due**: end of week 1
 <!-- TODO: emphasize setting it up on phone, computer, etc. and to check it frequently -->
 <!-- add why we do this -->
+<!-- maybe assignment is to send me an email -->
 ```md
 Please setup an email client with your account. I use the built in email client on macOS. It is very important to mind your email on the job. When you use an email client it's much easier to monitor incoming emails. (especially if you have multiple accounts)
 
@@ -43,6 +44,7 @@ Please setup an email client with your account. I use the built in email client 
 - **Requirements**: submit the assignment
 - **Due**: end of week 1
 <!-- TODO: emphasize importance to minding your calendar -->
+<!-- TODO: maybe schedule an meeting with someone as an assignment -->
 ```md
 Canvas has a really neat feature: the Calendar.
 
