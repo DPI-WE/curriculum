@@ -11,6 +11,9 @@
 <!-- TODO: overview -->
 
 ## Introduction to Bootstrap 🥾
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 2
 - [Learn](https://learn.firstdraft.com/lessons/139)
 - [GitHub](https://github.com/appdev-lessons/intro-to-bootstrap)
 - [Video](https://youtu.be/NW2W7rz4sY8)
