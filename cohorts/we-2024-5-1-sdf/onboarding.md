@@ -10,6 +10,8 @@
 - **Requirements**: mark as done
 <!-- TODO: add welcome video -->
 
+
+<!-- TODO: convert to learn lessson? -->
 ## Join Discord chat 💬
 - **Points**: 0
 - **Requirements**: mark as done
@@ -22,6 +24,8 @@ Discord Server Rules
 1. Be kind
 2. Use the same name (first and last) used in canvas in your server profile
 3. Use a workplace appropriate profile image
+
+<!-- TODO: add examples? -->
 ```
 <!-- TODO: introduce yourself on discord? -->
 
