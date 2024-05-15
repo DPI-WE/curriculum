@@ -10,23 +10,38 @@
 <!-- TODO: overview -->
 
 ## Bulletin Board 1 📌
+- **Points**: 10
+- **Requirements**:  score at least 10.0
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/136)
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
 
 <!-- TODO: clarify that draft:resource is only for our learning purposes-->
 ### Reading: draft:resource generator 🏭
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/133)
 - [GitHub](https://github.com/appdev-lessons/draft-resource-generator)
 
 ## Bootstrapping Bulletin Board 1 📌
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1)
 - [GitHub](https://github.com/appdev-lessons/bootstrap-bulletin-board-1)
 
 ## Bulletin Board 2 (User Accounts) 👥
+- **Points**: 10 
+- **Requirements**:  score at least 10.0
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/137)
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-2)
 
 ## Must See Movies with Generators
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 ```md
 There is no project associated with this assignment. Just take some time and watch this video, in which I build a Must See Movies application from scratch using generators.
 
@@ -46,9 +61,15 @@ Got it? Alright, now:
 
 <!-- TODO: maybe make this a mid-term? -->
 ## Delivery Tracker 1 🚚 📦📋
+- **Points**: 10
+- **Requirements**:  score at least 10.0
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/205-delivery-tracker-1)
 - [GitHub](https://github.com/appdev-lessons/delivery-tracker-1)
 
 ## Reading: More on User Authentication with Devise
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/195-authentication-with-devise)
 - [GitHub](https://github.com/appdev-lessons/authentication-with-devise)
