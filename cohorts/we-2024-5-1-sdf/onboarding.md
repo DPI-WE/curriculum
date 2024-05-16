@@ -11,27 +11,16 @@
 - **Due**: end of week 1
 <!-- TODO: add welcome video -->
 
-
 ## Join Discord chat 💬
-<!-- TODO: convert to learn lessson? -->
-<!-- TODO: add examples of appropriate workplace communication? -->
-<!-- TODO: introduce yourself on discord? -->
-- **Points**: 0
-- **Requirements**: mark as done
+- **Points**: 2
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
-```md
-Join the Discord server to chat with your classmates and instructors. (link on home page)
-
-Discord Server Rules
-
-1. Be kind
-2. Use the same name (first and last) used in canvas in your server profile
-3. Use a workplace appropriate profile image
-```
+- [Learn](https://learn.firstdraft.com/lessons/427-join-the-chat)
+- [GitHub](https://github.com/DPI-WE/join-the-chat)
 
 ## Setup your email 📧
 - **Points**: 2
-- **Requirements**: submit the assignment
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/421-setup-your-email)
 - [GitHub](https://github.com/DPI-WE/setup-your-email)
@@ -46,7 +35,7 @@ Send an email from your student account to a TA with the subject line: “Setup 
 
 ## Setup your calendar 📅
 - **Points**: 2
-- **Requirements**: submit the assignment
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/422-setup-your-calendar)
 - [GitHub](https://github.com/DPI-WE/setup-your-calendar)
@@ -98,7 +87,7 @@ You can close this browser tab when you've completed the sign up.
 
 ## Setup Your Internal Profile
 - **Points**: 2
-- **Requirements**: submit
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/423-setup-your-internal-profile)
 - [GitHub](https://github.com/DPI-WE/setup-your-internal-profile)
@@ -123,15 +112,10 @@ Please write down and submit today's stand up.
 ```
 
 ## Setup a Password Manager 🔐
-<!-- TODO: add why it's important -->
-<!-- tips on not re-using passwords -->
-```md
-I've noticed a lot of students use pen/paper or a text file on their computer to store passwords. 
-
-[Password Best Practices](https://www.it.ucsb.edu/secure-compute-research-environment-user-guide/password-best-practices).
-
-Please sign up for a password manager and enter the url of the one you've chosen. I personally use [Bitwarden](https://bitwarden.com/). (free for personal use and syncs desktop/mobile). There are many out there. Do your research. 🧑‍🔬🔬
-```
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- [Learn](https://learn.firstdraft.com/lessons/425-setup-a-password-manager)
+- [GitHub](https://github.com/DPI-WE/setup-a-password-manager)
 
 ## Overview 😀
 - [Slides](https://github.com/DPI-WE/sdf-overview)
