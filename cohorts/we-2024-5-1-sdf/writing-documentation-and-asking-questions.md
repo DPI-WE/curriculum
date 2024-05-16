@@ -87,4 +87,6 @@ Peruse through the Rails Guides. You don't have to read them word for word, but 
 - [devdocs.io](https://devdocs.io/)
 <!-- TODO: add api.rubyonrails.org docs -->
 
+<!-- TODO: add a recommended newsletters assignment -->
+
 ## How to write a README <!-- TODO -->
