@@ -5,6 +5,23 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
+## Overview
+```md
+The Onboarding module is designed to ensure that all participants are fully prepared to start the course with the necessary tools and setups. This module focuses on familiarizing you with essential communication platforms, setting up your email and calendar, creating accounts on necessary platforms, and understanding daily course routines and expectations.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Join and navigate the course Discord chat for effective communication.
+- Set up and verify your student email account.
+- Configure your calendar for managing course schedules and meetings.
+- Create and manage an account on the Learn platform for accessing course materials and assignments.
+- Set up your internal profile for staff and employer partners.
+- Participate in daily stand-ups and understand Agile ceremonies.
+- Set up and use a password manager for secure management of your credentials.
+- Gain an overview of the 12-week course structure and expectations.
+```
+
 ## Welcome!
 - **Points**: 0
 - **Requirements**: mark as done
