@@ -154,7 +154,7 @@ Before we begin writing code, we want to have our complete domain model in hand:
 - I find it helpful to use paper or a Spreadsheet 📋 to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
 - Then create an ERD (Entity Relationship Diagram) 🧑‍💻
 ```
-- Domain Model: Spreadsheet 📋
+### Domain Model: Spreadsheet 📋
     - **Points**: 2
     - **Submitting**: a website url
     ```md
