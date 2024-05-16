@@ -8,6 +8,9 @@
 <!-- TODO: overview -->
 
 ## Python & Django
+- **Points**: 50
+- **Requirements**: submit assignment
+- **Due**: 
 - [Learn](https://learn.firstdraft.com/runs/22-from-ruby-rails-to-python-django)
 
 ### Getting Started
@@ -33,7 +36,7 @@
 - [Django for Beginners: Book notes](https://github.com/appdev-lessons/django-for-beginners-book-notes)
 - [Rebuilding Must See Movies and Photogram in Django](https://github.com/appdev-lessons/django-rebuilding-msm-and-photogram)
 
-## Ask Forum: Python & Django
+### Ask Forum: Python & Django
 - [Join](https://ask.firstdraft.com/forums/14-from-ruby-rails-to-python-django?token=c1JPGEaqZK28qDDqspGGAcer)
 
 <!-- TODO:
