@@ -3,6 +3,10 @@
 **Prerequisites**:
 - JavaScript
 
+**Requirements**:
+- must complete all of these requirements
+- must move through requirements in sequential order
+
 <!-- TODO: overview -->
 
 ## Timeline, guidelines & tips for your presentation 🎤
@@ -75,30 +79,39 @@ Please feel free to pepper us with questions or requests for feedback. Thank you
 ```
 
 ## Final Project Rubric
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: 
 - [GitHub](https://github.com/DPI-WE/rubric/blob/main/sdf/final-project/overview.md)
 
 ## Submit Showcase slides 🖼️
 - **Points**: 10
-- **Submitting**: a website url
+- **Requirements**: submit website url
+- **Due**: end of week 10
 ```md
 Please submit a link to your google slides. Make sure to give editor permissions for presentation and video to anyone with the link.
 ```
 
 ## Submit Final Project Functional Specification 📝
 - **Points**: 10
-- **Submitting**: a website url
+- **Requirements**: submit website url
+- **Due**: end of week 12
 ```md
 Please submit the Functional Specification 📝 for your final project. This will be used to evaluate if your final project satisfies the requirements.
 ```
 
 ## Submit Final Project GitHub Repository URL 🔗 📦
 - **Points**: 10
-- **Submitting**: a website url
+- **Requirements**: submit website url
+- **Due**: end of week 12
 ```md
 Make sure to update the repository name and README with details about your project. The README normally documents whatever steps are necessary to get the application up and running. If you used a GitHub project for issue tracking make sure to make it public and link to it in the README (or as a comment on this submission).
 ```
 
 ## Submit Final Project Screencast Demo Video 🎬
+- **Points**: 10
+- **Requirements**: submit website url
+- **Due**: end of week 12
 ```md
 You will record a very brief (2-5 minute) screencast talking me through your application. What is the name? What problem does it solve? Who is it for? How does it solve this problem? Imagine that in the future some day you will interview for a position as a product manager, and this screencast will be your way of demonstrating that you rolled up your sleeves and learned how to code at one point.
 
@@ -111,11 +124,15 @@ Once recorded, upload the video file to YouTube, Dropbox, Google Drive, or whate
 
 ## Submit Final Project URL 🌐
 - **Points**: 10
-- **Submitting**: a website url
+- **Requirements**: submit website url
+- **Due**: end of week 12
 ```md
 Please include a sample user login we can use to try it out.
 ```
 
 ## Showcase 🎉
+- **Points**: 0
+- **Requirements**: 
+- **Due**:
 - [Video: Part 1](https://youtu.be/B7uhhCTt43M)
 - [Video: Part 2](https://youtu.be/zWwDM8EDT9c)

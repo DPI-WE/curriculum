@@ -3,9 +3,15 @@
 **Prerequisites**:
 - JavaScript
 
+**Requirements**:
+<!-- none -->
+
 <!-- TODO: overview -->
 
 ## Pagination 📄
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: 
 - [Video](https://youtu.be/zxtc5Ye-TkY)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/13)
 ```md
@@ -15,16 +21,25 @@ Pagination is something most applications should support. Imagine having >1 mill
 ```
 
 ## Searching and filtering 🔎
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: 
 - [Learn](https://learn.firstdraft.com/lessons/208-ransack)
 - [GitHub](https://github.com/appdev-lessons/ransack)
 - [Video](https://youtu.be/QXwLYIXMF40)
 - [Code](https://github.com/DPI-WE/readit/pull/6)
 
 ## N+1s, Caching and Performance 🏎️
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: 
 - [Learn](https://learn.firstdraft.com/lessons/299-rails-performance)
 - [GitHub](https://github.com/DPI-WE/rails-performance)
 
 ## Background Jobs 🦸
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: 
 - [Learn](https://learn.firstdraft.com/lessons/351-background-jobs)
 - [GitHub](https://github.com/DPI-WE/background-jobs)
 - [Video](https://youtu.be/yFZ8fA5ulTs)

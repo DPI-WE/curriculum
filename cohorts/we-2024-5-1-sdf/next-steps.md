@@ -10,6 +10,9 @@
 ## [Video](https://youtu.be/PQc5NR6ZE6c)
 
 ## Impostor Syndrome 🥸
+- **Points**: 0
+- **Requirements**: submit website url
+- **Due**: end of week 12
 ```md
 ![](./assets/impostor-syndrome.webp)
 
@@ -39,6 +42,9 @@ Still not convinced you're doing great?... check out [my learning journey timeli
 ```
 
 ## Tech Roles and Interviewing 🧑‍💻
+- **Points**: 2
+- **Requirements**: submit website url
+- **Due**: end of week 12
 - [Slides](https://dpi-we.github.io/tech-roles-interviewing/)
 - [GitHub](https://github.com/DPI-WE/tech-roles-interviewing)
 ```md
@@ -48,6 +54,9 @@ Let's talk through tech roles and interviewing for software jobs.
 ```
 
 ## Continuous Learning 📚
+- **Points**: 10
+- **Requirements**: submit text entr box
+- **Due**: n/a
 ```md
 For all of the resources below: keep writing your Today I Learned blog posts. It's incredibly useful to cement your learning, and also employers love seeing it.
 
