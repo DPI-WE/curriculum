@@ -6,6 +6,9 @@
 <!-- TODO: overview -->
 
 ## SEO - Search Engine Optimization 🔎
+- **Points**: 0 
+- **Requirements**: mark as done
+- **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/400-search-engine-optimization)
 - [GitHub](https://github.com/DPI-WE/search-engine-optimization)
 - [Video](https://youtu.be/pO1R2iunoMA)

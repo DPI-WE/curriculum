@@ -64,7 +64,8 @@ Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get
 
 ## "Noticing" a Project Idea 🤔
 - **Points**: 2
-- **Submitting**: a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 - [Slides](https://github.com/DPI-WE/sdf-noticing-a-project-idea)
 - [Video](https://www.youtube.com/watch?v=4yPewZRnhaQ)
 ```md
@@ -75,7 +76,8 @@ This lesson discusses how to think about project ideas
 
 ## Pain Points 🥲
 - **Points**: 2
-- **Submitting**: a text entry box
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 - [Slides](https://github.com/DPI-WE/sdf-pain-points)
 - [Video](https://youtu.be/3QbfM3xbT6U)
 ```md
@@ -86,7 +88,8 @@ This lesson discusses pain points and the solutions built to address them.
 
 ## Keep it simple 😽
 - **Points**: 2
-- **Submitting**: a text entry box or a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 - [Slides](https://github.com/dpi-we/sdf-keep-it-simple)
 - [Video](https://youtu.be/2f451BQ6dqY)
 ```md
@@ -97,7 +100,8 @@ This lesson talks about early versions of famous products and encourages you to 
 
 ## Sketches ✍️
 - **Points**: 2
-- **Submitting**: a text entry box, a website url, or a file upload
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 ```md
 Once you have an idea in mind, reach for pen and paper and start sketching.
 
@@ -122,7 +126,8 @@ Here is an early sketch of X (formerly Twitter) (formerly Twttr) circa 2006 for 
 
 ## User Stories 📖
 - **Points**: 2
-- **Submitting**: a text entry box or a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 ```md
 When I'm writing down a feature, I usually phrase it as a [User Story](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/). User stories are just features, phrased in a particular manner:
 
@@ -140,6 +145,9 @@ These proof-of-concept features are what you should try to design a domain model
 ```
 
 ## Domain model 🤓
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 ```md
 Before we begin writing code, we want to have our complete domain model in hand:
 
@@ -156,7 +164,8 @@ Before we begin writing code, we want to have our complete domain model in hand:
 ```
 ### Domain Model: Spreadsheet 📋
     - **Points**: 2
-    - **Submitting**: a website url
+    - **Requirements**: submit the assignment
+    - **Due**: end of week 7
     ```md
     Please submit a link to a Google Sheet of your domain model with a few rows of sample data.
     ```
@@ -167,7 +176,8 @@ Before we begin writing code, we want to have our complete domain model in hand:
 
 ## User Feedback 🗣️
 - **Points**: 2
-- **Submitting**: a text entry box
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 - [Slides](https://github.com/heratyian/user-feedback)
 - [Video](https://youtu.be/WKOKIIo1fUQ)
 ```md
@@ -178,7 +188,8 @@ This lesson goes over some techniques to talk to users effectively.
 
 ## Estimating and prioritizing work 🤔
 - **Points**: 2
-- **Submitting**: a text entry box or a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 - [Slides](https://github.com/DPI-WE/sdf-estimating-and-prioritizing/)
 - [Video](https://youtu.be/isHiBj5gAwc)
 ```md
@@ -199,7 +210,8 @@ As a user, I want to register for an account to create and manage my calendars.
 
 ## Functional Specification 📝
 - **Points**: 2
-- **Submitting**: a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
 - [Video](https://youtu.be/twc8BAyKuWE)
 ```md
 Make sure you have already identified a Pain Point 🥲, Submitted Project Ideas 🤔, written User Stories 📖, Sketches ✍️ and Created a domain model 🤓.
@@ -228,7 +240,8 @@ We strongly suggest you get approval from an instructor for your project idea be
 
 ## Getting started 🎬
 - **Points**: 2
-- **Submitting**: a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 8
 ```md
 Before getting started, make sure you have already identified a Pain Point 🥲 written User Stories 📖, Created a domain model 🤓 and put this all together in a Functional Specification 📝.
 
@@ -253,7 +266,8 @@ Please watch this video on [How to Build An MVP](https://www.youtube.com/watch?v
 
 ## Launch 🚀
 - **Points**: 2
-- **Submitting**: a website url
+- **Requirements**: submit the assignment
+- **Due**: end of week 9
 - [Video](https://youtu.be/rSwtMEx5h-I)
 ```md
 Launch as soon as you can so you can start collecting real data and test your hypothesis.
@@ -269,7 +283,8 @@ Another helpful [gist](https://gist.github.com/heratyian/706d70d1e5aee64f2dd40ea
 
 ## How to get your first 5 users (and convert them to customers) 5️⃣📲🥳
 - **Points**: 2
-- **Submitting**: a text entry box or a file upload
+- **Requirements**: submit the assignment
+- **Due**: end of week 11
 - [Slides](https://github.com/DPI-WE/how-to-get-your-first-5-users-customers)
 - [Video](https://youtu.be/ytcySD0wFOQ)
 ```md

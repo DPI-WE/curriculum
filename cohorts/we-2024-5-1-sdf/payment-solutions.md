@@ -6,6 +6,9 @@
 <!-- TODO: overview -->
 
 ## Payments 🤑
+- **Points**: 0 
+- **Requirements**: mark as done
+- **Due**:
 - [Video](https://youtu.be/iTR6_eIlHzA)
 ```md
 Payments is something most developers should consider adding to their applications. A great way to validate you are solving a real problem is to charge users for the solution. Please explore this example app called [Members Only](https://github.com/appdev-projects/members-only). It is a simple stripe integration that charges users membership dues.
