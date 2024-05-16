@@ -6,6 +6,9 @@
 <!-- TODO: overview -->
 
 ## ChatGPT 🧠
+- **Points**: 0 
+- **Requirements**: mark as done
+- **Due**:
 - [Video](https://www.youtube.com/watch?v=0j097m8M4T4)
 - [Slides](https://bit.ly/49ztZXD)
 ```md
