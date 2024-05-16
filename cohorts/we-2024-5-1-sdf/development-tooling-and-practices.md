@@ -81,6 +81,9 @@ Please submit a screenshot showing this folder.
 ```
 
 ## Cargo Cults 🪂
+- **Points**: 0
+- **Requirements**:  mark as done
+- **Due**: end of week 3
 - [Video](https://youtu.be/6fiayGO36OA)
 - [Slides](https://github.com/DPI-WE/sdf-cargo-cults)
 ```md
