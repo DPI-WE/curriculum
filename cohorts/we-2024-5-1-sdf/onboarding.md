@@ -8,6 +8,7 @@
 ## Welcome!
 - **Points**: 0
 - **Requirements**: mark as done
+- **Due**: end of week 1
 <!-- TODO: add welcome video -->
 
 
@@ -38,6 +39,7 @@ Discord Server Rules
 
 ### Follow up email
 - **Points**: 2
+- **Requirements**: submit the assignment
 - **Due**: end of week 1
 ```md
 Send an email from your student account to a TA with the subject line: “Setup my email”. This will confirm that you have successfully set up your email client.
@@ -52,8 +54,11 @@ Send an email from your student account to a TA with the subject line: “Setup 
 
 ### Follow up calendar invite
 - **Points**: 2
+- **Requirements**: submit the assignment
 - **Due**: end of week 1
-**Assignment**: Create a New Recurring Meeting and add a TA
+```md
+Create a New Recurring Meeting and add a TA
+```
 
 <!-- TODO: check if there is an updated lesson for this -->
 ## Learn: create an account ✏️
