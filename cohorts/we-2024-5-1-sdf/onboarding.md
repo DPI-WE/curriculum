@@ -65,7 +65,6 @@ Send an email from your student account to a TA with the subject line: “Setup 
 Create a New Recurring Meeting and add a TA
 ```
 
-<!-- TODO: check if there is an updated lesson for this -->
 ## Learn: create an account ✏️
 - **Points**: 0
 - **Requirements**: mark as done

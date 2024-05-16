@@ -34,19 +34,8 @@ Once you have created your account, submit the URL of your learning journal. It 
 - **Points**: 2
 - **Requirements**: submit the assignment
 - **Due**: end of week 1
-```md
-Please create a `notes` folder inside your `Workspace` folder.
-
-![](./assets/taking-notes-1.png)
-
-I like to create a [markdown](https://www.markdownguide.org/) file every morning for all my notes. I usually track how I spend my time, meeting notes, links, and things I need to do that day. I encourage you to install [Visual Studio Code](https://code.visualstudio.com/) on your laptop for writing notes.
-
-![](./assets/taking-notes-2.png)
-
-If you want to go a step further, make your notes folder a git repository. That way you can push commits to a GitHub repository and share notes between multiple devices.
-
-Please submit a screenshot showing this notes folder with a markdown file for todays notes.
-```
+- [Learn](https://learn.firstdraft.com/lessons/429-taking-notes)
+- [GitHub](https://github.com/DPI-WE/taking-notes)
 
 ## Rails Guides 🦮 <!-- TODO: make this a reading documentation assignment. link to the docs we should reference -->
 - **Points**: 0
