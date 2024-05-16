@@ -7,7 +7,19 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module is designed to enhance your reading, writing, and communication skills, which are crucial for success in software development. Effective communication involves asking clear questions, maintaining thorough documentation, and writing meaningful project descriptions. This module will help you develop these skills through a series of structured activities.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Ask clear and concise questions to get the help you need.
+- Maintain a learning journal to document your progress and reflections.
+- Take effective notes during lectures and self-study sessions.
+- Read and interpret technical documentation and relevant newsletters.
+- Write a comprehensive README file for your projects.
+```
 
 ## Asking Questions ❓
 - **Points**: 2
@@ -17,14 +29,14 @@
 
 ## Keeping a Learning Journal 📝
 - **Points**: 2
-- **Requirements**: submit the assignment
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/428-keeping-a-learning-journal)
 - [GitHub](https://github.com/DPI-WE/keeping-a-learning-journal)
 
 ### Submit URL of your learning journal
 - **Points**: 2
-- **Requirements**: submit the assignment
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
 ```md
 Once you have created your account, submit the URL of your learning journal. It will look something like https://dev.to/demostudent18.
@@ -32,29 +44,21 @@ Once you have created your account, submit the URL of your learning journal. It 
 
 ## Taking notes 📝
 - **Points**: 2
-- **Requirements**: submit the assignment
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/429-taking-notes)
 - [GitHub](https://github.com/DPI-WE/taking-notes)
 
-## Rails Guides 🦮 <!-- TODO: make this a reading documentation assignment. link to the docs we should reference -->
-- **Points**: 0
-- **Requirements**: mark as done
+## Reading Documentation and Newsletters
+- **Points**: 2
+- **Requirements**: score at least 2/2
 - **Due**: end of week 1
+- [Learn](https://learn.firstdraft.com/lessons/430-reading-documentation-and-newsletters)
+- [GitHub](https://github.com/DPI-WE/reading-documentation-and-newsletters)
 
-```md
-The [Rails Guides](https://guides.rubyonrails.org/) are a terrific resource, and you now have the vocabulary to understand the gist of most of them. Especially these:
-
-![](./assets/rails-guides.png)
-
-For example, I feel like I learn something new every time I read the [Routing Guide](https://guides.rubyonrails.org/routing.html)
-
-Peruse through the Rails Guides. You don't have to read them word for word, but get a sense of what's in there so that it rings a bell when you run into a use case. Think of questions to discuss next time (or post them on Ask).
-```
-
-- [devdocs.io](https://devdocs.io/)
-<!-- TODO: add api.rubyonrails.org docs -->
-
-<!-- TODO: add a recommended newsletters assignment -->
-
-## How to write a README <!-- TODO -->
+## How to Write a Good README 📄
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: tbd
+- [Learn](https://learn.firstdraft.com/lessons/431-how-to-write-a-good-readme)
+- [GitHub](https://github.com/DPI-WE/how-to-write-a-good-readme)
