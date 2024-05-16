@@ -54,28 +54,22 @@ Create a New Recurring Meeting and add a TA
 - **Requirements**: mark as done
 - **Due**: end of week 1
 ```md
-We will be using a platform called Learn to host project notes, embedded quizzes, and to launch GitHub projects.
-
-Visit https://learn.firstdraft.com/users/sign_up to sign up for an account before proceeding.
+We will be using a platform called Learn to host project notes, embedded quizzes, and to launch GitHub projects. Visit https://learn.firstdraft.com/users/sign_up to sign up for an account before proceeding.
 
 You can use whichever email address you prefer for the sign up step.
 
-![](./assets/learn-signup.png)
+![](assets/learn-signup.png)
 
 This will bring you to an empty "Lessons" page, which will begin to populate as you move through the course.
 
-![](./assets/learn-empty-lessons.png)
+![](assets/learn-empty-lessons.png)
 
-In the future, to get back the list of lessons you've begun, click on the "firstdraft" logo at the top of a Lesson page:
+In the future, to get back the list of lessons you've begun, click on the "firstdraft" logo at the top of a Lesson page.
 
-![](./assets/learn-click-firstdraft-icon.png)
+![](assets/learn-click-firstdraft-icon.png)
 
-You can close this browser tab when you've completed the sign up.
-```
+Here are some materials for reference:
 
-<!-- Paired with Learn -->
-### Learn: Setup References (forking, 💻 coding, 📊 grading, etc.)
-```md
 ## Forking, Setting up a Codespace, and using `rake grade`
 - [Learn](https://learn.firstdraft.com/lessons/46)
 - [GitHub](https://github.com/appdev-lessons/project-setup)
