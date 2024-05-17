@@ -8,7 +8,21 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module aims to provide you with the essential tools and best practices needed for efficient and effective software development. From setting up your development environment to understanding debugging techniques and adhering to coding standards, this module will equip you with the skills to enhance your productivity and code quality.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Set up and navigate Visual Studio Code (VS Code) and the terminal.
+- Utilize tips and tricks for efficient development, including hard refreshing and keyboard shortcuts.
+- Apply Mac-specific tips, tricks, and shortcuts to streamline your workflow.
+- Create and manage workspace and scratch folders.
+- Set up a development environment on your device.
+- Understand and apply debugging techniques to troubleshoot and resolve code issues.
+- Follow style guides and use linters to maintain code quality and consistency.
+```
 
 ## VS Code and the terminal
 <!-- TODO: add questions / points -->
