@@ -5,7 +5,10 @@
 
 <!-- TODO: overview -->
 
+<!-- TODO: prompting tips -->
+
 ## ChatGPT 🧠
+<!-- TODO: maybe split up this lesson? -->
 - **Points**: 0 
 - **Requirements**: mark as done
 - **Due**:
