@@ -31,17 +31,28 @@ By the end of this module, you will be able to:
 
 ## Tips and Tricks: hard refreshing and keyboard shortcuts
 <!-- TODO: add questions / points -->
+<!-- 
+    TODO: could split into 3 lessons
+        - browsers, chrome, and hard refreshing
+        - terminal shortcuts and other productivity tips
+        - vscode shortcuts and other productivity tips
+
+-->
 - [Learn](https://learn.firstdraft.com/lessons/31)
 - [GitHub](https://github.com/appdev-lessons/tips-and-tricks)
-
-## Mac tips & tricks
-<!-- TODO: add questions / points -->
-- [Learn](https://learn.firstdraft.com/lessons/2)
 
 <!-- 
 TODO: add lesson on browsers
 how they are different and why we use chrome in the course.
 -->
+
+## Mac tips & tricks
+<!-- TODO: add more questions / points -->
+- **Points**: 1
+- **Requirements**: score at least 1/1
+- **Due**: end of week 1
+- [Learn](https://learn.firstdraft.com/lessons/2)
+
 
 <!-- https://github.com/DPI-WE/setting-up-a-development-environment/issues/7 -->
 ## Create a Workspace folder 👷
@@ -131,7 +142,9 @@ Let's dive into some history and techniques to understand problems and engineer 
 - [GitHub](https://github.com/DPI-WE/debugging)
 
 ## Style Guides and Linters 🕺💃
-<!-- TODO: add questions / points -->
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: TBD
 - [Learn](https://learn.firstdraft.com/lessons/390-style)
 - [GitHub](https://github.com/DPI-WE/style)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/27)
