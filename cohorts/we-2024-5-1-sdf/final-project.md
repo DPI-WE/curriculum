@@ -12,10 +12,11 @@
 ## Timeline, guidelines & tips for your presentation 🎤
 ```md
 ## Timeline
--  Thursday April 11: Rehearsals
-- Friday April 12: Final Project Due
-- Monday April 15 and Tuesday April 16: Final Presentations
-- Thursday, April 25, 3-7pm: The Showcase! Discovery Room. A science fair style demo where you can network and show off your project with co-workers, friends, and family.
+<!-- final projects due last wednesday, thursday demo, friday turn in equipment -->
+- Week 10: Rehearsals
+- Week 10: Final Presentations
+- Wednesday Week 12: Final Projects Due
+- Thursday, Week 12, 3-7pm: The Showcase! Discovery Room. A science fair style demo where you can network and show off your project with co-workers, friends, and family.
 
 ## Guidelines & tips
 Here are some guidelines & tips for your presentation:

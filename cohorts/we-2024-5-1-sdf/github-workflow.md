@@ -120,6 +120,10 @@ Please submit the URL of your pull request once it's been approved and merged.
 [Video](https://youtu.be/tcg0YFCfSZw)
 ```
 
+<!-- TODO: github projects / kanban -->
+<!-- move here? -->
+<!-- - [Estimating and prioritizing work 🤔](./building-your-own-idea.md#estimating-and-prioritizing-work-🤔) -->
+
 ## Contributing 🙋
 - **Points**: 2
 - **Requirements**:
