@@ -3,7 +3,6 @@ This intensive 12-week, in-person full stack web development program is designed
 
 ## Modules
 
-<!-- TODO: add overviews -->
 ### Web Development
 - [Onboarding](./onboarding.md)
 - [Durable Skills](./durable-skills.md)

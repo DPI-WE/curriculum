@@ -6,7 +6,19 @@
 **Requirements**:
 <!-- none -->
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on techniques and best practices for optimizing the performance of your web applications. You will learn how to implement pagination, searching and filtering, handle N+1 queries, use caching, and manage background jobs. These skills are essential for building scalable and efficient applications.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Implement pagination to efficiently handle large datasets.
+- Add searching and filtering capabilities to your applications.
+- Identify and resolve N+1 query issues.
+- Use caching to improve application performance.
+- Implement background jobs to handle long-running tasks.
+```
 
 ## Pagination 📄
 - **Points**: 0
