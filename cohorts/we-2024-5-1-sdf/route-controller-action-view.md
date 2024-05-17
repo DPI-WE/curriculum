@@ -65,8 +65,12 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/rails-omnicalc-2)
 
 <!-- TODO: maybe move later? -->
-<!-- accepts_nested_attributes -->
 ## Nesting Routes and Attributes 🪆
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: TBD
+- [Learn](https://learn.firstdraft.com/lessons/433-rails-nesting)
+- [GitHub](https://github.com/DPI-WE/rails-nesting)
 
 <!-- TODO: make optional? -->
 <!-- Target url isn't working -->
