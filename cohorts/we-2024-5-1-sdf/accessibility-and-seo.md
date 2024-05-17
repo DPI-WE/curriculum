@@ -1,11 +1,19 @@
-# Search Engine Optimization (SEO)
+# Accessibility and Search Engine Optimization (SEO)
 
 **Prerequisites**:
 - JavaScript
 
 <!-- TODO: overview -->
 
+## Semantic HTML and Accessibility 👓
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: tbd
+- [Learn](https://learn.firstdraft.com/lessons/432-semantic-html-and-accessibility)
+- [GitHub](https://github.com/DPI-WE/semantic-html-and-accessibility)
+
 ## SEO - Search Engine Optimization 🔎
+<!-- TODO: add quiz? -->
 - **Points**: 0 
 - **Requirements**: mark as done
 - **Due**:

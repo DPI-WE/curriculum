@@ -32,9 +32,3 @@ I recommend these two readings, at a minimum:
 - [Butterick’s Typography In Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) — the whole book is short and worth a read if you like the 10 minute intro.
 - [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html) - and [part 2](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html#rule-4-learn-the-methods-of-overlaying-text-on-images)
 ```
-
-<!-- TODO -->
-## Semantic HTML and Accessibility 👓
-```md
-WCAG (Web Content Accessibility Guidelines)
-```

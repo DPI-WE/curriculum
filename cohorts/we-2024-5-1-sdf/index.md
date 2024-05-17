@@ -28,7 +28,7 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Performance and Optimization](./performance-and-optimization.md)
 - [Quality Assurance, Testing, and Monitoring](./qa-testing-and-monitoring.md)
 - [Application Management, Analytics and Insights](./application-management-analytics-and-insights.md)
-- [Search Engine Optimization (SEO)](./seo.md)
+- [Accessibility and Search Engine Optimization (SEO)](./accessibility-and-seo.md)
 - [Artificial Intelligence](./artificial-intelligence.md)
 - [Authentication, Authorization, and Security](./authentication-authorization-and-security.md)
 - [Cloud](./cloud.md)

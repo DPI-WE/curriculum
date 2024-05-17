@@ -29,6 +29,7 @@ TODO: add lesson on browsers
 how they are different and why we use chrome in the course.
 -->
 
+<!-- https://github.com/DPI-WE/setting-up-a-development-environment/issues/7 -->
 ## Create a Workspace folder 👷
 ```md
 It's a best practice to keep 1 workspace folder for all of your code. Let's set that up now.
@@ -74,7 +75,7 @@ Documents Movies Public
 
 Please submit a screenshot showing this new folder.
 ```
-
+<!-- https://github.com/DPI-WE/setting-up-a-development-environment/issues/7 -->
 ## Scratch folder 😼
 ```md
 Please create a `scratch` folder inside your `Workspace`.
