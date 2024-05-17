@@ -7,7 +7,22 @@
 **Requirements**:
 - must complete all of these requirements
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module introduces the essential concepts and practices of using Git and GitHub for version control, collaboration, and project management. You will learn to manage your codebase effectively, work with branches, perform code reviews, and automate workflows using GitHub Actions.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Sign up for and set up a GitHub account.
+- Commit changes and push code to a GitHub repository.
+- Understand basic Git commands and workflows.
+- Create and merge branches.
+- Submit pull requests and perform code reviews.
+- Contribute to open source projects.
+- Utilize a kanban board for project management
+- Implement continuous integration and deployment using GitHub Actions.
+```
 
 ## Sign up for GitHub 😸
 - **Points**: 0
