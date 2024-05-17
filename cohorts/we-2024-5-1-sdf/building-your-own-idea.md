@@ -1,13 +1,27 @@
 # Building Your Own Idea
 
 **Prerequisites**:
-<!-- none? -->
+<!-- TODO: none? -->
 
 **Requirements**:
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module guides you through the process of developing your own software project from ideation to launch. You will identify a problem, create a solution, and build a proof of concept, culminating in a functional application. Throughout the module, you will document your progress, gather user feedback, and refine your project based on real-world usage.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Identify a problem that can be solved with software and articulate the solution.
+- Develop a functional specification for your project.
+- Sketch and wireframe your idea to visualize the user experience.
+- Create user stories and a domain model for your application.
+- Gather and incorporate user feedback into your project.
+- Build, deploy, and launch your project.
+- Engage with your network and convert them into users/customers.
+```
 
 ## Building your own idea 💡
 - [Video](https://youtu.be/4uxzx9Pevcs)
