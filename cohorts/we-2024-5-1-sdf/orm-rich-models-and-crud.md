@@ -8,7 +8,20 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on leveraging Object Relational Mapping (ORM) with ActiveRecord to interact with the database, create rich domain models, and perform CRUD (Create, Read, Update, Delete) operations. You will learn to build robust applications by efficiently managing data, ensuring data integrity, and developing user interfaces that interact seamlessly with the backend.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Use ActiveRecord to perform database queries and manage data.
+- Debug and optimize ActiveRecord queries.
+- Build graphical user interfaces (GUI) to interact with the database.
+- Refactor code for improved readability and maintainability.
+- Ensure data integrity with validations.
+- Develop and enhance rich domain models.
+```
 
 ## Must See Movies Queries: Intro to ActiveRecord 🎞️
 - **Points**: 10
