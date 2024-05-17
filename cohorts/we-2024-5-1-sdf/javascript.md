@@ -7,7 +7,21 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module introduces you to JavaScript, focusing on its integration with Rails applications. You will learn to enhance your applications with dynamic and interactive features using JavaScript, JQuery, and Ajax. By the end of this module, you will be able to "ajaxify" your applications, organize JavaScript code effectively, and implement advanced front-end techniques.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand the basics of JavaScript and its role in web development.
+- Implement Ajax to enhance the user experience by making asynchronous requests.
+- Organize JavaScript code for maintainability and scalability.
+- Create and manage pull requests for JavaScript-related features.
+- Conduct code reviews focusing on JavaScript and Ajax implementations.
+<!-- - Use Hotwire/Turbo for building modern, fast, and reactive web applications. -->
+<!-- - User Stimulus.js to add a loading spinner to long running requests -->
+```
 
 ## JavaScript: The Slimmest Guide ☕️
 - **Points**: 0
@@ -55,11 +69,12 @@ https://github.com/appdev-projects/ujs-practice-1
 
 You can follow the [step by step commits](https://github.com/appdev-projects/ujs-practice-1/commits/bp-solution) and build your own todo list app to learn more about Rails UJS (Unobtrusive JavaScript)
 ```
-
+<!-- TODO: add quiz questions -->
 ## Organizing JavaScript Code ☕️
 - [Learn](https://learn.firstdraft.com/lessons/295-rails-organizing-js-code)
 - [GitHub](https://github.com/DPI-WE/rails-organizing-js-code)
 
+<!-- TODO: simplify -->
 ## Hotwire/Turbo 🔥
 ```md
 - [The official turbo documentation](https://turbo.hotwired.dev/)
@@ -72,4 +87,3 @@ You can follow the [step by step commits](https://github.com/appdev-projects/ujs
 
 <!-- TODO -->
 ## Loading Spinner 😵‍💫
-
