@@ -1,6 +1,4 @@
 # Industrial Grade Application: Photogram
-<!-- TODO: add point requirements -->
-<!-- TODO: refactor so we merge into main (which is more common) -->
 
 **Prerequisites**:
 - Scaffolding and Helper Methods
@@ -9,7 +7,20 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on developing a robust, industrial-grade application called Photogram. You will work through various stages of building this application, implementing user accounts, associations, validations, and user interfaces. The module also includes lessons on code reviews, pull requests, and authorization with Pundit.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Implement user authentication using Devise.
+- Scaffold resources and manage data using ActiveRecord.
+- Create and manage associations and validations.
+- Develop user interfaces and refactor code for better maintainability.
+- Conduct code reviews and manage pull requests.
+- Implement authorization using Pundit.
+```
 
 ## Photogram Industrial Part 1: Devise accounts and photos scaffold 📸 🏭
 - **Points**: 10
