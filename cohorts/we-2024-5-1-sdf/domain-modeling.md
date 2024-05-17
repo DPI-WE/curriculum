@@ -6,7 +6,19 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module introduces the essential concepts of domain modeling, which is crucial for designing and organizing the structure of your data within a web application. By creating and analyzing entity relationship diagrams (ERDs), you will learn how to map out the relationships between different data entities, ensuring that your applications are both efficient and scalable.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand the principles of domain modeling and its importance in application development.
+- Create and interpret entity relationship diagrams (ERDs).
+- Identify and define the tables and columns needed to store and manage data.
+- Establish relationships between different data entities (one-to-many, many-to-many).
+- Apply domain modeling techniques to real-world applications.
+```
 
 ## Record Keeping 📑
 - **Points**: 0
