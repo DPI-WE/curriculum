@@ -3,7 +3,18 @@
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on improving the accessibility and search engine visibility of your web applications. You will learn to implement semantic HTML to enhance accessibility and optimize your application for search engines to improve its discoverability.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Implement semantic HTML to enhance web accessibility.
+- Understand and apply accessibility best practices to ensure your application is usable by people with disabilities.
+- Optimize your web application for search engines to improve its visibility and ranking.
+- Identify and target relevant keywords for SEO.
+```
 
 ## Semantic HTML and Accessibility 👓
 - **Points**: 2
@@ -26,5 +37,3 @@
 ```
 
 <!-- TODO: demo keeping a blog on the site -->
-
-<!-- TODO: maybe add the get first 5 users assignment? -->
