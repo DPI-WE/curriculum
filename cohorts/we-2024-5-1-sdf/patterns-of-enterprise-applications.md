@@ -7,7 +7,22 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on the design patterns, architectural principles, and best practices essential for building robust and scalable enterprise applications. You will explore various design patterns, learn to write clean and maintainable code, and implement advanced techniques to improve the architecture of your applications.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand and apply service objects in Rails applications.
+- Implement domain-driven design principles.
+- Use ActiveRecord callbacks effectively.
+- Write clean and maintainable code.
+- Organize code using modules and concerns.
+- Implement component-based view templates.
+- Apply polymorphism in your applications.
+- Refactor code for improved readability and performance.
+```
 
 ## Introduction to Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐
 - **Points**: 2
