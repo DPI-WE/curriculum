@@ -3,7 +3,18 @@
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on the essential processes of extracting, transforming, and loading (ETL) data. You will learn how to add sample data, work with CSV files, and perform web scraping to gather data from websites. These skills are crucial for building applications that require data manipulation and integration from various sources.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Add sample data to your applications for testing and development.
+- Load and export data using CSV files.
+- Perform web scraping to extract data from websites.
+- Understand the principles and practices of ETL processes.
+```
 
 ## Adding sample data 🥸
 - **Points**: 0 
