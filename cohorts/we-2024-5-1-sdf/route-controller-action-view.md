@@ -7,6 +7,21 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
+## Overview
+```md
+This module focuses on the fundamental concepts of the Rails framework, specifically the Route, Controller, Action, View (RCAV) pattern. Understanding RCAV is crucial for building robust web applications, as it defines how user requests are handled and processed in Rails. Through a series of hands-on projects and readings, you will learn how to create routes, define controller actions, and render views effectively.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand and implement the RCAV pattern in Rails applications.
+- Create and manage routes to handle user requests.
+- Define controller actions to process data and interact with the model.
+- Render views to display data to users.
+- Debug and troubleshoot common issues in Rails applications.
+- Apply different Ruby styles to enhance code readability and maintainability.
+```
+
 ## Rails: Rock, Paper, Scissors 🪨🧻✂️
 - **Points**: 5
 - **Requirements**: score at least 5.0
@@ -49,10 +64,12 @@
 - [Learn](https://learn.firstdraft.com/lessons/124)
 - [GitHub](https://github.com/appdev-lessons/rails-omnicalc-2)
 
-<!-- TODO -->
+<!-- TODO: maybe move later? -->
+<!-- accepts_nested_attributes -->
 ## Nesting Routes and Attributes 🪆
 
 <!-- TODO: make optional? -->
+<!-- Target url isn't working -->
 ## QR Code 🤳
 ```md
 In this project we'll practice RCAV and query string params by building a web-based QR code generator.
@@ -60,4 +77,5 @@ In this project we'll practice RCAV and query string params by building a web-ba
 https://github.com/appdev-projects/qr-code-rails
 ```
 
-## (Reading) [Understanding the Rails Application Structure](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj)
+## (Reading) Understanding the Rails Application Structure
+- [Link](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj)
