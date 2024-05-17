@@ -7,6 +7,19 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
+## Overview
+```md
+This module introduces you to the powerful tools of scaffolding and helper methods in Rails, which streamline the development process and enhance productivity. Scaffolding provides a quick way to generate the basic structure of your application, while helper methods simplify the creation of routes, forms, and views. You will learn to use these tools effectively to build robust applications with clean and maintainable code.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Use scaffolding to quickly generate the structure of a Rails application.
+- Utilize helper methods for named routes and links.
+- Create forms using Rails form helpers.
+- Integrate Bootstrap for styling and use partials to DRY up your views.
+```
+
 ## Getting Started with Scaffolds 🏗️
 - **Points**: 10
 - **Requirements**: Score at least 10.0
