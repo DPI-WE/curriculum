@@ -2,7 +2,7 @@
 
 **Prerequisites**:
 - onboarding
-- Writing, Documentation, and Asking Questions
+<!-- - Writing, Documentation, and Asking Questions -->
 
 **Requirements**:
 - must complete all of these requirements
@@ -11,15 +11,23 @@
 <!-- TODO: overview -->
 
 ## VS Code and the terminal
+<!-- TODO: add questions / points -->
 - [Learn](https://learn.firstdraft.com/lessons/61)
 - [GitHub](https://github.com/appdev-lessons/vscode-terminal/)
 
 ## Tips and Tricks: hard refreshing and keyboard shortcuts
+<!-- TODO: add questions / points -->
 - [Learn](https://learn.firstdraft.com/lessons/31)
 - [GitHub](https://github.com/appdev-lessons/tips-and-tricks)
 
 ## Mac tips & tricks
+<!-- TODO: add questions / points -->
 - [Learn](https://learn.firstdraft.com/lessons/2)
+
+<!-- 
+TODO: add lesson on browsers
+how they are different and why we use chrome in the course.
+-->
 
 ## Create a Workspace folder 👷
 ```md
@@ -80,17 +88,8 @@ This is a place to experiment and create one off scripts and files.
 Please submit a screenshot showing this folder.
 ```
 
-## Cargo Cults 🪂
-- **Points**: 0
-- **Requirements**:  mark as done
-- **Due**: end of week 3
-- [Video](https://youtu.be/6fiayGO36OA)
-- [Slides](https://github.com/DPI-WE/sdf-cargo-cults)
-```md
-Let's dive into some history and techniques to understand problems and engineer solutions.
-```
-
 ## Setting Up a Development Environment 🧑‍💻
+<!-- TODO: add questions / points -->
 - [Learn](https://learn.firstdraft.com/lessons/332-setting-up-a-development-environment)
 - [GitHub](https://github.com/DPI-WE/setting-up-a-development-environment)
 ```md
@@ -99,11 +98,25 @@ We use pre-configured virtual machines (codespaces) to make it really easy to ge
 Checkout this wonderful guide to setting up Ruby and Rails on your own machine. It's good practice for ramping onto a project and getting your machine setup for development.
 ```
 
+## Cargo Cults 🪂
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 3
+- [Video](https://youtu.be/6fiayGO36OA)
+- [Slides](https://github.com/DPI-WE/sdf-cargo-cults)
+```md
+Let's dive into some history and techniques to understand problems and engineer solutions.
+```
+
 ## Debugging 🪳
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/290-debugging)
 - [GitHub](https://github.com/DPI-WE/debugging)
 
 ## Style Guides and Linters 🕺💃
+<!-- TODO: add questions / points -->
 - [Learn](https://learn.firstdraft.com/lessons/390-style)
 - [GitHub](https://github.com/DPI-WE/style)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/27)

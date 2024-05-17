@@ -1,4 +1,4 @@
-<!-- TODO: anything else needed here? eg attendance, schedule, expectations, etc. -->
+<!-- TODO: anything else needed here? eg attendance, schedule, expectations, timesheets etc. -->
 # Onboarding
 
 **Requirements**:
@@ -28,7 +28,7 @@ By the end of this module, you will be able to:
 - **Due**: end of week 1
 <!-- TODO: add welcome video -->
 
-## Join Discord chat 💬
+## Join the chat 💬
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
