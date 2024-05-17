@@ -8,7 +8,18 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module introduces you to the fundamentals of web design and styling using HTML, CSS, and Bootstrap. You will learn how to create visually appealing and user-friendly web pages, utilizing design resources and best practices to enhance the user experience. This foundation will enable you to build aesthetically pleasing and functional web applications.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand the basic structure and syntax of HTML and CSS.
+- Apply Bootstrap to quickly develop responsive and modern web designs.
+- Utilize design resources to enhance the visual appeal of web pages.
+- Implement typography and design principles to improve user interface (UI) aesthetics.
+```
 
 ## Introduction to Bootstrap 🥾
 - **Points**: 2
