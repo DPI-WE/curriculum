@@ -3,7 +3,19 @@
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on implementing robust authentication and authorization mechanisms, as well as ensuring the security of your applications. You will learn to use Pundit for authorization, manage application security, encrypt credentials, store credentials securely, and implement authentication using OAuth.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Implement authorization using Pundit.
+- Apply best practices for application security.
+- Use encrypted credentials in your applications.
+- Store credentials securely using environment variables.
+- Implement authentication using OAuth.
+```
 
 ## Reading: Authorization with Pundit 🔒
 - **Points**: 0 
