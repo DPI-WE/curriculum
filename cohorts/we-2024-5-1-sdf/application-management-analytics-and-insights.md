@@ -6,7 +6,17 @@ think of this as post-deploy items to do
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on post-deployment activities to manage and gain insights into your applications. You will learn how to set up admin interfaces, track business insights, and analytics to monitor and optimize your application's performance and user engagement.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Set up an admin interface to manage your application's data and users.
+- Implement business insights and analytics to track key metrics and user behaviors.
+- Use analytics tools to make data-driven decisions for improving your application.
+```
 
 ## Admin 🧑‍💼
 - **Points**: 0 
