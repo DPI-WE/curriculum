@@ -7,7 +7,19 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module introduces you to the fundamentals of databases and SQL, focusing on how to store, manage, and retrieve data effectively. You will learn to create and manipulate databases, perform migrations, and understand the basics of SQL. These skills are essential for building robust and data-driven web applications.
+
+### Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand basic database concepts and structures.
+- Create and manage databases.
+- Perform database migrations to evolve your database schema.
+- Write and understand basic SQL queries.
+- Utilize optional resources to deepen your understanding of SQL.
+```
 
 ## Contact Book: Our very first database 📒
 - **Points**: 2
