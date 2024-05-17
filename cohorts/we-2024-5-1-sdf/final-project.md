@@ -7,7 +7,19 @@
 - must complete all of these requirements
 - must move through requirements in sequential order
 
-<!-- TODO: overview -->
+## Overview
+```md
+The Final Project module is the culmination of all the skills and knowledge you've gained throughout the course. This module guides you through the process of building, refining, and presenting a fully functional web application. You will demonstrate your ability to identify a problem, develop a solution, and present your project to an audience.
+
+## Learning Outcomes
+By the end of this module, you will have:
+
+- Developed a fully functional web application.
+- Documented your project with a comprehensive functional specification.
+- Presented your project effectively to an audience.
+- Created a screencast demo video of your project.
+- Deployed your project to a live environment and provided a URL for access.
+```
 
 ## Timeline, guidelines & tips for your presentation 🎤
 ```md
