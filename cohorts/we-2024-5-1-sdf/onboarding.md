@@ -1,4 +1,3 @@
-<!-- TODO: anything else needed here? eg attendance, schedule, expectations, timesheets etc. -->
 # Onboarding
 
 **Requirements**:
@@ -16,7 +15,6 @@ By the end of this module, you will be able to:
 - Set up and verify your student email account.
 - Configure your calendar for managing course schedules and meetings.
 - Create and manage an account on the Learn platform for accessing course materials and assignments.
-- Set up your internal profile for staff and employer partners.
 - Participate in daily stand-ups and understand Agile ceremonies.
 - Set up and use a password manager for secure management of your credentials.
 - Gain an overview of the 12-week course structure and expectations.
@@ -38,6 +36,7 @@ By the end of this module, you will be able to:
 ## Setup your email 📧
 - **Points**: 2
 - **Requirements**: score at least 2/2
+<!-- may not have email setup until later -->
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/421-setup-your-email)
 - [GitHub](https://github.com/DPI-WE/setup-your-email)
@@ -53,6 +52,7 @@ Send an email from your student account to a TA with the subject line: “Setup 
 ## Setup your calendar 📅
 - **Points**: 2
 - **Requirements**: score at least 2/2
+<!-- may not have email setup until later -->
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/422-setup-your-calendar)
 - [GitHub](https://github.com/DPI-WE/setup-your-calendar)
@@ -94,18 +94,6 @@ Here are some materials for reference:
 - [Learn](https://learn.firstdraft.com/lessons/125)
 - [GitHub](https://github.com/appdev-lessons/using-rake-grade)
 ```
-
-## Setup Your Internal Profile
-- **Points**: 2
-- **Requirements**: score at least 2/2
-- **Due**: end of week 1
-- [Learn](https://learn.firstdraft.com/lessons/423-setup-your-internal-profile)
-- [GitHub](https://github.com/DPI-WE/setup-your-internal-profile)
-
-### Submit Your Snapshot URL
-- **Points**: 2
-- **Requirements**: submit
-- **Due**: end of week 1
 
 ## Daily Stand-ups and Agile Ceremonies 🌟
 - **Points**: 2

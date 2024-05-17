@@ -1,0 +1,27 @@
+# Durable Skills
+
+**Requirements**:
+- must complete all of these requirements
+
+## Overview
+```md
+<!-- todo -->
+The Durable Skills module is designed to ensure that all participants are fully prepared to ...
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Set up your internal profile for staff and employer partners.
+```
+
+## Setup Your Internal Profile
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 1
+- [Learn](https://learn.firstdraft.com/lessons/423-setup-your-internal-profile)
+- [GitHub](https://github.com/DPI-WE/setup-your-internal-profile)
+
+### Submit Your Snapshot URL
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 4

@@ -6,6 +6,7 @@ This intensive 12-week, in-person full stack web development program is designed
 <!-- TODO: add overviews -->
 ### Web Development
 - [Onboarding](./onboarding.md)
+- [Durable Skills](./durable-skills.md)
 - [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
 - [Development Tooling and Practices](./development-tooling-and-practices.md)
 - [HTML, CSS, and Design](./html-css-and-design.md)
@@ -100,7 +101,6 @@ We'll also do a live code review and talk about best practices.
 - [Contributing 🙋](./github-workflow.md#contributing-🙋)
 - [Getting started 🎬](./building-your-own-idea.md#getting-started-🎬)
 - [Estimating and prioritizing work 🤔](./building-your-own-idea.md#estimating-and-prioritizing-work-🤔)
-
 
 ### Week 7
 - [Photogram Ajax 📸](./javascript.md#photogram-ajax-📸)
