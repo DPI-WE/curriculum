@@ -45,7 +45,7 @@ This intensive 12-week, in-person full stack web development program is designed
 <!-- TODO: fix meeting links 😅 -->
 ## Meetings
 ### Week 1
-- [Overview 😀](./onboarding.md#overview-😀)
+- [Overview 😀](./onboarding.md#overview-)
 - [Record Keeping 📑](./domain-modeling.md#record-keeping-📑)
 - [Must See Movies 🎞️](./domain-modeling.md#must-see-movies-🎞️)
 - [Records and Relationships 🔗](./domain-modeling.md#records-and-relationships-🔗)
@@ -60,8 +60,8 @@ This intensive 12-week, in-person full stack web development program is designed
 ### Week 2
 - [Photogram 📸](./domain-modeling.md#photogram-📸)
 - [Entity Relationship Diagram (ERD) tool 📊](./domain-modeling.md#entity-relationship-diagram-erd-tool-📊)
-- [Introduction to Bootstrap 🥾](./html-css-design-and-user-interfaces.md#introduction-to-bootstrap-🥾)
-- [Reading: Design Resources 🧑‍🎨](./html-css-design-and-user-interfaces.md#reading-design-resources-🧑‍🎨)
+- [Introduction to Bootstrap 🥾](./html-css-and-design.md#introduction-to-bootstrap-)
+- [Reading: Design Resources 🧑‍🎨](./html-css-and-design.md#reading-design-resources-🧑‍🎨)
 - [Todo List 📝](./domain-modeling.md#todo-list-📝)
 
 ### Week 3
@@ -105,8 +105,8 @@ We'll also do a live code review and talk about best practices.
 - [Photogram Ajax 📸](./javascript.md#photogram-ajax-📸)
 - [Final Project](./final-project.md)
 - [Adding sample data 🥸](./data-extract-transform-load.md#adding-sample-data-🥸)
-- [Breadcrumbs 🍞](./html-css-design-and-user-interfaces.md#breadcrumbs-🍞)
-- [Flashes / Alerts 🚨](./html-css-design-and-user-interfaces.md#flashes-and-alerts-🚨)
+- [Breadcrumbs 🍞](./user-interface.md#breadcrumbs-🍞)
+- [Flashes / Alerts 🚨](./user-interface.md#flashes-and-alerts-)
 - [Pagination 📄](./performance-and-optimization.md#pagination-📄)
 - [Searching and filtering 🔎](./performance-and-optimization.md#searching-and-filtering-🔎)
 
@@ -121,8 +121,8 @@ We'll also do a live code review and talk about best practices.
 ### Week 9
 - [CSV 📁](./data-extract-transform-load.md#csv-📁)
 - [Web scraping 🌐](./data-extract-transform-load.md#web-scraping-🌐)
-- [Admin 🧑‍💼](./visualization-and-reporting.md#admin-🧑‍💼)
-- [Business Insights and Analytics 🕴️](./visualization-and-reporting.md#business-insights-and-analytics-🕴️)
+- [Admin 🧑‍💼](./application-management-analytics-and-insights.md#admin-🧑‍💼)
+- [Business Insights and Analytics 🕴️](./application-management-analytics-and-insights.md#business-insights-and-analytics-️)
 - [Image Uploads with Ruby on Rails, Active Storage, and Amazon AWS S3 🌇☁️](./cloud.md#image-uploads-with-ruby-on-rails-active-storage-and-amazon-aws-s3-🌇☁️)
 - [Launch 🚀](./building-your-own-idea.md#launch-🚀)
 
@@ -133,7 +133,7 @@ We'll also do a live code review and talk about best practices.
 
 ### Week 11
 - [Payments 🤑](./payment-solutions.md#payments-🤑)
-- [SEO - Search Engine Optimization 🔎](./visualization-and-reporting.md#seo---search-engine-optimization-🔎)
+- [SEO - Search Engine Optimization 🔎](./accessibility-and-seo.md#seo---search-engine-optimization-)
 - [Quality Assurance, Testing, and Monitoring 🪳🧐](./development-tooling-and-practices.md#quality-assurance-testing-and-monitoring-🪳🧐)
 - [Style Guides and Linters 🕺💃](./development-tooling-and-practices.md#style-guides-and-linters-🕺💃)
 - [Continuous Integration & Continuous Deployment (CI/CD) GitHub Actions 🔄](./development-tooling-and-practices.md#continuous-integration--continuous-deployment-cicd-github-actions-🔄)
