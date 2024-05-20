@@ -25,15 +25,13 @@ By the end of this module, you will be able to:
 ```
 
 ## VS Code: Your IDE (Integrated Development Environment)
-<!-- https://github.com/appdev-lessons/vscode-terminal/pull/2-->
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/61)
 - [GitHub](https://github.com/appdev-lessons/vscode-terminal/)
 
-## Tips and Tricks: hard refreshing and keyboard shortcuts
-<!-- https://github.com/appdev-lessons/tips-and-tricks/pull/2 -->
+## Tips and Tricks
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
