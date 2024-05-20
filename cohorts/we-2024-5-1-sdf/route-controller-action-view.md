@@ -81,4 +81,7 @@ https://github.com/appdev-projects/qr-code-rails
 ```
 
 ## (Reading) Understanding the Rails Application Structure
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: TBD
 - [Link](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj)
