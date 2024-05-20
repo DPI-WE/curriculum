@@ -74,6 +74,8 @@ You can follow the [step by step commits](https://github.com/appdev-projects/ujs
 - [Learn](https://learn.firstdraft.com/lessons/295-rails-organizing-js-code)
 - [GitHub](https://github.com/DPI-WE/rails-organizing-js-code)
 
+<!-- TODO: javascript event lifecycle -->
+
 <!-- TODO: simplify -->
 ## Hotwire/Turbo 🔥
 ```md
