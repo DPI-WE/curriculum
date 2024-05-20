@@ -24,9 +24,11 @@ By the end of this module, you will be able to:
 - Follow style guides and use linters to maintain code quality and consistency.
 ```
 
-## VS Code and the terminal
-<!-- TODO: add questions / points -->
-<!-- TODO: add version control / gitlens tips? -->
+## VS Code: Your IDE (Integrated Development Environment)
+<!-- https://github.com/appdev-lessons/vscode-terminal/pull/2-->
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/61)
 - [GitHub](https://github.com/appdev-lessons/vscode-terminal/)
 
@@ -41,12 +43,15 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/31)
 - [GitHub](https://github.com/appdev-lessons/tips-and-tricks)
 
+<!-- TODO: move to github repo -->
 ## Mac tips & tricks
 <!-- TODO: add more questions / points -->
 - **Points**: 1
 - **Requirements**: score at least 1/1
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/2)
+
+<!-- TODO: windows tips & tricks? -->
 
 <!-- https://github.com/DPI-WE/setting-up-a-development-environment/issues/7 -->
 ## Setting Up a Development Environment 🧑‍💻

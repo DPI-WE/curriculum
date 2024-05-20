@@ -60,7 +60,7 @@ Here are the steps to update your 'display name':
 - [Learn](https://learn.firstdraft.com/lessons/196-git-cli)
 - [GitHub](https://github.com/appdev-lessons/git-cli)
 
-<!-- TODO: add vscode git gui basics? -->
+<!-- TODO: add vscode git gui / gitlens basics? -->
 
 ## (optional) Sidequest: branching and merging
 - **Points**: 0
