@@ -30,6 +30,8 @@ By the end of this module, you will be able to:
 
 ## Database Migrations 🕰️
 <!-- TODO: add questions/points to this lesson -->
+- **Points**: 2
+- **Requirements**: score at least 2/2
 - [Learn](https://learn.firstdraft.com/lessons/300-rails-migrations)
 - [GitHub](https://github.com/DPI-WE/rails-migrations)
 
