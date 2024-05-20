@@ -6,7 +6,18 @@
 **Requirements**:
 <!-- none -->
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on internationalization (i18n) and localization of your applications. You will learn to provide multi-language support and handle regional differences in date and currency formatting to make your application accessible to a global audience.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Implement multi-language support using i18n.
+- Use Google Cloud Translate for automatic translations.
+- Handle regional differences in date and currency formatting.
+- Ensure your application is accessible and usable for a global audience.
+```
 
 ## Google Cloud Translate 🀄️
 - **Points**: 0

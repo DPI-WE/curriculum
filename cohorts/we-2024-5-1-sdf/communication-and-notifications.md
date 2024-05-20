@@ -3,8 +3,20 @@
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module covers the implementation of communication and notification features in your applications. You will learn to send emails and SMS notifications, enabling your application to communicate effectively with users.
 
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Implement email functionality in your applications.
+- Send SMS notifications to users.
+- Understand best practices for handling communication and notifications.
+```
+
+<!-- TODO: cover phishing emails? maybe in security? -->
+<!-- TODO: add quiz / questions -->
 ## Email 📬
 - **Points**: 0 
 - **Requirements**: mark as done
@@ -12,9 +24,6 @@
 - [Learn](https://learn.firstdraft.com/lessons/301-email)
 - [GitHub](https://github.com/DPI-WE/email)
 
-<!-- TODO: cover phishing emails? maybe in security? -->
-
-<!-- TODO: twilio sms lesson -->
 ## SMS 📱
 - **Points**: 0 
 - **Requirements**: mark as done

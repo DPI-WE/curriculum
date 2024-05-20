@@ -31,6 +31,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/312-rails-security)
 - [GitHub](https://github.com/DPI-WE/rails-security)
 
+<!-- TODO: add quiz points -->
 ## Encrypted Credentials 🤫
 - **Points**: 0 
 - **Requirements**: mark as done

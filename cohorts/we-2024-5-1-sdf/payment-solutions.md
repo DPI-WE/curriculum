@@ -3,7 +3,17 @@
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on integrating payment solutions into your applications. Understanding how to implement and manage payments is crucial for creating sustainable and revenue-generating software. By the end of this module, you will be familiar with payment integration using Stripe and ready to incorporate it into your projects.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand the basics of payment gateways and their integration into web applications.
+- Implement Stripe for handling payments in a Ruby on Rails application.
+- Validate your application's problem-solving capabilities by setting up a payment system to charge users.
+```
 
 ## Payments 🤑
 - **Points**: 0 

@@ -5,7 +5,10 @@
 
 **Requirements**:
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module provides an opportunity to expand your skill set by learning different technology stacks beyond Ruby on Rails. Each assignment is intended to provide a bridge to a different role and prepare you to start day 1 ready to contriubute.
+```
 
 ## Python & Django
 - **Points**: 50

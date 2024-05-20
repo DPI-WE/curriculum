@@ -3,7 +3,18 @@
 **Prerequisites**:
 - JavaScript
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module introduces you to the fundamentals of artificial intelligence (AI) and how to leverage AI tools like ChatGPT in your applications. You will learn to interact with AI models, design effective prompts, and integrate AI into your projects.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand the basics of artificial intelligence and machine learning.
+- Utilize AI tools like ChatGPT to enhance your applications.
+- Design effective prompts for AI models.
+- Integrate AI functionalities into your projects.
+```
 
 <!-- TODO: prompting tips -->
 

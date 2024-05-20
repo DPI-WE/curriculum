@@ -5,7 +5,18 @@
 
 **Requirements**:
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module is designed to prepare you for the transition from training to a professional environment. It covers strategies to overcome impostor syndrome, insights into tech roles and interviewing, continuous learning resources, and building a robust portfolio. By the end of this module, you will have the tools and resources to confidently navigate your career in software development.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Recognize and manage impostor syndrome.
+- Understand various tech roles and prepare for interviews.
+- Identify resources for continuous learning and professional development.
+- Build and showcase a compelling portfolio.
+```
 
 ## [Video](https://youtu.be/PQc5NR6ZE6c)
 

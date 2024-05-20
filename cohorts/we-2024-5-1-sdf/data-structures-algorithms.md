@@ -6,7 +6,18 @@
 **Requirements**:
 - must complete all of these requirements
 
-<!-- TODO: overview -->
+## Overview
+```md
+This module focuses on fundamental data structures and algorithms, as well as techniques for acing coding interviews. You will practice solving common algorithmic problems and learn strategies to approach and solve these problems effectively.
+
+## Learning Outcomes
+By the end of this module, you will be able to:
+
+- Understand and implement common data structures.
+- Solve algorithmic problems using efficient techniques.
+- Prepare for technical coding interviews.
+- Demonstrate problem-solving skills and algorithmic thinking.
+```
 
 ## Introduction to Data Structures, Algorithms, and Acing Coding Interviews
 - **Points**: 5
