@@ -78,3 +78,9 @@ See how far you can get through the levels. One note: the game doesn't allow you
 - [Learn](https://learn.firstdraft.com/lessons/153-photogram-gui)
 - [GitHub](https://github.com/appdev-lessons/photogram-gui)
 
+## Nesting Attributes 🪆
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 2
+- [Learn](https://learn.firstdraft.com/lessons/434-rails-nested-attributes)
+- [GitHub](https://github.com/DPI-WE/rails-nested-attributes)

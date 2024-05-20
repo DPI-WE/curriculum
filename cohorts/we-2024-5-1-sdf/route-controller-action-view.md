@@ -64,8 +64,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/124)
 - [GitHub](https://github.com/appdev-lessons/rails-omnicalc-2)
 
-<!-- TODO: maybe move later? -->
-## Nesting Routes and Attributes 🪆
+## Nesting Routes 🪆
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: TBD
