@@ -103,10 +103,10 @@ Got it? Alright, now:
 [Sit back, relax, and enjoy the video here](https://share.descript.com/view/vOLIJdopRSz).
 ```
 
-<!-- TODO: maybe make this a mid-term? -->
+<!-- TODO: maybe make this a mid-term exam? -->
 ## Delivery Tracker 1 🚚 📦📋
 - **Points**: 10
-- **Requirements**:  score at least 10.0
+- **Requirements**: score at least 10.0
 - **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/205-delivery-tracker-1)
 - [GitHub](https://github.com/appdev-lessons/delivery-tracker-1)
