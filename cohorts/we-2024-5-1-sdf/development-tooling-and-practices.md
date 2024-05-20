@@ -49,8 +49,11 @@ By the end of this module, you will be able to:
 <!-- TODO: windows tips & tricks? -->
 
 <!-- https://github.com/DPI-WE/setting-up-a-development-environment/issues/7 -->
+<!-- https://github.com/DPI-WE/setting-up-a-development-environment/pull/8 -->
 ## Setting Up a Development Environment 🧑‍💻
-<!-- TODO: add questions / points -->
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: TBD
 - [Learn](https://learn.firstdraft.com/lessons/332-setting-up-a-development-environment)
 - [GitHub](https://github.com/DPI-WE/setting-up-a-development-environment)
 ```md
