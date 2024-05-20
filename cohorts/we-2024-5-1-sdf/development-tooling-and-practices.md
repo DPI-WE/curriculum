@@ -33,13 +33,10 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/vscode-terminal/)
 
 ## Tips and Tricks: hard refreshing and keyboard shortcuts
-<!-- TODO: add questions / points -->
-<!-- 
-    TODO: could split into 3 lessons
-        - browsers (how they are different and why we use chrome in the course), chrome, and hard refreshing
-        - terminal shortcuts and other productivity tips
-        - vscode shortcuts and other productivity tips
--->
+<!-- https://github.com/appdev-lessons/tips-and-tricks/pull/2 -->
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/31)
 - [GitHub](https://github.com/appdev-lessons/tips-and-tricks)
 
