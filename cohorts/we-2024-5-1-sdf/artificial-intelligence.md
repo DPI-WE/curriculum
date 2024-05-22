@@ -16,10 +16,11 @@ By the end of this module, you will be able to:
 - Integrate AI functionalities into your projects.
 ```
 
-<!-- TODO: prompting tips -->
 
 ## ChatGPT 🧠
+<!-- TODO: prompting tips? -->
 <!-- TODO: maybe split up this lesson? -->
+<!-- https://github.com/DPI-WE/curriculum/issues/10 -->
 - **Points**: 0 
 - **Requirements**: mark as done
 - **Due**:

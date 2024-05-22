@@ -15,8 +15,8 @@ By the end of this module, you will be able to:
 - Understand best practices for handling communication and notifications.
 ```
 
-<!-- TODO: cover phishing emails? maybe in security? -->
-<!-- TODO: add quiz / questions -->
+<!-- TODO: cover phishing emails? maybe in security? https://github.com/DPI-WE/email/issues/3 -->
+<!-- TODO: add quiz https://github.com/DPI-WE/email/issues/2 -->
 ## Email 📬
 - **Points**: 0 
 - **Requirements**: mark as done

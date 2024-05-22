@@ -61,6 +61,7 @@ https://association-accessors.firstdraft.com
 - [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
 
 <!-- TODO: clarify that draft:resource is only for our learning purposes-->
+<!-- https://github.com/DPI-WE/curriculum/issues/14 -->
 ### Reading: draft:resource generator 🏭
 - **Points**: 0
 - **Requirements**:  mark as done
@@ -104,6 +105,7 @@ Got it? Alright, now:
 ```
 
 <!-- TODO: maybe make this a mid-term exam? -->
+<!-- https://github.com/DPI-WE/curriculum/issues/15 -->
 ## Delivery Tracker 1 🚚 📦📋
 - **Points**: 10
 - **Requirements**: score at least 10.0

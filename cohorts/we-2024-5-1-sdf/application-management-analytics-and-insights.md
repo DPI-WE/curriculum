@@ -26,6 +26,7 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/DPI-WE/rails-admin)
 
 <!-- TODO: add more on tracking analytics -->
+<!-- https://github.com/DPI-WE/rails-business-analytics/issues/4 -->
 ## Business Insights and Analytics 🕴️
 - **Points**: 0 
 - **Requirements**: mark as done
@@ -34,3 +35,4 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/DPI-WE/rails-business-analytics)
 
 <!-- TODO: consider adding more on exception tracking tools like rollbar/airbrake -->
+<!-- https://github.com/DPI-WE/curriculum/issues/9 -->

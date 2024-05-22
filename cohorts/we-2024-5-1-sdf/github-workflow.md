@@ -61,6 +61,7 @@ Here are the steps to update your 'display name':
 - [GitHub](https://github.com/appdev-lessons/git-cli)
 
 <!-- TODO: add vscode git gui / gitlens basics? -->
+<!-- https://github.com/DPI-WE/curriculum/issues/16 -->
 
 ## (optional) Sidequest: branching and merging
 - **Points**: 0

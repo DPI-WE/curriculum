@@ -31,7 +31,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/312-rails-security)
 - [GitHub](https://github.com/DPI-WE/rails-security)
 
-<!-- TODO: add quiz points -->
+<!-- TODO: add quiz points https://github.com/DPI-WE/rails-encrypted-credentials/issues/2 -->
 ## Encrypted Credentials 🤫
 - **Points**: 0 
 - **Requirements**: mark as done
@@ -46,7 +46,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/52-storing-credentials-securely)
 - [GitHub](https://github.com/appdev-lessons/storing-credentials-securely)
 
-<!-- TODO -->
+<!-- TODO https://github.com/DPI-WE/curriculum/issues/11 -->
 ## Authentication with OAuth 🪪
 - **Points**: 0 
 - **Requirements**: mark as done

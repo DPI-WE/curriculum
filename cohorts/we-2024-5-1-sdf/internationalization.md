@@ -36,5 +36,5 @@ i18n (shorthand for internationalization) means providing multi-language support
 https://guides.rubyonrails.org/i18n.html
 ```
 
-<!-- TODO -->
+<!-- TODO https://github.com/DPI-WE/curriculum/issues/18 -->
 ## Calendars, Dates, and Timezones 📆

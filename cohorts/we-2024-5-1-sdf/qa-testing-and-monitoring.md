@@ -16,7 +16,7 @@ By the end of this module, you will be able to:
 - Set up monitoring tools to track application performance and detect issues in real-time.
 ```
 
-<!-- TODO: split out this lesson? -->
+<!-- TODO: split out this lesson? https://github.com/DPI-WE/rails-qa-testing/issues/2 -->
 ## Quality Assurance, Testing, and Monitoring 🪳🧐
 - **Points**: 0 
 - **Requirements**: mark as done
@@ -25,5 +25,5 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/DPI-WE/rails-qa-testing)
 - [Video](https://youtu.be/aIbkLU8av0A)
 
-<!-- TODO -->
+<!-- TODO https://github.com/DPI-WE/curriculum/issues/24 -->
 ## Testing your code with RSpec 🧪

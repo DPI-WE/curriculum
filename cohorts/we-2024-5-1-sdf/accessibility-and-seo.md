@@ -24,7 +24,7 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/DPI-WE/semantic-html-and-accessibility)
 
 ## SEO - Search Engine Optimization 🔎
-<!-- TODO: add quiz? -->
+<!-- TODO: add quiz https://github.com/DPI-WE/search-engine-optimization/issues/2 -->
 - **Points**: 0 
 - **Requirements**: mark as done
 - **Due**:
@@ -36,4 +36,5 @@ By the end of this module, you will be able to:
 **Optional Assignment**: Can you think of a few keywords you'd want to target for your final project?
 ```
 
-<!-- TODO: demo keeping a blog on the site -->
+<!-- TODO: lesson keeping a blog on the site -->
+<!-- https://github.com/DPI-WE/curriculum/issues/8 -->

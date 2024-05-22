@@ -46,10 +46,8 @@ By the end of this module, you will be able to:
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/2)
 
-<!-- TODO: windows tips & tricks? -->
+<!-- TODO: windows tips & tricks -->
 
-<!-- https://github.com/DPI-WE/setting-up-a-development-environment/issues/7 -->
-<!-- https://github.com/DPI-WE/setting-up-a-development-environment/pull/8 -->
 ## Setting Up a Development Environment 🧑‍💻
 - **Points**: 2
 - **Requirements**: score at least 2/2

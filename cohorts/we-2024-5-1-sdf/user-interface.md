@@ -40,7 +40,7 @@ Adding Bootstrap Breadcrumbs is an easy way to indicate the current page’s loc
 Implementing [ActionDispatch::Flash](https://api.rubyonrails.org/classes/ActionDispatch/Flash.html) is a great built-in way to notify/alert users of what's happening in your app. [Check out this gist](https://gist.github.com/heratyian/1c556c443fd9c76461fa4b931acf70c3) with flashes styled as dismissible bootstrap alerts.
 ```
 
-<!-- TODO: maybe move to seo project to add a blog? -->
+<!-- TODO: https://github.com/DPI-WE/curriculum/issues/29 -->
 ## Rich Text Editor 🖋️
 
 ## Maps 🗺️

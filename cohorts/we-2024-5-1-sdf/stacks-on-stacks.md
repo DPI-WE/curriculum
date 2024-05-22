@@ -44,9 +44,9 @@ This module provides an opportunity to expand your skill set by learning differe
 
 <!-- TODO:
 
-React.js with a REST API
-Java & Spring
-C# & .NET Core
-Data Analyst
+React.js with a REST API https://github.com/DPI-WE/curriculum/issues/25
+Java & Spring https://github.com/DPI-WE/curriculum/issues/26
+C# & .NET Core https://github.com/DPI-WE/curriculum/issues/27
+Data Analyst https://github.com/DPI-WE/curriculum/issues/28
 
 -->

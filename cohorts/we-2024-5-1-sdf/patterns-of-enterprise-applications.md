@@ -46,7 +46,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/394-domain-driven-design)
 - [GitHub](https://github.com/DPI-WE/domain-driven-design)
 
-<!-- TODO: add more examples -->
+<!-- TODO: add more examples https://github.com/DPI-WE/curriculum/issues/22 -->
 #### Active Record Callbacks ☎️
 - **Points**: 0
 - **Requirements**: submit assignment
@@ -81,7 +81,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/404-component-based-view-templates)
 - [GitHub](https://github.com/DPI-WE/component-based-view-templates)
 
-<!-- TODO -->
+<!-- TODO https://github.com/DPI-WE/curriculum/issues/23 -->
 ### Polymorphism 🖇️
 
 ### Refactoring
