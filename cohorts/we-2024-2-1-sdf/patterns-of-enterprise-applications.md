@@ -11,11 +11,9 @@
 - [Learn](https://learn.firstdraft.com/lessons/394-domain-driven-design)
 - [GitHub](https://github.com/DPI-WE/domain-driven-design)
 
-<!-- TODO: add a better example -->
+<!-- TODO: add more examples -->
 ## Active Record Callbacks ☎️
-```md
-https://guides.rubyonrails.org/active_record_callbacks.html
-```
+[ActiveRecord Callbacks](https://guides.rubyonrails.org/active_record_callbacks.html) is a core feature of ActiveRecord that we end up using in nearly every application for e.g. massaging a user input (say downcasing it) before validating it/saving it.
 
 ## Clean Code 🛀
 - [Learn](https://learn.firstdraft.com/lessons/391-clean-code)

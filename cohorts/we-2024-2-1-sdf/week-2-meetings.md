@@ -1,27 +1,27 @@
 # Week 2 Meetings
 ## Photogram 📸
-  - **Points**: 2
-  - **Submitting**: a text entry box or a file upload
-  - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
-  - [Video](https://youtu.be/XqHnkDFao4s)
-  ```md
-  Let's figure out the data model behind [an app called Photogram](https://pg-ajax-1.matchthetarget.com/).
+- **Points**: 2
+- **Submitting**: a text entry box or a file upload
+- [Slides](https://github.com/DPI-WE/sdf-record-keeping)
+- [Video](https://youtu.be/XqHnkDFao4s)
+```md
+Let's figure out the data model behind [an app called Photogram](https://pg-ajax-1.matchthetarget.com/).
 
-  Sign in with one of the existing users (All of their passwords are "password"):
-    - alice@example.com
-    - bob@example.com
-    - carol@example.com
-    - doug@example.com
-    - ellen@example.com
-  
-  Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
-  What tables and columns will you need? Try to produce a complete list of tables and columns.
-  I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
+Sign in with one of the existing users (All of their passwords are "password"):
+  - alice@example.com
+  - bob@example.com
+  - carol@example.com
+  - doug@example.com
+  - ellen@example.com
 
-  **Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the [Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com)
-  ```
+Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
+What tables and columns will you need? Try to produce a complete list of tables and columns.
+I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
 
-### Entity Relationship Diagram (ERD) tool 📊
+**Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the [Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com)
+```
+
+## Entity Relationship Diagram (ERD) tool 📊
 ```md
 Checkout this tool we'll use to create entity relationship diagrams (ERDs) for our projects: https://ideas.firstdraft.com
 
@@ -81,34 +81,34 @@ Once you select the two associations, you can choose more specific names for eac
 ```
 
 ## Introduction to Bootstrap 🥾
-  - [Learn](https://learn.firstdraft.com/lessons/139)
-  - [GitHub](https://github.com/appdev-lessons/intro-to-bootstrap)
-  - [Video](https://youtu.be/NW2W7rz4sY8)
+- [Learn](https://learn.firstdraft.com/lessons/139)
+- [GitHub](https://github.com/appdev-lessons/intro-to-bootstrap)
+- [Video](https://youtu.be/NW2W7rz4sY8)
 
-### Reading: Design Resources 🧑‍🎨
-  - [Learn](https://learn.firstdraft.com/lessons/143-design-resources)
-  - [GitHub](https://github.com/appdev-lessons/design-resources)
-  ```md
-  If you find that you're having fun learning about HTML & CSS and would like to learn more about front-end/design, here is a list of optional readings and resources.
+## Reading: Design Resources 🧑‍🎨
+- [Learn](https://learn.firstdraft.com/lessons/143-design-resources)
+- [GitHub](https://github.com/appdev-lessons/design-resources)
+```md
+If you find that you're having fun learning about HTML & CSS and would like to learn more about front-end/design, here is a list of optional readings and resources.
 
-  I recommend these two readings, at a minimum:
+I recommend these two readings, at a minimum:
 
-  - [Butterick’s Typography In Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) — the whole book is short and worth a read if you like the 10 minute intro.
-  - [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html) - and [part 2](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html#rule-4-learn-the-methods-of-overlaying-text-on-images)
-  ```
+- [Butterick’s Typography In Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) — the whole book is short and worth a read if you like the 10 minute intro.
+- [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html) - and [part 2](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html#rule-4-learn-the-methods-of-overlaying-text-on-images)
+```
 
 ## Todo List 📝
-  - [Slides](https://github.com/DPI-WE/sdf-record-keeping)
-  - [Video](https://youtu.be/XqHnkDFao4s)
-  ```md
-  Let's figure out the data model behind [this Todo List app](https://ujs-practice-1.matchthetarget.com/)
+- [Slides](https://github.com/DPI-WE/sdf-record-keeping)
+- [Video](https://youtu.be/XqHnkDFao4s)
+```md
+Let's figure out the data model behind [this Todo List app](https://ujs-practice-1.matchthetarget.com/)
 
-  - Sign up for an account, click around the app, and acquaint yourself with it.
-  - You can also sign in with the existing user "alice@example.com", password "password".
-  - Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
-  - What tables and columns will you need? Try to produce a complete list of tables and columns.
-  - I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
-  Slides
+- Sign up for an account, click around the app, and acquaint yourself with it.
+- You can also sign in with the existing user "alice@example.com", password "password".
+- Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
+- What tables and columns will you need? Try to produce a complete list of tables and columns.
+- I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
+Slides
 
-  **Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the Entity Relationship Diagram (ERD) tool
-  ```
+**Assignment**: Please submit a screenshot of the entity relationship diagram (ERD) using the Entity Relationship Diagram (ERD) tool
+```
