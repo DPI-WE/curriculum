@@ -46,7 +46,7 @@ Here are the steps to update your 'display name':
 ![](./assets/sign-up-for-github-5.png)
 ```
 
-## Git: (alway be) committing and push to publish
+## Git: (always be) committing and push to publish
 - **Points**: 0
 - **Requirements**:
 - **Due**:
