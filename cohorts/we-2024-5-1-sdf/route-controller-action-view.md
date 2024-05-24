@@ -71,7 +71,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/433-rails-nesting)
 - [GitHub](https://github.com/DPI-WE/rails-nesting)
 
-<!-- TODO: make optional? -->
+<!-- TODO: make optional? move? -->
 <!-- Target url isn't working -->
 ## QR Code 🤳
 ```md
