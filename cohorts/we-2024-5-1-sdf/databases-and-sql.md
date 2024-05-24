@@ -29,7 +29,6 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/contact-book-first-database)
 
 ## Database Migrations 🕰️
-<!-- TODO: add questions/points to this lesson https://github.com/DPI-WE/rails-migrations/issues/3 -->
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - [Learn](https://learn.firstdraft.com/lessons/300-rails-migrations)
