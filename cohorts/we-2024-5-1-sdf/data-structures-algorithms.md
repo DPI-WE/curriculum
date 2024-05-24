@@ -1,7 +1,7 @@
 # Data Structures, Algorithms, and Acing Coding Interviews
 
 **Prerequisites**:
-- Final Project
+- Onboarding
 
 **Requirements**:
 - must complete all of these requirements
