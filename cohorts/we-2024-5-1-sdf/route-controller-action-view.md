@@ -81,7 +81,9 @@ https://github.com/appdev-projects/qr-code-rails
 ```
 
 ## (Reading) Understanding the Rails Application Structure
-- **Points**: 0
-- **Requirements**: mark as done
-- **Due**: TBD
-- [Link](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj)
+- **Points**: 2
+- **Requirements**: submit
+- **Due**: end of week 1
+```md
+Please read through [this article](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj) on the Rails application structure. Please submit an explanation of Model-View-Controller (MVC) as if you are teaching a 5 year old.
+```
