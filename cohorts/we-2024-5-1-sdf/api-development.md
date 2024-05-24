@@ -1,4 +1,4 @@
-# API Development
+# RESTful API Development
 
 **Prerequisites**:
 - JavaScript

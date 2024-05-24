@@ -8,6 +8,7 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Durable Skills](./durable-skills.md)
 - [Writing, Documentation, and Asking Questions](./writing-documentation-and-asking-questions.md)
 - [Development Tooling and Practices](./development-tooling-and-practices.md)
+- [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
 - [HTML, CSS, and Design](./html-css-and-design.md)
 - [Route, Controller, Action, View (RCAV)](./route-controller-action-view.md)
 - [Databases and SQL](./databases-and-sql.md)
@@ -34,12 +35,11 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Internationalization](./internationalization.md)
 - [Payment Solutions](./payment-solutions.md)
 - [Communication and Notifications](./communication-and-notifications.md)
-- [API Development](./api-development.md)
+- [RESTful API Development](./api-development.md)
 - [Final Project](./final-project.md)
 
 ### Bridge
 - [Next Steps](./next-steps.md)
-- [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
 - [Stacks on Stacks](./stacks-on-stacks.md)
 
 ## Meetings

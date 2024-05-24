@@ -1,5 +1,8 @@
 # Durable Skills
 
+**Prerequisites**:
+- onboarding
+
 **Requirements**:
 - must complete all of these requirements
 
@@ -25,7 +28,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/423-setup-your-internal-profile)
 - [GitHub](https://github.com/DPI-WE/setup-your-internal-profile)
 
-### Submit Your Snapshot URL
+### Submit Your Snapshot URL 
 - **Points**: 2
 - **Requirements**: submit
 - **Due**: end of week 4

@@ -24,6 +24,7 @@ By the end of this module, you will be able to:
 ## Asking Questions ❓
 - **Points**: 2
 - **Requirements**: score at least 2/2
+- **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/305-asking-questions)
 - [GitHub](https://github.com/appdev-lessons/asking-questions)
 
@@ -34,7 +35,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/428-keeping-a-learning-journal)
 - [GitHub](https://github.com/DPI-WE/keeping-a-learning-journal)
 
-### Submit URL of your learning journal
+### Submit URL of your learning journal 📝
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
@@ -49,7 +50,7 @@ Once you have created your account, submit the URL of your learning journal. It 
 - [Learn](https://learn.firstdraft.com/lessons/429-taking-notes)
 - [GitHub](https://github.com/DPI-WE/taking-notes)
 
-## Reading Documentation and Newsletters
+## Reading Documentation and Newsletters 📰
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
@@ -59,6 +60,6 @@ Once you have created your account, submit the URL of your learning journal. It 
 ## How to Write a Good README 📄
 - **Points**: 2
 - **Requirements**: score at least 2/2
-- **Due**: tbd
+- **Due**: end of week 4
 - [Learn](https://learn.firstdraft.com/lessons/431-how-to-write-a-good-readme)
 - [GitHub](https://github.com/DPI-WE/how-to-write-a-good-readme)

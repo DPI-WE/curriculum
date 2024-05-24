@@ -24,14 +24,14 @@ By the end of this module, you will be able to:
 - Follow style guides and use linters to maintain code quality and consistency.
 ```
 
-## VS Code: Your IDE (Integrated Development Environment)
+## VS Code: Your IDE (Integrated Development Environment) 🧑‍💻
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/61)
 - [GitHub](https://github.com/appdev-lessons/vscode-terminal/)
 
-## Tips and Tricks
+## Tips and Tricks 🪄
 - **Points**: 2
 - **Requirements**: score at least 2/2
 - **Due**: end of week 1
@@ -39,7 +39,7 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/tips-and-tricks)
 
 <!-- TODO: move to github repo -->
-## Mac tips & tricks
+## Mac tips & tricks 🖥️
 <!-- TODO: add more questions / points -->
 - **Points**: 1
 - **Requirements**: score at least 1/1
@@ -48,22 +48,10 @@ By the end of this module, you will be able to:
 
 <!-- TODO: windows tips & tricks -->
 
-## Setting Up a Development Environment 🧑‍💻
-- **Points**: 2
-- **Requirements**: score at least 2/2
-- **Due**: TBD
-- [Learn](https://learn.firstdraft.com/lessons/332-setting-up-a-development-environment)
-- [GitHub](https://github.com/DPI-WE/setting-up-a-development-environment)
-```md
-We use pre-configured virtual machines (codespaces) to make it really easy to get started developing in Ruby without dealing with environment issues. In a workplace, it's very common to develop locally on your computer.
-
-Checkout this wonderful guide to setting up Ruby and Rails on your own machine. It's good practice for ramping onto a project and getting your machine setup for development.
-```
-
 ## Cargo Cults 🪂
 - **Points**: 0
 - **Requirements**: mark as done
-- **Due**: end of week 3
+<!-- - **Due**: end of week 3 -->
 - [Video](https://youtu.be/6fiayGO36OA)
 - [Slides](https://github.com/DPI-WE/sdf-cargo-cults)
 ```md
@@ -76,6 +64,18 @@ Let's dive into some history and techniques to understand problems and engineer 
 - **Due**: end of week 3
 - [Learn](https://learn.firstdraft.com/lessons/290-debugging)
 - [GitHub](https://github.com/DPI-WE/debugging)
+
+## Setting Up a Development Environment 🧑‍💻
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 4
+- [Learn](https://learn.firstdraft.com/lessons/332-setting-up-a-development-environment)
+- [GitHub](https://github.com/DPI-WE/setting-up-a-development-environment)
+```md
+We use pre-configured virtual machines (codespaces) to make it really easy to get started developing in Ruby without dealing with environment issues. In a workplace, it's very common to develop locally on your computer.
+
+Checkout this wonderful guide to setting up Ruby and Rails on your own machine. It's good practice for ramping onto a project and getting your machine setup for development.
+```
 
 ## Style Guides and Linters 🕺💃
 - **Points**: 2

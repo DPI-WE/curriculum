@@ -20,7 +20,7 @@ By the end of this module, you will be able to:
 - Gain an overview of the 12-week course structure and expectations.
 ```
 
-## Welcome!
+## Welcome! 👋
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: end of week 1
@@ -32,38 +32,6 @@ By the end of this module, you will be able to:
 - **Due**: end of week 1
 - [Learn](https://learn.firstdraft.com/lessons/427-join-the-chat)
 - [GitHub](https://github.com/DPI-WE/join-the-chat)
-
-## Setup your email 📧
-- **Points**: 2
-- **Requirements**: score at least 2/2
-<!-- may not have email setup until later -->
-- **Due**: end of week 1
-- [Learn](https://learn.firstdraft.com/lessons/421-setup-your-email)
-- [GitHub](https://github.com/DPI-WE/setup-your-email)
-
-### Follow up email
-- **Points**: 2
-- **Requirements**: submit the assignment
-- **Due**: end of week 1
-```md
-Send an email from your student account to a TA with the subject line: “Setup my email”. This will confirm that you have successfully set up your email client.
-```
-
-## Setup your calendar 📅
-- **Points**: 2
-- **Requirements**: score at least 2/2
-<!-- may not have email setup until later -->
-- **Due**: end of week 1
-- [Learn](https://learn.firstdraft.com/lessons/422-setup-your-calendar)
-- [GitHub](https://github.com/DPI-WE/setup-your-calendar)
-
-### Follow up calendar invite
-- **Points**: 2
-- **Requirements**: submit the assignment
-- **Due**: end of week 1
-```md
-Create a New Recurring Meeting and add a TA
-```
 
 ## Learn: create an account ✏️
 - **Points**: 0
@@ -93,6 +61,38 @@ Here are some materials for reference:
 ## Notes about `rake grade`
 - [Learn](https://learn.firstdraft.com/lessons/125)
 - [GitHub](https://github.com/appdev-lessons/using-rake-grade)
+```
+
+## Setup your email 📧
+- **Points**: 2
+- **Requirements**: score at least 2/2
+<!-- may not have email setup until later -->
+- **Due**: end of week 1
+- [Learn](https://learn.firstdraft.com/lessons/421-setup-your-email)
+- [GitHub](https://github.com/DPI-WE/setup-your-email)
+
+### Follow up email 📧
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 1
+```md
+Send an email from your student account to a TA with the subject line: “Setup my email”. This will confirm that you have successfully set up your email client.
+```
+
+## Setup your calendar 📅
+- **Points**: 2
+- **Requirements**: score at least 2/2
+<!-- may not have email setup until later -->
+- **Due**: end of week 1
+- [Learn](https://learn.firstdraft.com/lessons/422-setup-your-calendar)
+- [GitHub](https://github.com/DPI-WE/setup-your-calendar)
+
+### Follow up calendar invite 📅
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 1
+```md
+Create a New Recurring Meeting and add a TA
 ```
 
 ## Daily Stand-ups and Agile Ceremonies 🌟
