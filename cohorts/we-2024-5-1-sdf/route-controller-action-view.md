@@ -1,7 +1,7 @@
 # Route, Controller, Action, View (RCAV)
 
 **Prerequisites**:
-- Writing, Documentation, and Asking Questions
+- Onboarding
 
 **Requirements**:
 - must complete all of these requirements
