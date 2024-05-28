@@ -43,59 +43,93 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Stacks on Stacks](./stacks-on-stacks.md)
 
 ## Meetings
-### Week 1
-- [Overview 😀](./onboarding.md#overview-)
-- [Record Keeping 📑](./domain-modeling.md#record-keeping-📑)
-- [Must See Movies 🎞️](./domain-modeling.md#must-see-movies-🎞️)
-- [Records and Relationships 🔗](./domain-modeling.md#records-and-relationships-🔗)
+### Week 0
+- Wednesday, 5/29/24
+  - [Overview 😀](./onboarding.md#overview-)
+  - [Why Rails? 🛤️](./onboarding.md#why-rails-️)
+- Thursday, 5/30/24
+  - [Record Keeping 📑](./domain-modeling.md#record-keeping-📑)
+  - [Must See Movies 🎞️](./domain-modeling.md#must-see-movies-🎞️)
 <!-- TODO
   might need more here
   maybe go over shortcuts, vscode, terminal, mac tips, etc. ?
   ./development-tooling-and-practices.md#VS-Code-and-the-terminal
-
-  or move up bootstrap
 -->
 
+### Week 1
+- Monday, 6/3/24
+  - [Records and Relationships 🔗](./domain-modeling.md#records-and-relationships-🔗)
+  - [Todo List 📝](./domain-modeling.md#todo-list-📝)
+- Tuesday, 6/4/24
+  - [Introduction to Bootstrap 🥾](./html-css-and-design.md#introduction-to-bootstrap-)
+  - [Reading: Design Resources 🧑‍🎨](./html-css-and-design.md#reading-design-resources-🧑‍🎨)
+- Wednesday, 6/5/24
+  - [Photogram 📸](./domain-modeling.md#photogram-📸)
+  - [Entity Relationship Diagram (ERD) tool 📊](./domain-modeling.md#entity-relationship-diagram-erd-tool-📊)
+- Thursday, 6/6/24
+  - [Pull Requests and Code Review 📝🔧🔍](./github-workflow.md#pull-requests-and-code-review-📝🔧🔍)
+  - [Link in Bio](./github-workflow.md#link-in-bio-)
+- Friday, 6/7/24
+  - [Introduction to Data Structures and Algorithms](./data-structures-algorithms.md#introduction-to-data-structures-algorithms-and-acing-coding-interviews)
+
 ### Week 2
-- [Photogram 📸](./domain-modeling.md#photogram-📸)
-- [Entity Relationship Diagram (ERD) tool 📊](./domain-modeling.md#entity-relationship-diagram-erd-tool-📊)
-- [Introduction to Bootstrap 🥾](./html-css-and-design.md#introduction-to-bootstrap-)
-- [Reading: Design Resources 🧑‍🎨](./html-css-and-design.md#reading-design-resources-🧑‍🎨)
-- [Todo List 📝](./domain-modeling.md#todo-list-📝)
+- Monday, 6/10/24
+  - VScode, Mac, tips and tricks
+- Tuesday, 6/11/24
+  - [Very Best 🏆](./domain-modeling.md#very-best-🏆)
+- Wednesday, 6/12/24
+  - [First Project 🚀](./github-workflow.md#first-project-🚀)
+- Thursday, 6/13/24
+  - [Building your own idea 💡](./building-your-own-idea.md#building-your-own-idea-💡)
+  - [Requests for Projects 🤝](./building-your-own-idea.md#requests-for-projects-🤝)
+  - ["Noticing" a Project Idea 🤔](./building-your-own-idea.md#noticing-a-project-idea-🤔)
+- Friday, 6/14/24
+  - [Array Pair Sum](./data-structures-algorithms.md#array-pair-sum)
 
 ### Week 3
-- [Very Best 🏆](./domain-modeling.md#very-best-🏆)
-- [Cargo Cults 🪂](./development-tooling-and-practices.md#cargo-cults-🪂)
-- [Debugging 🪳](./development-tooling-and-practices.md#debugging-🪳)
-- [Yap 🍔](./domain-modeling.md#yap-🍔)
-- [Building your own idea 💡](./building-your-own-idea.md#building-your-own-idea-💡)
-- [Requests for Projects 🤝](./building-your-own-idea.md#requests-for-projects-🤝)
-- ["Noticing" a Project Idea 🤔](./building-your-own-idea.md#noticing-a-project-idea-🤔)
+- Monday, 6/17/24
+  - [Yap 🍔](./domain-modeling.md#yap-🍔)
+- Tuesday, 6/18/24
+  - [Cargo Cults 🪂](./development-tooling-and-practices.md#cargo-cults-🪂)
+  - [Debugging 🪳](./development-tooling-and-practices.md#debugging-🪳)
+- Wednesday, 6/19/24
+  - [Request to Meme 😂](./github-workflow.md#request-to-meme-😂)
+- Thursday, 6/20/24
+  - [Pain Points 🥲](./building-your-own-idea.md#pain-points-🥲)
+- Friday, 6/21/24
+  - [Find the Most Frequent Element in an Array 🕵️](./data-structures-algorithms.md#find-the-most-frequent-element-in-an-array-️)
 
 ### Week 4
-- [Pull Requests and Code Review 📝🔧🔍](./github-workflow.md#pull-requests-and-code-review-📝🔧🔍)
-- [Offer Right 🤝](./domain-modeling.md#offer-right-🤝)
-- [Link in Bio 🕴️](./github-workflow.md#link-in-bio-🕴️)
-- [First Project 🚀](./github-workflow.md#first-project-🚀)
+- Monday, 6/24/24
+  - [Offer Right 🤝](./domain-modeling.md#offer-right-🤝)
+- Tuesday, 6/25/24
+  - [One Sentence Story 📖](./github-workflow.md#one-sentence-story-📖)
+- Wednesday, 6/26/24
+  - TBD
+- Thursday, 6/27/24
+  - [Keep it simple 😽](./building-your-own-idea.md#keep-it-simple-😽)
+  - [Sketches ✍️](./building-your-own-idea.md#sketches-✍️)
+- Friday, 6/28/24
+  - [Longest Consecutive Sequence 🍡](./data-structures-algorithms.md#longest-consecutive-sequence-)
 
 ### Week 5
-- [Pain Points 🥲](./building-your-own-idea.md#pain-points-🥲)
-- [Must See Movies with Generators](./generators-and-user-accounts.md#must-see-movies-with-generators)
-- [Reading: draft:resource generator 🏭](./generators-and-user-accounts.md#reading-draftresource-generator-🏭)
-- [Migrations 🕰️](./databases-and-sql.md#database-migrations-🕰️)
-- [Keep it simple 😽](./building-your-own-idea.md#keep-it-simple-😽)
-- [Sketches ✍️](./building-your-own-idea.md#sketches-✍️)
-- [User Stories 📖](./building-your-own-idea.md#user-stories-📖)
-- [Domain model 🤓](./building-your-own-idea.md#domain-model-🤓)
-- [Request to Meme 😂](./github-workflow.md#request-to-meme-😂)
-
-We'll also do a live code review and talk about best practices.
+- Monday, 7/1/24
+  - [Must See Movies with Generators](./generators-and-user-accounts.md#must-see-movies-with-generators)
+  - [Reading: draft:resource generator 🏭](./generators-and-user-accounts.md#reading-draftresource-generator-🏭)
+- Tuesday, 7/2/24
+  - [Migrations 🕰️](./databases-and-sql.md#database-migrations-🕰️)
+- Wednesday, 7/3/24
+  - TBD
+- Thursday, 7/4/24
+  - [User Stories 📖](./building-your-own-idea.md#user-stories-📖)
+  - [Domain model 🤓](./building-your-own-idea.md#domain-model-🤓)
+- Friday, 7/5/24
+  - [Balanced Parentheses ⚖️](./data-structures-algorithms.md#balanced-parentheses-)
 
 ### Week 6
 - [Photogram Industrial Authorization 🔒](./photogram-industrial-grade.md#photogram-industrial-authorization-🔒)
 - [Reading: Authorization with Pundit 🔒](./photogram-industrial-grade.md#reading-authorization-with-pundit-🔒)
 - [User Feedback 🗣️](./building-your-own-idea.md#user-feedback-🗣️)
-- [One Sentence Story 📖](./github-workflow.md#one-sentence-story-📖)
 - [Contributing 🙋](./github-workflow.md#contributing-🙋)
 - [Getting started 🎬](./building-your-own-idea.md#getting-started-🎬)
 - [Estimating and prioritizing work 🤔](./building-your-own-idea.md#estimating-and-prioritizing-work-🤔)
