@@ -39,23 +39,23 @@ By the end of this module, you will be able to:
 ### Pull Request URL for Photogram Industrial: photogram-industrial > main 📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 IMPORTANT: Please make sure to submit a pull request to merge into the `main` branch of <u>your own repository</u>. We do not want to submit requests to pull into the `appdev-projects` repository! 😵‍💫
 
 <!-- todo: swap out TA -->
-Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
+Please invite a fellow trainee AND <name> (@<username> on Github) to collaborate on your repository. Also, be sure to have them both review your pull request.
 ```
 
 #### Pull Request URL for Photogram Industrial: photogram-industrial > main 📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
   **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 
 ## Photogram Industrial Part 3: Starting user interface 📸 🏭
-- **Points**: 0
-- **Requirements**:  mark as done
+- **Points**: 2
+- **Requirements**: mark as done
 - **Due**: end of week 5
 - [Learn](https://learn.firstdraft.com/lessons/199-photogram-industrial-part-3)
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-part-3)
@@ -64,16 +64,16 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ### Pull Request URL for Photogram Industrial: starting-on-ui > main 📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 <!-- todo: swap out TA -->
-Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
+Please invite a fellow trainee AND <name> (@<username> on Github) to collaborate on your repository. Also, be sure to have them both review your pull request.
 ```
 
 #### Pull Request URL for Photogram Industrial: starting-on-ui > main  📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 ```
@@ -89,15 +89,15 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ### Pull Request URL for Photogram Industrial: profile-page > main  📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 <!-- todo: swap out TA -->
-Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
+Please invite a fellow trainee AND <name> (@<username> on Github) to collaborate on your repository. Also, be sure to have them both review your pull request.
 ```
 #### Pull Request URL for Photogram Industrial: profile-page > main  📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 ```
@@ -105,16 +105,16 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ### Pull Request URL for Photogram Industrial: tabbed-interface > main  📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 <!-- todo: swap out TA -->
-Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
+Please invite a fellow trainee AND <name> (@<username> on Github) to collaborate on your repository. Also, be sure to have them both review your pull request.
 ```
 
 #### Pull Request URL for Photogram Industrial: tabbed-interface > main  📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 ```
@@ -122,7 +122,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ## Photogram Industrial Authorization 🔒
 - **Points**: 0
 - **Requirements**:  mark as done
-- **Due**: end of week 6
+- **Due**: end of week 5
 - [Learn](https://learn.firstdraft.com/lessons/201-photogram-industrial-authorization)
 - [GitHub](https://github.com/appdev-lessons/photogram-industrial-authorization)
 
@@ -130,16 +130,16 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋
 - **Points**: 5
 - **Requirements**:  score at least 5.0
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 <!-- todo: swap out TA -->
-Please invite <name> (@<username> on Github) to collaborate on your repository. Also, be sure to **assign @<username> to review your pull request**.
+Please invite a fellow trainee AND <name> (@<username> on Github) to collaborate on your repository. Also, be sure to have them both review your pull request.
 ```
 
 #### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 ```
@@ -147,7 +147,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ## Reading: Authorization with Pundit 🔒
 - **Points**: 0
 - **Requirements**:  mark as done
-- **Due**: end of week 6
+- **Due**: end of week 5
 - [Learn](https://learn.firstdraft.com/lessons/202-pundit-authorization)
 - [GitHub](https://github.com/appdev-lessons/pundit-authorization)
 
@@ -155,7 +155,7 @@ Please invite <name> (@<username> on Github) to collaborate on your repository. 
 ### Pull Request for Pundit Policies: add-pundit > main 📥📋
 - **Points**: 5
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 - Set up policies for the `Photos`, `Users`, `Comments`, and `FollowRequests` controllers.
 - We are not requiring a policy for Likes at this point since it's not fully implemented.
@@ -172,7 +172,7 @@ Check list:
 #### Pull Request for Pundit Policies: add-pundit > main 📥📋 (giving a code review)
 - **Points**: 2
 - **Requirements**:  submit
-- **Due**: end of week 6
+- **Due**: end of week 5
 ```md
 **If possible, please try to give a code review to someone who has not yet received a review on this branch!**
 ```
