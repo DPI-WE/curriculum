@@ -121,3 +121,6 @@ Please write down and submit today's stand up.
 ```md
 Thank you embarking on this journey with us. This lesson provides an overview of the 12-week software development foundations course.
 ```
+
+## Why Rails? 🛤️
+- [Slides](https://github.com/DPI-WE/sdf-why-rails)
