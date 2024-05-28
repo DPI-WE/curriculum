@@ -2,7 +2,7 @@
 
 **Prerequisites**:
 - Route, Controller, Action, View (RCAV)
-- Databases and SQL
+- Databases and SQL <!-- maybe? -->
 
 **Requirements**:
 - must complete all of these requirements
@@ -30,7 +30,7 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/126)
 - [GitHub](https://github.com/appdev-lessons/msm-queries)
 
-- (Optional) Queries LevelUp Game 👾
+### (Optional) Queries LevelUp Game 👾
 ```md
 Want some fun practice on querying database records with `ActiveRecord`?
 
