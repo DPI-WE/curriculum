@@ -19,6 +19,7 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Scaffolding and Helper Methods](./scaffolding-and-helper-methods.md)
 - [Industrial Grade Application: Photogram](./photogram-industrial-grade.md)
 - [Javascript](./javascript.md)
+- [Authentication, Authorization, and Security](./authentication-authorization-and-security.md)
 
 ### Project
 - [Building Your Own Idea](./building-your-own-idea.md)
@@ -30,7 +31,6 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Application Management, Analytics and Insights](./application-management-analytics-and-insights.md)
 - [Accessibility and Search Engine Optimization (SEO)](./accessibility-and-seo.md)
 - [Artificial Intelligence](./artificial-intelligence.md)
-- [Authentication, Authorization, and Security](./authentication-authorization-and-security.md)
 - [Cloud](./cloud.md)
 - [Internationalization](./internationalization.md)
 - [Payment Solutions](./payment-solutions.md)

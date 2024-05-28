@@ -24,14 +24,14 @@ By the end of this module, you will be able to:
 ```
 
 ## JavaScript: The Slimmest Guide ☕️
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**: end of week 6
 - [Learn](https://learn.firstdraft.com/lessons/203-minimal-js)
 - [GitHub](https://github.com/appdev-lessons/minimal-js)
 
 ## Photogram Ajax 📸
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**: end of week 6
 ```md
@@ -47,7 +47,9 @@ IMPORTANT: We are asking you to "ajaxify" comments, likes, and follow requests f
 ```md
 IMPORTANT: We are asking you to "ajaxify" comments, likes, and follow requests for this assignment. Please disregard the section of the lesson that states likes and follow requests are optional.
 
-Submit a pull request from your fork of the photogram-ajaxLinks to an external site. project, comparing CRUDing comments using Ajax on a feature branch to the main branch. **Please assign Fidel Leal (@flealc) to review your pull request 👀**.
+Submit a pull request from your fork of the photogram-ajax project, comparing CRUDing comments using Ajax on a feature branch to the main branch. 
+
+**Please assign a fellow trainee <name> (@name) to review your pull request 👀**.
 ```
 #### Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests (giving a code review)
 <!-- TODO: do we want to have 3 separate pull requests? -->
@@ -71,6 +73,9 @@ You can follow the [step by step commits](https://github.com/appdev-projects/ujs
 ```
 <!-- TODO: add quiz questions https://github.com/DPI-WE/rails-organizing-js-code/issues/6 -->
 ## Organizing JavaScript Code ☕️
+- **Points**: 2
+- **Requirements**: mark as done
+- **Due**: end of week 6
 - [Learn](https://learn.firstdraft.com/lessons/295-rails-organizing-js-code)
 - [GitHub](https://github.com/DPI-WE/rails-organizing-js-code)
 
