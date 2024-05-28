@@ -74,7 +74,8 @@ This intensive 12-week, in-person full stack web development program is designed
 
 ### Week 2
 - Monday, 6/10/24
-  - VScode, Mac, tips and tricks
+  - [VScode](./development-tooling-and-practices.md#vs-code-your-ide-integrated-development-environment-)
+  - 
 - Tuesday, 6/11/24
   - [Very Best 🏆](./domain-modeling.md#very-best-🏆)
 - Wednesday, 6/12/24
