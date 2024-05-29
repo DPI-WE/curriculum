@@ -106,6 +106,12 @@ Got it? Alright, now:
 - [Learn](https://learn.firstdraft.com/lessons/205-delivery-tracker-1)
 - [GitHub](https://github.com/appdev-lessons/delivery-tracker-1)
 
+## Delivery Tracker 1: Pull Request 🚚 📦📋
+- **Points**: 2
+- **Requirements**: submit url
+- **Due**: end of week 3
+
+
 ## Reading: More on User Authentication with Devise
 - **Points**: 0
 - **Requirements**:  mark as done
