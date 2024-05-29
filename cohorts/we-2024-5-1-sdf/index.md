@@ -1,6 +1,9 @@
 # Software Development Foundations (we-2024-5-1-sdf)
 This intensive 12-week, in-person full stack web development program is designed to equip you with a robust foundation and prepare you for success in various technology roles, including full stack web development, data analysis, product ownership, quality assurance, cloud computing, and more. By the end of this course, you will be able to design, develop, and deploy full stack web applications and apply your skills in real-world scenarios.
 
+## Pre-requisites
+Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO)
+
 ## Modules
 
 ### Web Development
@@ -266,5 +269,4 @@ This intensive 12-week, in-person full stack web development program is designed
 ### Week 12
 
 
-## Pre-requisites
-Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO)
+
