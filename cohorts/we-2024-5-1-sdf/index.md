@@ -197,8 +197,27 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Today's Stand-up](./onboarding.md#todays-stand-up-️)
 
 ### Week 1 - Due Date: Friday, June 7, 2024
-
-- []()
+- [(Reading) Understanding the Rails Application Structure]()
+- [Different Ruby styles 💎]()
+- [Follow up calendar invite 📅]()
+- [Follow up email 📧]()
+- [Introduction to Bootstrap 🥾]()
+- [Mac Tips & Tricks 🖥️]()
+- [Nesting Routes 🪆]()
+- [Rails: Dice Roll 🎲]()
+- [Rails: Omnicalc 1 🧮]()
+- [Rails: Omnicalc 2 (debugging) 🪳]()
+- [Rails: Rock, Paper, Scissors 🪨🧻✂️]()
+- [Reading Documentation and Newsletters 📰]()
+- [Records and Relationships 🔗]()
+- [Route, Controller, Action, View (RCAV) Flowchart 🚏]()
+- [Setup your calendar 📅]()
+- [Setup your email 📧]()
+- [Setup Your Internal Profile]()
+- [Tips and Tricks 🪄]()
+- [VS Code: Your IDE (Integrated Development Environment) 🧑‍💻]()
+- [Link in Bio 🕴️]()
+- [Pull Requests and Code Review 📝🔧🔍]()
 ### Week 2
 ### Week 3
 ### Week 4
