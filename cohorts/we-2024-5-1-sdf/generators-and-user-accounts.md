@@ -53,13 +53,6 @@ https://association-accessors.firstdraft.com
 - [Learn](https://learn.firstdraft.com/lessons/157-photogram-associations)
 - [GitHub](https://github.com/appdev-lessons/photogram-associations)
 
-## Bulletin Board 1 📌
-- **Points**: 10
-- **Requirements**:  score at least 10.0
-- **Due**: end of week 3
-- [Learn](https://learn.firstdraft.com/lessons/136)
-- [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
-
 <!-- TODO: clarify that draft:resource is only for our learning purposes-->
 <!-- https://github.com/DPI-WE/curriculum/issues/14 -->
 ### Reading: draft:resource generator 🏭
