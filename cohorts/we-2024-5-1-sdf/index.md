@@ -219,7 +219,23 @@ This intensive 12-week, in-person full stack web development program is designed
 - [Link in Bio 🕴️](./github-workflow.md#link-in-bio-️)
 - [Pull Requests and Code Review 📝🔧🔍](./github-workflow.md#pull-requests-and-code-review-)
 
-### Week 2
+### Week 2 - Due Date: Friday, June 14, 2024
+- [Classroom Queries (Debugging) 🧑‍🏫]()
+- [Contact Book: Our very first database 📒]()
+- [Debugging 🪳]()
+- [Must See Movies Graphical User Interface (GUI) 🎞️]()
+- [Must See Movies Queries: Intro to ActiveRecord 🎞️]()
+- [Must See Movies: Data integrity with validations 🧐]()
+- [Nesting Attributes 🪆]()
+- [Photogram GUI 📸 🖼️]()
+- [Refactoring Must See Movies GUI 1 🎞️]()
+- [Very Best 🏆]()
+- [Very Best: Entity Relationship Diagram (ERD) 🏆]()
+- [Very Best: Spreadsheet 🏆]()
+- [First Project 🚀]()
+- [Fun Fact 🤪]()
+
+
 ### Week 3
 ### Week 4
 ### Week 5
