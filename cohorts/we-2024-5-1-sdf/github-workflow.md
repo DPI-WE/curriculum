@@ -72,8 +72,8 @@ Here are the steps to update your 'display name':
 
 ## Pull Requests and Code Review 📝🔧🔍
 - **Points**: 0
-- **Requirements**:
-- **Due**:
+- **Requirements**: None
+- **Due**: end of week 1
 ```md
 Let's talk about code review and pull requests
 - [Slides](https://github.com/DPI-WE/sdf-code-review)
@@ -83,7 +83,7 @@ Let's talk about code review and pull requests
 ## Fun Fact 🤪
 - **Points**: 2
 - **Requirements**: submit the assignment
-- **Due**: end of week 4
+- **Due**: end of week 3
 ```md
 Let's add a fun fact to this repository https://github.com/DPI-WE/fun-facts
 
