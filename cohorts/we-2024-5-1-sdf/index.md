@@ -235,8 +235,26 @@ This intensive 12-week, in-person full stack web development program is designed
 - [First Project 🚀](./github-workflow.md#first-project-)
 - [Fun Fact 🤪](./github-workflow.md#fun-fact-)
 
-
 ### Week 3
+- [Bootstrapping Bulletin Board 1 📌]()
+- [Bulletin Board 1 📌]()
+- [Bulletin Board 2 (User Accounts) 👥]()
+- [Delivery Tracker 1 🚚 📦📋]()
+- [Delivery Tracker 1: Pull Request URL 🚚 📦📋]()
+- [How to Write a Good README 📄]()
+- [Must See Movies with Generators]()
+- [Photogram Associations 📸]()
+- [Reading: draft:resource generator 🏭]()
+- [Reading: More on User Authentication with Devise]()
+- [Refactoring Must See Movies GUI 2 with Association Accessor Helper Methods 🔄🎥]()
+- [Setting Up a Development Environment 🧑‍💻]()
+- [Submit Your Snapshot URL]()
+- [Very Best Debug 🔍 🛠️]()
+- [Yap 🍔]()
+- [Yap: Spreadsheet 🍔]()
+- [Yap: Entity Relationship Diagram (ERD) 🍔]()
+- [Request to Meme 😂]()
+
 ### Week 4
 ### Week 5
 ### Week 6
