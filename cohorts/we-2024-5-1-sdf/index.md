@@ -181,5 +181,21 @@ This intensive 12-week, in-person full stack web development program is designed
 - [OAuth 🪪](./authentication-authorization-and-security.md#authentication-with-oauth-🪪)
 - [Next Steps ⏭️ ](./next-steps.md)
 
+
+## Due Dates
+### Week 1
+### Week 2
+### Week 3
+### Week 4
+### Week 5
+### Week 6
+### Week 7
+### Week 8
+### Week 9
+### Week 10
+### Week 11
+### Week 12
+
+
 ## Pre-requisites
 Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO)
