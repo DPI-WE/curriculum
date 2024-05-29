@@ -184,8 +184,20 @@ This intensive 12-week, in-person full stack web development program is designed
 
 ## Due Dates
 ### Week 0 - Due Date: Friday, May 31, 2024
-- []()
+- [Asking Questions](./writing-documentation-and-asking-questions.md#asking-questions-)
+- [Daily Stand-ups and Agile Ceremonies](./onboarding.md#daily-stand-ups-and-agile-ceremonies-)
+- [Join the Chat](./onboarding.md#join-the-chat-)
+- [Keeping a Learning Journal](./writing-documentation-and-asking-questions.md#keeping-a-learning-journal-)
+- [Learn: create an account](./onboarding.md#learn-create-an-account-️)
+- [Must See Movies: Spreadsheet](./domain-modeling.md#must-see-movies-️)
+- [Setup a Password Manager](./onboarding.md#setup-a-password-manager-)
+- [Sign up for GitHub](./github-workflow.md#sign-up-for-github-)
+- [Submit URL of your learning journal](./writing-documentation-and-asking-questions.md#keeping-a-learning-journal-)
+- [Taking notes](./writing-documentation-and-asking-questions.md#taking-notes-)
+- [Today's Stand-up](./onboarding.md#todays-stand-up-️)
+
 ### Week 1 - Due Date: Friday, June 7, 2024
+
 - []()
 ### Week 2
 ### Week 3
