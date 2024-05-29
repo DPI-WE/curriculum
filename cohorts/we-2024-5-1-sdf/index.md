@@ -183,7 +183,10 @@ This intensive 12-week, in-person full stack web development program is designed
 
 
 ## Due Dates
-### Week 1
+### Week 0 - Due Date: Friday, May 31, 2024
+- []()
+### Week 1 - Due Date: Friday, June 7, 2024
+- []()
 ### Week 2
 ### Week 3
 ### Week 4
