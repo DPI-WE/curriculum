@@ -18,7 +18,7 @@ By the end of this module, you will be able to:
 ```
 
 ## Photogram Industrial Authorization 🔒
-- **Points**: 0
+- **Points**: 2
 - **Requirements**:  mark as done
 - **Due**: end of week 7
 - [Learn](https://learn.firstdraft.com/lessons/201-photogram-industrial-authorization)
@@ -76,22 +76,21 @@ Check list:
 ```
 
 ## Application Security 🔒
-- **Points**: 0 
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/312-rails-security)
 - [GitHub](https://github.com/DPI-WE/rails-security)
 
-<!-- TODO: add quiz points https://github.com/DPI-WE/rails-encrypted-credentials/issues/2 -->
 ## Encrypted Credentials 🤫
-- **Points**: 0 
+- **Points**: 2
 - **Requirements**: mark as done
-- **Due**:
+- **Due**: end of week 12
 - [Learn](https://learn.firstdraft.com/lessons/298-rails-encrypted-credentials)
 - [GitHub](https://github.com/DPI-WE/rails-encrypted-credentials)
 
 ## Storing Credentials Securely using Environment Variables
-- **Points**: 0 
+- **Points**: 1
 - **Requirements**: mark as done
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/52-storing-credentials-securely)
