@@ -62,12 +62,12 @@ https://association-accessors.firstdraft.com
 - [Learn](https://learn.firstdraft.com/lessons/133)
 - [GitHub](https://github.com/appdev-lessons/draft-resource-generator)
 
-## Bootstrapping Bulletin Board 1 📌
-- **Points**: 0
-- **Requirements**:  mark as done
+## Bulletin Board 1 📌
+- **Points**: 10
+- **Requirements**:  score at least 10.0
 - **Due**: end of week 3
-- [Learn](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1)
-- [GitHub](https://github.com/appdev-lessons/bootstrap-bulletin-board-1)
+- [Learn](https://learn.firstdraft.com/lessons/136)
+- [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
 
 ## Bulletin Board 2 (User Accounts) 👥
 - **Points**: 10 
