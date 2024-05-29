@@ -43,9 +43,10 @@ I recommend these two readings, at a minimum:
 - [Butterick’s Typography In Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) — the whole book is short and worth a read if you like the 10 minute intro.
 - [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html) - and [part 2](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html#rule-4-learn-the-methods-of-overlaying-text-on-images)
 ```
-## Bulletin Board 1 📌
-- **Points**: 10
-- **Requirements**:  score at least 10.0
+## Bootstrapping Bulletin Board 1 📌
+- **Points**: 0
+- **Requirements**:  mark as done
 - **Due**: end of week 3
-- [Learn](https://learn.firstdraft.com/lessons/136)
-- [GitHub](https://github.com/appdev-lessons/bulletin-board-1)
+- [Learn](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1)
+- [GitHub](https://github.com/appdev-lessons/bootstrap-bulletin-board-1)
+
