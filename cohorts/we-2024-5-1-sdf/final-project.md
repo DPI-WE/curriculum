@@ -22,21 +22,21 @@ By the end of this module, you will have:
 - Deployed your project to a live environment and provided a URL for access.
 ```
 
-## Timeline, guidelines & tips for your presentation 🎤
+## Timeline, Guidelines & Tips for your Presentation 🎤
 ```md
 ## Timeline
-<!-- final projects due last wednesday, thursday demo, friday turn in equipment -->
 - Week 10: Rehearsals
 - Week 10: Final Presentations
 - Wednesday Week 12: Final Projects Due
 - Thursday, Week 12, 3-7pm: The Showcase! Discovery Room. A science fair style demo where you can network and show off your project with co-workers, friends, and family.
+- Friday, Week 12, Turn in equipment
 
 ## Guidelines & tips
 Here are some guidelines & tips for your presentation:
 
 The goal is present what you've been working on and what you've gained throughout the course.
 
-You should submit a first draft of your slide deck no later than Thursday April 11th, which is when we'll have our rapid-fire rehearsals. "Rapid-fire" means you will present to staff, get feedback, make some updates, present again, get more feedback, make updates — rinse and repeat.
+You should submit a first draft of your slide deck no later than Thursday Week 10, which is when we'll have our rapid-fire rehearsals. "Rapid-fire" means you will present to staff, get feedback, make some updates, present again, get more feedback, make updates — rinse and repeat.
 
 You should create slides using Google Slides.
 We will combine all of your decks into one to ensure smooth transitions.
