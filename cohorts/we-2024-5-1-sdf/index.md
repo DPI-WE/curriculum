@@ -271,8 +271,20 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [Offer Right 🤝](./domain-modeling.md#offer-right-)
 - [One Sentence Story 📖](./github-workflow.md#one-sentence-story-)
 
-### Week 5
-- []()
+### Week 5 - Due Date: Friday, July 5, 2024
+- [Photogram Industrial Part 1: Devise accounts and photos scaffold 📸 🏭]()
+- [Photogram Industrial Part 2: Associations, validations, and sample data 📸 🏭]()
+- [Photogram Industrial Part 3: Starting user interface 📸 🏭]()
+- [Photogram Industrial Part 4: Profile page 📸 🏭]()
+- [Pull Request URL for Photogram Industrial: photogram-industrial > main 📥📋]()
+- [Pull Request URL for Photogram Industrial: photogram-industrial > main 📥📋 (giving a code review)]()
+- [Pull Request URL for Photogram Industrial: profile-page > main 📥📋]()
+- [Pull Request URL for Photogram Industrial: profile-page > main 📥📋 (giving a code review)]()
+- [Pull Request URL for Photogram Industrial: starting-on-ui > main 📥📋 (giving a code review)]()
+- [Pull Request URL for Photogram Industrial: starting-on-ui > main 📥📋]()
+- [Pull Request URL for Photogram Industrial: tabbed-interface > main 📥📋]()
+- [Pull Request URL for Photogram Industrial: tabbed-interface > main 📥📋 (giving a code review)]()
+- [Style Guides and Linters 🕺💃]()
 
 ### Week 6
 - []()
