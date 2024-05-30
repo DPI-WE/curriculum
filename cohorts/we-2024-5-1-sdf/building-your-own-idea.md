@@ -1,7 +1,7 @@
 # Building Your Own Idea
 
 **Prerequisites**:
-<!-- TODO: none? -->
+- available week 3
 
 **Requirements**:
 - must complete all of these requirements

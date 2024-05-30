@@ -1,7 +1,7 @@
 # Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 **Requirements**:
 - must complete all of these requirements

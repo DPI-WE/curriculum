@@ -2,7 +2,7 @@
 
 **Prerequisites**:
 <!-- finish all web dev modules -->
-- javascript
+- Authentication, Authorization, and Security
 
 **Requirements**:
 <!-- none -->
