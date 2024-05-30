@@ -286,8 +286,12 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [Pull Request URL for Photogram Industrial: tabbed-interface > main 📥📋 (giving a code review)](./photogram-industrial-grade.md#pull-request-url-for-photogram-industrial-tabbed-interface--main---giving-a-code-review)
 - [Style Guides and Linters 🕺💃](./development-tooling-and-practices.md#style-guides-and-linters-)
 
-### Week 6
-- []()
+### Week 6 - Due Date: Friday, July 12, 2024
+- [JavaScript: The Slimmest Guide ☕️](./javascript.md#javascript-the-slimmest-guide-️)
+- [Organizing JavaScript Code ☕️](./javascript.md#organizing-javascript-code-️)
+- [Photogram Ajax 📸](./javascript.md#photogram-ajax-)
+- [Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests](./javascript.md#photogram-ajax--pull-request-url-for-comments-likes-and-follow-requests)
+- [Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests (giving a code review)](./javascript.md#photogram-ajax--pull-request-url-for-comments-likes-and-follow-requests-giving-a-code-review)
 
 ### Week 7
 - []()
