@@ -259,17 +259,17 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [Request to Meme 😂](./github-workflow.md#request-to-meme-)
 
 ### Week 4 - Due Date: Friday, June 28, 2024
-- [Database Migrations 🕰️]()
-- [From ActiveRecord to SQL]()
-- [Getting Started with Scaffolds 🏗️]()
-- [Helper Methods Part 1: Named routes and links 🏗️]()
-- [Helper Methods Part 2: Forms 🏗️]()
-- [Helper Methods Part 3: Bootstrap and partials 🏗️]()
-- [Levelup your SQL]()
-- [Offer Right: Entity Relationship Diagram (ERD) 🤝]()
-- [Offer Right: Spreadsheet 🤝]()
-- [Offer Right 🤝]()
-- [One Sentence Story 📖]()
+- [Database Migrations 🕰️](./databases-and-sql.md#database-migrations-️)
+- [From ActiveRecord to SQL](./databases-and-sql.md#from-activerecord-to-sql)
+- [Getting Started with Scaffolds 🏗️](./scaffolding-and-helper-methods.md#getting-started-with-scaffolds-️)
+- [Helper Methods Part 1: Named routes and links 🏗️](./scaffolding-and-helper-methods.md#helper-methods-part-1-named-routes-and-links-️)
+- [Helper Methods Part 2: Forms 🏗️](./scaffolding-and-helper-methods.md#helper-methods-part-2-forms-️)
+- [Helper Methods Part 3: Bootstrap and partials 🏗️](./scaffolding-and-helper-methods.md#helper-methods-part-3-bootstrap-and-partials-️)
+- [Levelup your SQL](./databases-and-sql.md#levelup-your-sql)
+- [Offer Right: Entity Relationship Diagram (ERD) 🤝](./domain-modeling.md#offer-right-entity-relationship-diagram-erd)
+- [Offer Right: Spreadsheet 🤝](./domain-modeling.md#offer-right-)
+- [Offer Right 🤝](./domain-modeling.md#offer-right-)
+- [One Sentence Story 📖](./github-workflow.md#one-sentence-story-)
 
 ### Week 5
 - []()
