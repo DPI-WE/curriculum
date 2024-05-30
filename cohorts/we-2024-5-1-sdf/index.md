@@ -293,8 +293,22 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests](./javascript.md#photogram-ajax--pull-request-url-for-comments-likes-and-follow-requests)
 - [Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests (giving a code review)](./javascript.md#photogram-ajax--pull-request-url-for-comments-likes-and-follow-requests-giving-a-code-review)
 
-### Week 7
-- []()
+### Week 7 - Due Date: Friday, July 19, 2024
+- ["Noticing" a Project Idea 🤔]()
+- [Domain Model: ERD (Entity Relationship Diagram) 📈]()
+- [Domain Model: Spreadsheet 📋]()
+- [Estimating and prioritizing work 🤔]()
+- [Keep it simple 😽]()
+- [Pain Points 🥲]()
+- [Photogram Industrial Authorization 🔒]()
+- [Pull Request for Pundit Policies: add-pundit > main 📥📋]()
+- [Pull Request for Pundit Policies: add-pundit > main 📥📋 (giving a code review)]()
+- [Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋]()
+- [Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋 (giving a code review)]()
+- [Reading: Authorization with Pundit 🔒]()
+- [Sketches ✍️]()
+- [User Feedback 🗣️]()
+- [User Stories 📖]()
 
 ### Week 8
 - []()
