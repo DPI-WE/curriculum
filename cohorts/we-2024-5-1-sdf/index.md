@@ -238,7 +238,7 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [First Project 🚀](./github-workflow.md#first-project-)
 - [Fun Fact 🤪](./github-workflow.md#fun-fact-)
 
-### Week 3
+### Week 3 - Due Date: Friday, June 21, 2024
 - [Bootstrapping Bulletin Board 1 📌](./html-css-and-design.md#bootstrapping-bulletin-board-1-)
 - [Bulletin Board 1 📌](./generators-and-user-accounts.md#bulletin-board-1-)
 - [Bulletin Board 2 (User Accounts) 👥](./generators-and-user-accounts.md#bulletin-board-2-user-accounts-)
@@ -258,15 +258,42 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [Yap: Entity Relationship Diagram (ERD) 🍔](./domain-modeling.md#yap-entity-relationship-diagram-erd)
 - [Request to Meme 😂](./github-workflow.md#request-to-meme-)
 
-### Week 4
+### Week 4 - Due Date: Friday, June 28, 2024
+- [Database Migrations 🕰️]()
+- [From ActiveRecord to SQL]()
+- [Getting Started with Scaffolds 🏗️]()
+- [Helper Methods Part 1: Named routes and links 🏗️]()
+- [Helper Methods Part 2: Forms 🏗️]()
+- [Helper Methods Part 3: Bootstrap and partials 🏗️]()
+- [Levelup your SQL]()
+- [Offer Right: Entity Relationship Diagram (ERD) 🤝]()
+- [Offer Right: Spreadsheet 🤝]()
+- [Offer Right 🤝]()
+- [One Sentence Story 📖]()
+
 ### Week 5
+- []()
+
 ### Week 6
+- []()
+
 ### Week 7
+- []()
+
 ### Week 8
+- []()
+
 ### Week 9
+- []()
+
 ### Week 10
+- []()
+
 ### Week 11
+- []()
+
 ### Week 12
+- []()
 
 
 
