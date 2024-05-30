@@ -68,14 +68,14 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/DPI-WE/writing-code-for-humans)
 
 ### Using Modules to Organize and DRY Up Your Code 🧱
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: submit assignment
 - **Due**: end of week 12
 - [Learn](https://learn.firstdraft.com/lessons/403-rails-concerns)
 - [GitHub](https://github.com/DPI-WE/rails-concerns)
 
 ### Component-Based View Templates 🧩
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: submit assignment
 - **Due**: end of week 12
 - [Learn](https://learn.firstdraft.com/lessons/404-component-based-view-templates)
