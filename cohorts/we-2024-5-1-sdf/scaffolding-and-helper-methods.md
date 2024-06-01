@@ -35,7 +35,7 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/helper-methods-part-1)
 
 ## Helper Methods Part 2: Forms 🏗️
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**: end of week 4
 - [Learn](https://learn.firstdraft.com/lessons/161-helper-methods-part-2)

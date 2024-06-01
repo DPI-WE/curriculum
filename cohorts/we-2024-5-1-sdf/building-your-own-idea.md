@@ -1,7 +1,7 @@
 # Building Your Own Idea
 
 **Prerequisites**:
-<!-- TODO: none? -->
+- available week 3
 
 **Requirements**:
 - must complete all of these requirements
@@ -53,13 +53,7 @@ In other words, standard CRUD applications.
 
 In very rare cases, an idea might not need a database (perhaps it reads and stores all data using an external API) or it might not need sign-in/sign-out (perhaps you are the only user and it emails you a CSV every morning). If you have an idea like this, you should run it by me. If it's not static HTML and it solves a problem for you, I'll likely be happy with it.
 
-But, mostly, projects fit the pattern of standard CRUD applications; similar to the ones we've built together in class:
-- to-do lists
-- social networks
-- two-sided markets
-- etc.
-
-We have created a [Requests for Projects 🤝](https://rfp.dpi.dev) page to help closely align your project with industry trends and employer expectations. I highly encourage you to build a project that fits within these categories (or similar). If not, please chat with an instructor or assistant and we can work something out.
+But, mostly, projects fit the pattern of standard CRUD applications; similar to the ones we've built together in class.
 
 ## Deliverables
 Ultimately, you will submit:
@@ -73,7 +67,7 @@ Ultimately, you will submit:
 
 ## Requests for Projects 🤝
 ```md
-Please read through our [Requests for Projects](https://rfp.dpi.dev) page to get an idea for the types of projects we're looking for. I strongly encourage you to read through this document and think about projects that can make your portfolio stand out to potential employers.
+We have created https://rfp.dpi.dev to help closely align your project with industry trends and employer expectations. Please read through to get an idea for the types of projects we're looking for. I highly encourage you to build a project that fits within these categories (or similar). If not, please chat with an instructor or assistant and we can work something out.
 ```
 
 ## "Noticing" a Project Idea 🤔
@@ -176,17 +170,21 @@ Before we begin writing code, we want to have our complete domain model in hand:
 - I find it helpful to use paper or a Spreadsheet 📋 to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
 - Then create an ERD (Entity Relationship Diagram) 🧑‍💻
 ```
+
 ### Domain Model: Spreadsheet 📋
-    - **Points**: 2
-    - **Requirements**: submit the assignment
-    - **Due**: end of week 7
-    ```md
-    Please submit a link to a Google Sheet of your domain model with a few rows of sample data.
-    ```
-- Domain Model: ERD (Entity Relationship Diagram) 🧑‍💻
-    ```md
-    Please submit a screenshot of your entity relationship diagram (ERD) using the [first draft Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com/)
-    ```
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
+```md
+Please submit a link to a Google Sheet of your domain model with a few rows of sample data.
+```
+### Domain Model: ERD (Entity Relationship Diagram) 🧑‍💻
+- **Points**: 2
+- **Requirements**: submit the assignment
+- **Due**: end of week 7
+```md
+Please submit a screenshot of your entity relationship diagram (ERD) using the [first draft Entity Relationship Diagram (ERD) tool](https://ideas.firstdraft.com/)
+```
 
 ## User Feedback 🗣️
 - **Points**: 2
@@ -240,12 +238,13 @@ This will be your "north star" while building your project. You will use this to
 
 Examples:
 
-- [Calendar Feed](https://gist.github.com/heratyian/9a054d6b45b03739b32efa014872915e)
 - [Pensieve](https://gist.github.com/thierrychau/0d558373c7605ed4459f21a80ea86112)
-- [LessonLinx](https://gist.github.com/fidel-techprep/0be1f75266254b67a661e6e1610b932f)
-- [Belay Board](https://gist.github.com/Samuel-Lubliner/e85279702dfcb2381354a963ac97fdc3)
-- [The Prettiest Price](https://gist.github.com/ajmompr/39aa2ae025fa441f1a970417671eef0f)
-- [Gym Tracker](https://gist.github.com/hibbleD/53a8aca25a5462aa7750fcb649e25c74)
+- [Clip Cloud](https://gist.github.com/salcasta/186adcf445a19a4c3ba40fb4503c44e2)
+- [3E | Efficiently Effortless Exercise](https://gist.github.com/jpfababaer/9a61220d9e05c20e04e22160662aebc5)
+- [One Slot](https://gist.github.com/ahuynh3a/acdbc91bfa58467beee70b0156d3cef8)
+- [Vitals](https://gist.github.com/amandaag39/72ec6eea2c66c4f24a0d114827a1b47d)
+- [The Efficient Birder](https://gist.github.com/WCW789/759992593c6405bc384546fd8f5c55cd)
+- [Gymbuds](https://gist.github.com/joannarodriguez134/68aab785ee490f0bc4a786b66ecbbdf7)
 
 **Assignment**: Please submit a functional specification using a [GitHub Gist](https://gist.github.com/).
 ```

@@ -2,6 +2,7 @@
 
 **Prerequisites**:
 - JavaScript
+- Building Your Own Idea
 
 **Requirements**:
 - must complete all of these requirements
@@ -21,21 +22,21 @@ By the end of this module, you will have:
 - Deployed your project to a live environment and provided a URL for access.
 ```
 
-## Timeline, guidelines & tips for your presentation 🎤
+## Timeline, Guidelines & Tips for your Presentation 🎤
 ```md
 ## Timeline
-<!-- final projects due last wednesday, thursday demo, friday turn in equipment -->
 - Week 10: Rehearsals
 - Week 10: Final Presentations
 - Wednesday Week 12: Final Projects Due
 - Thursday, Week 12, 3-7pm: The Showcase! Discovery Room. A science fair style demo where you can network and show off your project with co-workers, friends, and family.
+- Friday, Week 12, Turn in equipment
 
 ## Guidelines & tips
 Here are some guidelines & tips for your presentation:
 
 The goal is present what you've been working on and what you've gained throughout the course.
 
-You should submit a first draft of your slide deck no later than Thursday April 11th, which is when we'll have our rapid-fire rehearsals. "Rapid-fire" means you will present to staff, get feedback, make some updates, present again, get more feedback, make updates — rinse and repeat.
+You should submit a first draft of your slide deck no later than Thursday Week 10, which is when we'll have our rapid-fire rehearsals. "Rapid-fire" means you will present to staff, get feedback, make some updates, present again, get more feedback, make updates — rinse and repeat.
 
 You should create slides using Google Slides.
 We will combine all of your decks into one to ensure smooth transitions.
@@ -91,13 +92,13 @@ Most importantly: remember that it will be a room full of people who are already
 Please feel free to pepper us with questions or requests for feedback. Thank you!
 ```
 
-## Final Project Rubric
+## Rubric
 - **Points**: 0
 - **Requirements**:  mark as done
 - **Due**: 
 - [GitHub](https://github.com/DPI-WE/rubric/blob/main/sdf/final-project/overview.md)
 
-## Submit Showcase slides 🖼️
+## Slides 🖼️
 - **Points**: 10
 - **Requirements**: submit website url
 - **Due**: end of week 10
@@ -105,7 +106,7 @@ Please feel free to pepper us with questions or requests for feedback. Thank you
 Please submit a link to your google slides. Make sure to give editor permissions for presentation and video to anyone with the link.
 ```
 
-## Submit Final Project Functional Specification 📝
+## Functional Specification 📝
 - **Points**: 10
 - **Requirements**: submit website url
 - **Due**: end of week 12
@@ -113,7 +114,7 @@ Please submit a link to your google slides. Make sure to give editor permissions
 Please submit the Functional Specification 📝 for your final project. This will be used to evaluate if your final project satisfies the requirements.
 ```
 
-## Submit Final Project GitHub Repository URL 🔗 📦
+## GitHub Repository URL 🔗 📦
 - **Points**: 10
 - **Requirements**: submit website url
 - **Due**: end of week 12
@@ -121,7 +122,7 @@ Please submit the Functional Specification 📝 for your final project. This wil
 Make sure to update the repository name and README with details about your project. The README normally documents whatever steps are necessary to get the application up and running. If you used a GitHub project for issue tracking make sure to make it public and link to it in the README (or as a comment on this submission).
 ```
 
-## Submit Final Project Screencast Demo Video 🎬
+## Screencast Demo Video 🎬
 - **Points**: 10
 - **Requirements**: submit website url
 - **Due**: end of week 12
@@ -135,7 +136,7 @@ You can use any recording method you like. You could record a Zoom call where yo
 Once recorded, upload the video file to YouTube, Dropbox, Google Drive, or whatever service you prefer; but whatever you choose, you must be able to share a link with us **that does not require signing in**. In other words, **anyone with the link** should be able to view the video. On YouTube, this is known as an Unlisted (not Private) video.
 ```
 
-## Submit Final Project URL 🌐
+## URL 🌐
 - **Points**: 10
 - **Requirements**: submit website url
 - **Due**: end of week 12
