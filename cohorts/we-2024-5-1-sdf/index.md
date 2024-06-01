@@ -177,21 +177,21 @@ This intensive 12-week, in-person full stack web development program is designed
   - [Business Insights and Analytics 🕴️](./application-management-analytics-and-insights.md#business-insights-and-analytics-️)
 - Tuesday, 7/30/24
   - [Image Uploads with Ruby on Rails, Active Storage, and Amazon AWS S3 🌇☁️](./cloud.md#image-uploads-with-ruby-on-rails-active-storage-and-amazon-aws-s3-🌇☁️)
+  - [Background Jobs 🦸](./performance-and-optimization.md#background-jobs-🦸)
 - Wednesday, 7/31/24
   - [Launch 🚀](./building-your-own-idea.md#launch-🚀)
-- Thursday, 8/1/24
   - [How to get your first 5 users (and convert them to customers) 5️⃣📲🥳](./building-your-own-idea.md#how-to-get-your-first-5-users-and-convert-them-to-customers-5️⃣📲🥳)
+- Thursday, 8/1/24
+  - [Submit Showcase slides 🖼️](./final-project.md#submit-showcase-slides-🖼️)
 - Friday, 8/2/24
   - [First Unique Character in a String 🔠](./data-structures-algorithms.md#first-unique-character-in-a-string-)
 
 ### Week 10
-- Monday, 8/5/24
-  - [Background Jobs 🦸](./performance-and-optimization.md#background-jobs-🦸)
-- Tuesday, 8/6/24
-  - [Submit Showcase slides 🖼️](./final-project.md#submit-showcase-slides-🖼️)
-- Wednesday, 8/7/24
-  - [Payments 🤑](./payment-solutions.md#payments-🤑)
+- Monday, 8/5/24 (presentation: no meeting)
+- Tuesday, 8/6/24 (presentation: no meeting)
+- Wednesday, 8/7/24 (presentation: no meeting)
 - Thursday, 8/8/24
+  - [Payments 🤑](./payment-solutions.md#payments-🤑)
   - [SEO - Search Engine Optimization 🔎](./accessibility-and-seo.md#seo---search-engine-optimization-)
 - Friday, 8/9/24
   - [Find the Height of a Binary Tree 🌳](./data-structures-algorithms.md#find-the-height-of-a-binary-tree-)
@@ -205,8 +205,8 @@ This intensive 12-week, in-person full stack web development program is designed
   - [N+1s, Caching and Performance 🏎️](./performance-and-optimization.md#n1s-caching-and-performance-🏎️)
 - Wednesday, 8/14/24
   - [OAuth 🪪](./authentication-authorization-and-security.md#authentication-with-oauth-🪪)
-- Thursday, 8/15/24
   - [Building for Mobile 📲](./html-css-design-and-user-interfaces.md#building-for-mobile-📲)
+- Thursday, 8/15/24
   - [Next Steps ⏭️ ](./next-steps.md)
 - Friday, 8/16/24
   - [Reverse a Linked List ↩️](./data-structures-algorithms.md#reverse-a-linked-list-)
