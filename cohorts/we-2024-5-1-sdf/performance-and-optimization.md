@@ -1,7 +1,7 @@
 # Performance and Optimization
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 **Requirements**:
 <!-- none -->
@@ -21,16 +21,13 @@ By the end of this module, you will be able to:
 ```
 
 ## Pagination 📄
-- **Points**: 0
+- **Points**: 2
 - **Requirements**:  mark as done
-- **Due**: 
+- **Due**:
+- [Learn](https://learn.firstdraft.com/lessons/440-pagination)
+- [GitHub](https://github.com/DPI-WE/pagination)
 - [Video](https://youtu.be/zxtc5Ye-TkY)
 - [Pull Request](https://github.com/DPI-WE/readit/pull/13)
-```md
-Pagination is something most applications should support. Imagine having >1 million records. Does it make sense to render all those records on one page? 🤯 It's a lot more efficient to show the top 10 or 20 records and go from there.
-
-[add pagination with Kaminari](https://github.com/kaminari/kaminari) (can also check out [will_paginate](https://github.com/mislav/will_paginate) and [pagy](https://github.com/ddnexus/pagy))
-```
 
 ## Searching and filtering 🔎
 - **Points**: 0

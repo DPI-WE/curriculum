@@ -1,7 +1,7 @@
 # Data (Extract, Transform, and Load)
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md
@@ -26,7 +26,7 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/adding-sample-data)
 
 ## CSV 📁
-- **Points**: 0 
+- **Points**: 1
 - **Requirements**: mark as done
 - **Due**:
 - [Video](https://youtu.be/ccv7JDhFZks)
@@ -35,7 +35,7 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/appdev-lessons/loading-and-exporting-csv-data)
 
 ## Web scraping 🌐
-- **Points**: 0 
+- **Points**: 1
 - **Requirements**: mark as done
 - **Due**:
 - [Video](https://youtu.be/ccv7JDhFZks)
