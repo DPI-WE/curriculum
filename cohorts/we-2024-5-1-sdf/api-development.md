@@ -1,7 +1,7 @@
 # RESTful API Development
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md

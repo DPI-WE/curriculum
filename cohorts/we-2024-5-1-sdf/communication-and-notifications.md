@@ -1,7 +1,7 @@
 # Communication and Notifications
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md

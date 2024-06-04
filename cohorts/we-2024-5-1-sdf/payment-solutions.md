@@ -1,7 +1,7 @@
 # Payment Solutions
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md

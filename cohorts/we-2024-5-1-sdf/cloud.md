@@ -1,7 +1,7 @@
 # Cloud
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 **Requirements**:
 <!-- none -->
@@ -18,9 +18,31 @@ By the end of this module, you will be able to:
 - Implement image uploads using Ruby on Rails, Active Storage, and Amazon AWS S3.
 ```
 
-## Launch with Render
-- [Learn](https://learn.firstdraft.com/lessons/114-deploying-to-render)
-- [GitHub](https://github.com/appdev-lessons/deploying-to-render)
+## Launch with Render 🚀
+- [Learn](https://learn.firstdraft.com/lessons/215-rails-on-render)
+- [GitHub](https://github.com/appdev-lessons/rails-on-render)
+
+<!-- 
+    TODO: another IaC deploy option
+    - Terraform
+-->
+
+<!-- TODO: launch with heroku (PaaS) -->
+
+<!-- TODO: launch with aws elastic beanstalk (PaaS) -->
+
+<!-- TODO: launch with ec2
+https://medium.com/@manishyadavv/how-to-deploy-ruby-on-rails-apps-on-aws-ec2-7ce55bb955fa
+also capistrano?
+-->
+
+<!-- TODO: launch with Dockerfile (fly.io?) -->
+
+<!-- GCP -->
+
+<!-- Azure -->
+
+<!-- Digital Ocean VPS https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma -->
 
 <!-- TODO: add quiz https://github.com/DPI-WE/domain-names/issues/2 -->
 ## Domain Names 🌐

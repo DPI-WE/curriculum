@@ -1,7 +1,7 @@
 # Internationalization
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 **Requirements**:
 <!-- none -->
