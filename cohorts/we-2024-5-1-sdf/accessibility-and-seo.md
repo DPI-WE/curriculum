@@ -1,7 +1,7 @@
 # Accessibility and Search Engine Optimization (SEO)
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md

@@ -4,7 +4,7 @@ think of this as post-deploy items to do
 -->
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md
@@ -33,6 +33,3 @@ By the end of this module, you will be able to:
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/354-rails-business-analytics)
 - [GitHub](https://github.com/DPI-WE/rails-business-analytics)
-
-<!-- TODO: consider adding more on exception tracking tools like rollbar/airbrake -->
-<!-- https://github.com/DPI-WE/curriculum/issues/9 -->

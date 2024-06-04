@@ -1,7 +1,7 @@
 # Quality Assurance, Testing, and Monitoring
 
 **Prerequisites**:
-- JavaScript
+- Authentication, Authorization, and Security
 
 ## Overview
 ```md
@@ -27,3 +27,6 @@ By the end of this module, you will be able to:
 
 <!-- TODO https://github.com/DPI-WE/curriculum/issues/24 -->
 ## Testing your code with RSpec 🧪
+
+<!-- TODO: consider adding more on exception tracking tools like rollbar/airbrake -->
+<!-- https://github.com/DPI-WE/curriculum/issues/9 -->
