@@ -84,6 +84,9 @@ By the end of this module, you will be able to:
 <!-- TODO https://github.com/DPI-WE/curriculum/issues/23 -->
 ### Polymorphism 🖇️
 
+<!-- TODO: pub/sub message queues https://github.com/DPI-WE/curriculum/issues/45 -->
+### Publish-Subscribe Pattern
+
 ### Refactoring
 - **Points**: 10
 - **Requirements**: submit assignment
