@@ -24,7 +24,7 @@ By the end of this module, you will be able to:
 
 <!-- 
     TODO: another IaC deploy option
-    - Terraform
+    - Terraform (https://docs.digitalocean.com/reference/terraform/getting-started/)
 -->
 
 <!-- TODO: launch with heroku (PaaS) -->
