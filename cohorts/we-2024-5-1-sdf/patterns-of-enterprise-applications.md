@@ -76,7 +76,7 @@ By the end of this module, you will be able to:
 
 ### Component-Based View Templates 🧩
 - **Points**: 2
-- **Requirements**: submit assignment
+- **Requirements**: score at least 2/2
 - **Due**: end of week 12
 - [Learn](https://learn.firstdraft.com/lessons/404-component-based-view-templates)
 - [GitHub](https://github.com/DPI-WE/component-based-view-templates)
@@ -84,8 +84,12 @@ By the end of this module, you will be able to:
 <!-- TODO https://github.com/DPI-WE/curriculum/issues/23 -->
 ### Polymorphism 🖇️
 
-<!-- TODO: pub/sub message queues https://github.com/DPI-WE/curriculum/issues/45 -->
-### Publish-Subscribe Pattern
+### Scaling with Event-Driven Architectures 📬📤
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**: end of week 12
+- [Learn](https://learn.firstdraft.com/lessons/441-rails-pub-sub-pattern)
+- [GitHub](https://github.com/DPI-WE/rails-pub-sub-pattern)
 
 ### Refactoring
 - **Points**: 10
