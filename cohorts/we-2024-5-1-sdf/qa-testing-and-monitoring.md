@@ -11,14 +11,13 @@ This module is designed to introduce you to the essential practices of quality a
 By the end of this module, you will be able to:
 
 - Understand the importance of quality assurance and its role in software development.
-<!-- TODO -->
-<!-- - Implement testing strategies using RSpec to ensure code reliability and functionality. -->
+- Implement testing strategies using RSpec to ensure code reliability and functionality.
 - Set up monitoring tools to track application performance and detect issues in real-time.
 ```
 
 <!-- TODO: split out this lesson? https://github.com/DPI-WE/rails-qa-testing/issues/2 -->
-## Quality Assurance, Testing, and Monitoring 🪳🧐
-- **Points**: 0 
+## Quality Assurance Testing 🪳🧐
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/399-rails-qa-testing)
@@ -29,4 +28,13 @@ By the end of this module, you will be able to:
 ## Testing your code with RSpec 🧪
 
 <!-- TODO: consider adding more on exception tracking tools like rollbar/airbrake -->
-<!-- https://github.com/DPI-WE/curriculum/issues/9 -->
+<!-- 
+https://github.com/DPI-WE/curriculum/issues/9
+## Tracking and Managing Exceptions
+When your app is live, tracking exceptions is vital. Services like [Airbrake](https://github.com/airbrake/airbrake) and [Rollbar](https://github.com/rollbar/rollbar-gem) can be integrated into your Rails application. These tools help by:
+
+- **Catching Exceptions**: They catch and log errors that occur in real-time.
+- **Notification**: You get notified immediately when something goes wrong.
+- **Debugging Assistance**: They provide detailed reports and contexts, helping you track down issues quickly. 
+
+-->
