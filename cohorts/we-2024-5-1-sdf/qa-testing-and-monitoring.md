@@ -30,8 +30,6 @@ By the end of this module, you will be able to:
 - [Learn](https://learn.firstdraft.com/lessons/443-testing-with-rspec)
 - [GitHub](https://github.com/DPI-WE/testing-with-rspec)
 
-
-
 ## Monitoring Your Application 🔍
 - **Points**: 2
 - **Requirements**: score at least 2/2
