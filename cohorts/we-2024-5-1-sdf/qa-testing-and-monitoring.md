@@ -18,7 +18,7 @@ By the end of this module, you will be able to:
 <!-- TODO: split out this lesson? https://github.com/DPI-WE/rails-qa-testing/issues/2 -->
 ## Quality Assurance Testing 🪳🧐
 - **Points**: 2
-- **Requirements**: mark as done
+- **Requirements**: score at least 2/2
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/399-rails-qa-testing)
 - [GitHub](https://github.com/DPI-WE/rails-qa-testing)
@@ -27,14 +27,10 @@ By the end of this module, you will be able to:
 <!-- TODO https://github.com/DPI-WE/curriculum/issues/24 -->
 ## Testing your code with RSpec 🧪
 
-<!-- TODO: consider adding more on exception tracking tools like rollbar/airbrake -->
-<!-- 
-https://github.com/DPI-WE/curriculum/issues/9
-## Tracking and Managing Exceptions
-When your app is live, tracking exceptions is vital. Services like [Airbrake](https://github.com/airbrake/airbrake) and [Rollbar](https://github.com/rollbar/rollbar-gem) can be integrated into your Rails application. These tools help by:
 
-- **Catching Exceptions**: They catch and log errors that occur in real-time.
-- **Notification**: You get notified immediately when something goes wrong.
-- **Debugging Assistance**: They provide detailed reports and contexts, helping you track down issues quickly. 
-
--->
+## Monitoring Your Application 🔍
+- **Points**: 2
+- **Requirements**: score at least 2/2
+- **Due**:
+- [Learn](https://learn.firstdraft.com/lessons/442-monitoring-your-application)
+- [GitHub](https://github.com/DPI-WE/monitoring-your-application)
