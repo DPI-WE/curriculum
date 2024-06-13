@@ -71,7 +71,7 @@ https://github.com/appdev-projects/ujs-practice-1
 
 You can follow the [step by step commits](https://github.com/appdev-projects/ujs-practice-1/commits/bp-solution) and build your own todo list app to learn more about Rails UJS (Unobtrusive JavaScript)
 ```
-<!-- TODO: add quiz questions https://github.com/DPI-WE/rails-organizing-js-code/issues/6 -->
+
 ## Organizing JavaScript Code ☕️
 - **Points**: 2
 - **Requirements**: mark as done
@@ -79,7 +79,12 @@ You can follow the [step by step commits](https://github.com/appdev-projects/ujs
 - [Learn](https://learn.firstdraft.com/lessons/295-rails-organizing-js-code)
 - [GitHub](https://github.com/DPI-WE/rails-organizing-js-code)
 
-<!-- TODO: javascript event lifecycle https://github.com/DPI-WE/curriculum/issues/19 -->
+## Managing JavaScript Page Lifecycle Events 🔂
+- **Points**: 2
+- **Requirements**: mark as done
+- **Due**: end of week 6
+- [Learn](https://learn.firstdraft.com/lessons/444-js-page-lifecycle-events)
+- [GitHub](https://github.com/DPI-WE/js-page-lifecycle-events)
 
 <!-- TODO: https://github.com/DPI-WE/curriculum/issues/20 -->
 ## Hotwire/Turbo 🔥

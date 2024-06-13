@@ -33,3 +33,5 @@ By the end of this module, you will be able to:
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/354-rails-business-analytics)
 - [GitHub](https://github.com/DPI-WE/rails-business-analytics)
+
+<!-- TODO: paper trail gem https://github.com/DPI-WE/curriculum/issues/47 -->
