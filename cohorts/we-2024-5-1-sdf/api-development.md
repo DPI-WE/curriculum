@@ -16,9 +16,8 @@ By the end of this module, you will be able to:
 - Test and document APIs effectively.
 ```
 
-<!-- TODO: add quiz / points https://github.com/DPI-WE/rails-building-apis/issues/3 -->
 ## Building RESTful APIs 🤖
-- **Points**: 0
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/328-rails-building-apis)
