@@ -16,6 +16,7 @@ By the end of this module, you will be able to:
 - Set up an admin interface to manage your application's data and users.
 - Implement business insights and analytics to track key metrics and user behaviors.
 - Use analytics tools to make data-driven decisions for improving your application.
+- Setup record auditing to track changes to your models.
 ```
 
 ## Admin 🧑‍💼
@@ -35,3 +36,5 @@ By the end of this module, you will be able to:
 - [GitHub](https://github.com/DPI-WE/rails-business-analytics)
 
 <!-- TODO: paper trail gem https://github.com/DPI-WE/curriculum/issues/47 -->
+## Auditing Record Changes 📜 
+If you are interested in tracking changes to records in your application, I recommend checking out the [Paper Trail](https://github.com/paper-trail-gem/paper_trail) gem. As bonus, there is a paper trail integration with [rails_admin](https://github.com/railsadminteam/rails_admin) making it super easy to track record changes in your application.

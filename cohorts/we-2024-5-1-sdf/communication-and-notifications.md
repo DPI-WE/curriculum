@@ -16,16 +16,15 @@ By the end of this module, you will be able to:
 ```
 
 <!-- TODO: cover phishing emails? maybe in security? https://github.com/DPI-WE/email/issues/3 -->
-<!-- TODO: add quiz https://github.com/DPI-WE/email/issues/2 -->
 ## Email 📬
-- **Points**: 0 
+- **Points**: 2
 - **Requirements**: mark as done
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/301-email)
 - [GitHub](https://github.com/DPI-WE/email)
 
 ## SMS 📱
-- **Points**: 0 
+- **Points**: 1
 - **Requirements**: mark as done
 - **Due**:
 - [Learn](https://learn.firstdraft.com/lessons/144-sending-emails-and-texts)
