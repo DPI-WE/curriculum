@@ -20,10 +20,6 @@ Learning to code is an exponential process that requires innate interest, grit a
 - [Ruby Gym](./ruby-gym.md)
 - [Testing](./testing.md)
 - [Command Line Interface (CLI) Project](./command-line-interface-cli-project.md)
-- [HTTP, APIs, & Domain Names](./http-apis-&-domain-names.md)
-- [Web apps with Sinatra](./web-apps-with-sinatra.md)
-- [Web apps with Sinatra & OpenAI API](./web-apps-with-sinatra-&-openai-api.md)
-- [Web App Project](./web-app-project.md)
 - [Career Exploration](./career-exploration.md)
 
 ## We are here to help!
