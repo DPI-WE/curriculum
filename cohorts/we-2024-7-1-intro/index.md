@@ -21,6 +21,7 @@ Learning to code is an exponential process that requires innate interest, grit a
 - [Testing](./testing.md)
 - [Command Line Interface (CLI) Project](./command-line-interface-cli-project.md)
 - [Career Exploration](./career-exploration.md)
+- [Interview Preparation](./preparation-for-interview.md)
 
 ## We are here to help!
 Reach out to our dedicated tech coaches and instructors whenever you have questions throughout the course—they are here to assist you every step of the way!
