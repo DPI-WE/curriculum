@@ -1,14 +1,37 @@
-<!-- First, you should learn more JavaScript. I recommend [this free introduction to JavaScript from Scrimba](https://scrimba.com/learn/learnjavascript). After that, [they have a good deeper dive](https://scrimba.com/learn/javascript), but it requires a subscription. -->
+# Javascript
 
+**Requirements**:
 
+## Overview
+```md
+<!-- TODO -->
+```
 
+## Introduction to JavaScript from Scrimba
+- **Points**: 0
+- **Requirements**: mark as done
+```
+[free introduction to JavaScript from Scrimba](https://scrimba.com/learn/learnjavascript). 
 
-<!-- Then, we've purchased another amazing resource for you — [Josh Comeau's The Joy of React](https://www.joyofreact.com/). Send a message to Morgan when you're ready to go through it, and include your personal email address (not your student worker address) in the message, and we'll send you an invitation to the course. -->
+[they have a good deeper dive](https://scrimba.com/learn/javascript), but it requires a subscription. 
 
+```
 
-<!-- React.js with a REST API https://github.com/DPI-WE/curriculum/issues/25 -->
+## Eloquent JavaScript
+- **Points**: 0
+- **Requirements**: mark as done
+```
+https://eloquentjavascript.net/
+```
 
-<!-- - [Next.js (Javascript)](https://nextjs.org/) -->
+## Josh Comeau's The Joy of React
+- **Points**: 0
+- **Requirements**: mark as done
+```
+We've purchased another amazing resource for you — [Josh Comeau's The Joy of React](https://www.joyofreact.com/). Send a message to Morgan when you're ready to go through it, and include your personal email address (not your student worker address) in the message, and we'll send you an invitation to the course.
+```
 
-<!-- - [MEAN / MERN / MEVN (Javascript)](https://www.mongodb.com/languages/mean-stack-tutorial) -->
+<!-- TODO: React.js with a REST API https://github.com/DPI-WE/curriculum/issues/25 -->
+<!-- TODO: [Next.js (Javascript)](https://nextjs.org/) -->
+<!-- TODO: [MEAN / MERN / MEVN (Javascript)](https://www.mongodb.com/languages/mean-stack-tutorial) -->
 

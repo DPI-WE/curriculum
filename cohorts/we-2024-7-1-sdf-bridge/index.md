@@ -3,23 +3,23 @@ This bridge program is designed to leverage your foundation and prepare you for 
 
 ## Modules
 
-- [Career](./career.md)
-- [Build](./build.md)
+<!-- - [Career](./career.md) -->
+<!-- - [Build](./build.md) -->
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
-- [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md)
+<!-- - [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md) -->
 - [Fundamentals](./fundamentals.md)
 - [Javascript](./javascript.md)
-- [CSS](./css.md)
-- [SQL](./sql.md)
-- [Data Science](./data-science.md)
-- [Cloud](./cloud.md)
-- [Ruby](./ruby.md)
+- [Data](./data.md)
 - [Java](./java.md)
 - [Python](./python.md)
-- [C#](./c-sharp.md)
-- [Mobile](./mobile.md)
-- [Design](./design.md)
-- [Cybersecurity](./cybersecurity.md)
+<!-- - [CSS](./css.md) -->
+<!-- - [Artificial Intelligence](./artificial-intelligence.md) -->
+<!-- - [Cloud](./cloud.md) -->
+<!-- - [Ruby](./ruby.md) -->
+<!-- - [C#](./c-sharp.md) -->
+<!-- - [Mobile](./mobile.md) -->
+<!-- - [Design](./design.md) -->
+<!-- - [Cybersecurity](./cybersecurity.md) -->
 
 ## Pre-requisites
 Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO), Software Development Foundations Web (SDF-WEB), and Software Development Foundations Solo Project (SDF-SOLO).
