@@ -1,5 +1,5 @@
 # Intro to Ruby
-- **Requirements/Prerequisites**: complete HTML&CSS moudle
+- **Requirements/Prerequisites**: complete HTML&CSS module
 
 ## Overview: Intro to Ruby
 - **Points**: 0
