@@ -1,5 +1,10 @@
-## Additional Ruby practice
-- Overview: Additional Ruby practice
+# Additional Ruby practice
+- **Requirements/Prerequisites**: complete HTML&CSS module
+
+## Overview: Additional Ruby practice
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 This module contains additional Ruby content ranging from language guides, challenging exercises, and software developer networks.
 
@@ -16,7 +21,10 @@ After completion of this module, you should be able to:
 - Engagement with the Ruby developer community at Exercism and Ruby Weekly
 ```
 
-- Continuous practice with Exercism.org 🏋️‍♂️🔍💻
+## Continuous practice with Exercism.org 🏋️‍♂️🔍💻
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Let’s exercise our newfound Ruby skills with Exercism.io, a wonderful non-profit project. It’s a community for leveling up programming skills through solving problems, discussion, and mentorship.
 
@@ -44,24 +52,36 @@ Overview.
 10. Try doing a few Exercism problems each week to keep improving your Ruby skills continuously.
 ```
 
-- Ruby Programming | In One Video 🎥🧐💻
+## Ruby Programming | In One Video 🎥🧐💻
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Please watch [this extremely concise ruby language overview](https://www.edu-apps.org/lti_public_resources/launch?driver=youtube&remote_id=8wZ2ZD--VTk).
 ```
 
-- GoRails: Ruby for Beginners Series 🚂📚💻
+## GoRails: Ruby for Beginners Series 🚂📚💻
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 To get another perspective on Ruby fundamentals, you should go through [Go Rails: Ruby for Beginners Series](https://gorails.com/series/ruby-for-beginners).
 ```
 
-- Try Ruby 💎👩‍💻📚
+## Try Ruby 💎👩‍💻📚
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Have fun playing with this step by step Ruby walkthrough created by the people who maintain the language.
 
 [Try Ruby](https://try.ruby-lang.org/)
 ```
 
-- Ruby References 📚🔍💎
+## Ruby References 📚🔍💎
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Here are links to the official Ruby documentation. Make sure the documentation version matches the version you are running. You can enter `ruby -v` in the terminal to see which version you are running.
 
@@ -71,7 +91,10 @@ Here are links to the official Ruby documentation. Make sure the documentation v
 The documentation is organized by class (eg String, Float, Integer, Hash, etc.), their methods and what they do.
 ```
 
-- Subscribe to Ruby Weekly 💎
+## Subscribe to Ruby Weekly 💎
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Subscribe to the [Ruby Weekly email newsletter](https://rubyweekly.com/) (or, as I prefer, subscribe to the RSS feed).
 
