@@ -1,5 +1,10 @@
 # HTML & CSS
-- Overview: HTML & CSS
+- **Requirements/Prerequisites**: complete: Hello, World!
+
+## Overview: HTML & CSS
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 In this module you will learn about how to define meaning and structure of web content using HTML (HyperText Markup Language) and  CSS (Cascading Style Sheet).  HTML defines the basic look of a web page, and CSS provides more detail to the HTML.
 
@@ -16,7 +21,10 @@ After successful completion of this module, you should be able to:
 - Construct and deploy a static web page
 ```
 
-- Codecademy: HTML & CSS 💻📚🎨
+## Codecademy: HTML & CSS 💻📚🎨
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Codecademy is one of the most popular online schools for learning how to program in various languages.
 
@@ -34,31 +42,53 @@ The above are required. If you finish those and are hungry for more, the followi
 - [Learn CSS: Transitions and Animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations)
 ```
 
-- HTML for Beginners Series (optional) 🧑‍💻
+## HTML for Beginners Series (optional) 🧑‍💻
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Check out this optional HTML for Beginners Series.
 
 https://gorails.com/series/html-for-beginners
 ```
 
-- Raghu's HTML Review 📚💻🧐
+## Raghu's HTML Review 📚💻🧐
+- **Points**: 5
+- **Requirements**: mark as done
+- **Due**: rolling due date
+
   - [Learn](https://learn.firstdraft.com/lessons/94)
   - [GitHub](https://github.com/appdev-lessons/html-review)
 
-- Link in Bio 🔗📃
+## Link in Bio 🔗📃
+- **Points**: 10
+- **Requirements**: mark as done
+- **Due**: rolling due date
   - [Learn](https://learn.firstdraft.com/lessons/109)
   - [GitHub](https://github.com/appdev-lessons/linkinbio)
 
-- Option A: Link in Bio, Render Deployment 🚀🌍👋
+### Option A: Link in Bio, Render Deployment 🚀🌍👋
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
   - [Learn](https://learn.firstdraft.com/lessons/114)
   - [GitHub](https://github.com/appdev-lessons/deploying-to-render)
 
-- Option B: Link in Bio, Fly.io Deployment 🚀🌍👋
+### Option B: Link in Bio, Fly.io Deployment 🚀🌍👋
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
   - [Learn](https://learn.firstdraft.com/lessons/107)
   - [GitHub](https://github.com/appdev-lessons/deploying-to-fly)
 
-- Option C: Link in Bio, GitHub Pages Deployment 🚀🌍👋
+### Option C: Link in Bio, GitHub Pages Deployment 🚀🌍👋
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
   - [Learn](https://learn.firstdraft.com/lessons/108)
   - [GitHub](https://github.com/appdev-lessons/deploying-static-to-github-pages)
 
-- Submit Link in Bio URL 🔗📤
+### Submit Link in Bio URL 🔗📤
+- **Points**: 10
+- **Requirements**: mark as done
+- **Due**: rolling due date

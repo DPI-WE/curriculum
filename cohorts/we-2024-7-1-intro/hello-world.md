@@ -1,4 +1,6 @@
 # Hello, World!
+- **Requirements/Prerequisites**: complete Getting Started module
+
 ## Overview: Hello, World!
 - **Points**: 0
 - **Requirements**: mark as done
