@@ -1,6 +1,9 @@
 # Technical Setup References
 
-- Setup References (forking, coding, grading, git, etc.) 📚🔧💻📝
+## Setup References (forking, coding, grading, git, etc.) 📚🔧💻📝
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Here is your one-stop-shop for technical references. You completed many of these steps during the "Hello, world" deployment lesson, but these lessons provide dedicated expansions on some key topics. Keep this page handy, and skim through the materials now.
 
