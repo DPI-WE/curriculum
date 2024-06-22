@@ -1,5 +1,12 @@
 # Career Development
-- Overview: Career Portfolio 📋🚀📁
+
+**Prerequisites**:
+- none
+
+**Requirements**:
+- must complete all items in section
+
+## Overview: Career Portfolio 📋🚀📁
 ```md
 One of the trickiest aspects of breaking into tech is the interview process. While interviewing with DPI is not guaranteed, DPI wants to get to know you so that we can understand your interest in tech and your ability to pursue goals in the face of challenges. This module provides helpful tips that will allow you to put your best foot forward with your career portfolio (resume, interview responses and short answer essays).
 
@@ -8,7 +15,11 @@ One of the trickiest aspects of breaking into tech is the interview process. Whi
 
 ## Elevator Speech 🗣️📢🏢
 
-- Elevator Speech 🗣️
+### Elevator Speeches 🗣️
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
+
 ```md
 Communicating who you are and value you add to a team is a crucial skill to develop for your career.  Use the content below to help guide you as you develop a 30 second elevator speechLinks to an external site. that you can use on interviews or other settings when you need to introduce yourself professionally.  
 
@@ -23,14 +34,22 @@ Communicating who you are and value you add to a team is a crucial skill to deve
 There are different opinions on the style and format of a professional introduction, but no matter what style you use, you should make your response genuine. Keep in mind: people connect to authentic stories more than facts and accomplishments.
 ```
 
-- Upload your elevator speech 📢 🚀🏢
+### Upload your elevator speech 📢 🚀🏢
+- **Points**: 1
+- **Requirements**: mark as complete
+- **Due**: rolling due date
+
 ```md
 Introduce yourself to the DPI in a 30-60 second elevator speech. Use your speech to help us understand why you want a career in tech and why you should be selected for the apprenticeship opportunity.
 ```
 
 ## Updating your resume 📄✍️
 
-- Resume Tips 📝📋💼
+### Resume Tips 📝📋💼
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
+
 ```
 Resumes are an essential tool for briefly highlighting why you would be a good person for a role. In the case of this pre-apprenticeship program, we'd like to see from your resume the education and skills that you've gained in past positions (paid or unpaid) that relate to or would transfer well into tech. Use the two videos below to gain some tips that can help you improve your resume. On the next page, submit your resume on this platform.
 
@@ -39,14 +58,27 @@ Resumes are an essential tool for briefly highlighting why you would be a good p
 - [Non-linear Career Paths](https://youtu.be/vapMAO-DeJk?si=AoeXd52rH5Fza86G)
 ```
 
-- Upload your updated resume 📥💼
+### Upload your updated resume 📥💼
+- **Points**: 1
+- **Requirements**: mark as done
+- **Due**: rolling due date
 ```md
 Based on the tips you learned in the YouTube videos, upload your updated resume. If you've already submitted a resume to DPI, you may upload that resume if you feel comfortable that it best represents you. Please keep in mind that we will only review the resume uploaded on this platform. 
 ```
 
 ## Short Answer Responses 📋📄📝
+
+### Tips for Writing Effectively 🖋️📚
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: rolling due date
+
 - [Tips for Writing Effectively 🖋️📚](https://languagetool.org/insights/post/writing-tips/)
-- Short Essay Response 1 📄📋
+
+### Short Essay Response 1 📄📋
+- **Points**: 1
+- **Requirements**: mark as done
+- **Due**: rolling due date
 ```md
 Upload your response to the following essay question:
 
@@ -57,7 +89,10 @@ Your essay should be 75-300 words.
 If you already completed this essay during Tech Prep in March, please write "March 2023 submission."
 ```
 
-- Short Essay Response 2 📄📋
+### Short Essay Response 2 📄📋
+- **Points**: 1
+- **Requirements**: mark as done
+- **Due**: rolling due date
 ```md
 Upload your response to the following essay question:
 
@@ -68,7 +103,10 @@ Your essay should be 75-300 words.
 If you already completed this essay during Tech Prep in March, please write "March 2023 submission."
 ```
 
-- Short Essay Response 3 📄📋
+### Short Essay Response 3 📄📋
+- **Points**: 1
+- **Requirements**: mark as done
+- **Due**: rolling due date
 ```md
 Show off your critical thinking skills by uploading your response to the following essay question:
 
@@ -80,12 +118,18 @@ If you already completed this essay during Tech Prep in March, please write "Mar
 ```
 
 ## Two Surveys
-- Tech experience survey 📊💻🔍
+### Tech experience survey 📊💻🔍
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 To help us better understand your starting point, please complete [this brief survey](https://uic.ca1.qualtrics.com/jfe/form/SV_08x3ywuOpqU333o). 
 ```
 
-- Employment status 💼👨‍💼👩‍💼
+### Employment status 💼👨‍💼👩‍💼
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Please complete [this brief survey](https://uic.ca1.qualtrics.com/jfe/form/SV_4MykCF0YTNfmk0m) so that we understand how much time you have to dedicate to studying.  
 ```
