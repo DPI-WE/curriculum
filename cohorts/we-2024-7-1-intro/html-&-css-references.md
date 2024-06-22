@@ -1,5 +1,10 @@
 # HTML & CSS References
-- HTML & CSS References 📚💻🔍
+- **Requirements/Prerequisites**: complete Getting started module
+
+## HTML & CSS References 📚💻🔍
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 ```md
 Here is your one-stop-shop for HTML and CSS references, examples, and exercises. Keep this page handy, and skim through the materials now.
 

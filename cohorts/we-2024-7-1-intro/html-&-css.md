@@ -1,5 +1,5 @@
 # HTML & CSS
-- **Requirements/Prerequisites**: complete: Hello, World!
+- **Requirements/Prerequisites**: complete Hello, World! module
 
 ## Overview: HTML & CSS
 - **Points**: 0
