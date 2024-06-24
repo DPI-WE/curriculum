@@ -7,11 +7,13 @@
 <!-- TODO -->
 ```
 
-## CS124
+## learncs.online
 - **Points**: 0
 - **Requirements**: mark as done
 ```
-[cs124](https://www.cs124.org/) a java/kotlin based introduction to computer science course from University of Illinois.
+[cs124](https://www.cs124.org/) / https://www.learncs.online/ is a Java/Kotlin based introduction to computer science course from University of Illinois. Great place to brush up on your computer science fundamentals in a new language.
+
+**Submit a screenshot of your progress for credit.**
 ```
 
 <!-- https://gist.github.com/bpurinton/ce8411664962bba258565e2b5ac87bf3 -->
@@ -22,7 +24,7 @@
 ```
 - [Introduction to Java](https://hyperskill.org/tracks/8)
 
-Please submit a screenshot of your progress.
+**Submit a screenshot of your progress for credit.**
 ```
 
 ## Hyperskill: Java Backend Developer (Spring Boot)
@@ -34,5 +36,5 @@ I would highly recommend completing SQL course on Datacamp before beginning (or 
 
 - [Java Backend Developer (Spring Boot)](https://hyperskill.org/tracks/12)
 
-Please submit a screenshot of your progress.
+**Submit a screenshot of your progress for credit.**
 ```
