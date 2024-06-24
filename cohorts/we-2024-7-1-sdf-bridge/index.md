@@ -1,6 +1,8 @@
 # Software Development Foundations (we-2024-7-1-sdf-bridge)
 This bridge program is designed to leverage your foundation and prepare you for success in a specific technology role.
 
+![](./assets//chicago-bridge.jpg)
+
 ## Modules
 
 - [Getting Started](./getting-started.md)
