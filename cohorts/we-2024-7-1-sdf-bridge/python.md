@@ -9,13 +9,6 @@
 There's an (accurate) joke that Python isn't the best language for anything, but it's the second best language for everything. You should be conversant in Python.
 ```
 
-## Python for Everybody
-- **Points**: 0
-- **Requirements**: mark as done
-```
-[This Python course from the University of Michigan](https://online.umich.edu/series/python-for-everybody/) is very good.
-```
-
 ## Python & Django
 - **Points**: 50
 - **Requirements**: submit assignment
@@ -48,10 +41,21 @@ There's an (accurate) joke that Python isn't the best language for anything, but
 ### Ask Forum: Python & Django
 - [Join](https://ask.firstdraft.com/forums/14-from-ruby-rails-to-python-django?token=c1JPGEaqZK28qDDqspGGAcer)
 
+## Python for Everybody
+- **Points**: 25
+- **Requirements**: mark as done
+```
+[This Python course from the University of Michigan](https://online.umich.edu/series/python-for-everybody/) is very good.
+
+**Submit a screenshot of your progress for credit.**
+```
+
 ## CS50's Web Programming with Python and JavaScript
 - **Points**: 20
 - **Requirements**: mark as done
 - **Submitting**: a file upload
 ```
 [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+
+**Submit a screenshot of your progress for credit.**
 ```
