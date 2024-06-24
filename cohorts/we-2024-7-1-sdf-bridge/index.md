@@ -3,6 +3,7 @@ This bridge program is designed to leverage your foundation and prepare you for 
 
 ## Modules
 
+- [Getting Started](./getting-started.md)
 <!-- - [Career](./career.md) -->
 <!-- - [Build](./build.md) -->
 - [Data Structures, Algorithms, and Acing Coding Interviews](./data-structures-algorithms.md)
