@@ -12,7 +12,8 @@ This bridge program is designed to leverage your foundation and prepare you for 
 <!-- - [Patterns of Enterprise Applications: Design, Architecture, and Best Practices 📐](./patterns-of-enterprise-applications.md) -->
 - [Fundamentals](./fundamentals.md)
 - [Javascript](./javascript.md)
-- [Data](./data.md)
+- [Databases and SQL](./databases-sql.md)
+- [Data Science](./data-science.md)
 - [Java](./java.md)
 - [Python](./python.md)
 <!-- - [CSS](./css.md) -->
