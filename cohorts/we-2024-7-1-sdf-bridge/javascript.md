@@ -16,12 +16,14 @@
 
 [they have a good deeper dive](https://scrimba.com/learn/javascript), but it requires a subscription. 
 
+**Submit a screenshot of your progress for credit.**
 ```
 
 ## Eloquent JavaScript
 - **Points**: 0
 - **Requirements**: mark as done
 ```
+Check out this excellent (free) textbook on JavaScipt.
 https://eloquentjavascript.net/
 ```
 
