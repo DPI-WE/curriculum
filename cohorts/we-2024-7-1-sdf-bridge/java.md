@@ -18,15 +18,21 @@
 ## Hyperskill: Introduction to Java
 - **Points**: 0
 - **Requirements**: mark as done
+- **Submitting**: a file upload
 ```
 - [Introduction to Java](https://hyperskill.org/tracks/8)
+
+Please submit a screenshot of your progress.
 ```
 
 ## Hyperskill: Java Backend Developer (Spring Boot)
 - **Points**: 0
 - **Requirements**: mark as done
+- **Submitting**: a file upload
 ```
 I would highly recommend completing SQL course on Datacamp before beginning (or in parallel).
 
 - [Java Backend Developer (Spring Boot)](https://hyperskill.org/tracks/12)
+
+Please submit a screenshot of your progress.
 ```
