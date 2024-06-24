@@ -52,8 +52,8 @@ Here are some materials for reference:
 
 ## Email Updates 📧
 - **Points**: 2
-- **Requirements**: submit the assignment
-- **Due**: end of week 1
+- **Requirements**: mark as done
+
 ```md
 Send an email to staff with your learning updates and career goals. This helps us (especially corporate partnerships team) stay connected while you're in the bridge. Some things you may want to cover: what you're learning, growth, projects, work, what's new, and any other updates that you would like to share.
 
