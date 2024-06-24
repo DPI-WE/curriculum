@@ -15,8 +15,9 @@ A great course for everyone is [MIT's The Missing Semester of Your CS Education]
 ```
 
 ## CS50
-- **Points**: 0
+- **Points**: 100
 - **Requirements**: mark as done
+- **Submitting**: a file upload
 ```
 Now that you have some context, it's time to learn some computer science fundamentals. Harvard's CS50 is an excellent resource for that. It's free, but you can pay if you want a certificate.
 

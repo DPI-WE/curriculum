@@ -49,8 +49,9 @@ There's an (accurate) joke that Python isn't the best language for anything, but
 - [Join](https://ask.firstdraft.com/forums/14-from-ruby-rails-to-python-django?token=c1JPGEaqZK28qDDqspGGAcer)
 
 ## CS50's Web Programming with Python and JavaScript
-- **Points**: 0
+- **Points**: 20
 - **Requirements**: mark as done
+- **Submitting**: a file upload
 ```
 [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
 ```

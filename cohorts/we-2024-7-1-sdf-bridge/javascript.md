@@ -8,8 +8,9 @@
 ```
 
 ## Introduction to JavaScript from Scrimba
-- **Points**: 0
+- **Points**: 10
 - **Requirements**: mark as done
+- **Submitting**: a file upload
 ```
 [free introduction to JavaScript from Scrimba](https://scrimba.com/learn/learnjavascript). 
 
