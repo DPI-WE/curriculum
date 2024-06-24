@@ -7,19 +7,19 @@
 <!-- TODO -->
 ```
 
+## CS124
+- **Points**: 0
+- **Requirements**: mark as done
+```
+[cs124](https://www.cs124.org/) a java/kotlin based introduction to computer science course from University of Illinois.
+```
+
 <!-- https://gist.github.com/bpurinton/ce8411664962bba258565e2b5ac87bf3 -->
 ## Hyperskill: Introduction to Java
 - **Points**: 0
 - **Requirements**: mark as done
 ```
 - [Introduction to Java](https://hyperskill.org/tracks/8)
-```
-
-## CS124
-- **Points**: 0
-- **Requirements**: mark as done
-```
-[cs124](https://www.cs124.org/) a java/kotlin based introduction to computer science course from University of Illinois.
 ```
 
 ## Hyperskill: Java Backend Developer (Spring Boot)
