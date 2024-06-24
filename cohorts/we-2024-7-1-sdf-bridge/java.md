@@ -16,7 +16,7 @@
 
 <!-- https://gist.github.com/bpurinton/ce8411664962bba258565e2b5ac87bf3 -->
 ## Hyperskill: Introduction to Java
-- **Points**: 0
+- **Points**: 44
 - **Requirements**: mark as done
 - **Submitting**: a file upload
 ```
@@ -26,7 +26,7 @@ Please submit a screenshot of your progress.
 ```
 
 ## Hyperskill: Java Backend Developer (Spring Boot)
-- **Points**: 0
+- **Points**: 143
 - **Requirements**: mark as done
 - **Submitting**: a file upload
 ```
