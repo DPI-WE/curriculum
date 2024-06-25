@@ -4,7 +4,7 @@
 
 ## Overview
 ```md
-No matter what language/framework you are using, it's always helpful to be proficient in SQL so that you can interact with your database directly, for those occasions when ActiveRecord can't solve your problem for you.
+No matter what language/framework you are using, it's always helpful to be proficient in SQL so that you can interact with your database directly, for those occasions when ActiveRecord (or another ORM) can't solve your problem for you.
 ```
 
 ## CS50's Introduction to Databases with SQL

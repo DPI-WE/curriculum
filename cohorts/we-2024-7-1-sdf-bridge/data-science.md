@@ -11,7 +11,7 @@
 - **Points**: 0
 - **Requirements**: mark as done
 ```
-We also have access to a fantastic data science course developed by the University of Illinois, [Data Science Discovery](https://discovery.cs.illinois.edu/)
+We have access to a fantastic data science course developed by the University of Illinois, [Data Science Discovery](https://discovery.cs.illinois.edu/)
 ```
 
 ## Introduction to Data Science with Python
