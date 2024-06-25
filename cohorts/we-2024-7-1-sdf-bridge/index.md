@@ -13,9 +13,9 @@ This bridge program is designed to leverage your foundation and prepare you for 
 - [Fundamentals](./fundamentals.md)
 - [Javascript](./javascript.md)
 - [Databases and SQL](./databases-sql.md)
-- [Data Science](./data-science.md)
 - [Java](./java.md)
 - [Python](./python.md)
+- [Data Science](./data-science.md)
 <!-- - [CSS](./css.md) -->
 <!-- - [Artificial Intelligence](./artificial-intelligence.md) -->
 <!-- - [Cloud](./cloud.md) -->
@@ -23,7 +23,12 @@ This bridge program is designed to leverage your foundation and prepare you for 
 <!-- - [C#](./c-sharp.md) -->
 <!-- - [Mobile](./mobile.md) -->
 <!-- - [Design](./design.md) -->
-<!-- - [Cybersecurity](./cybersecurity.md) -->
+- [Cybersecurity](./cybersecurity.md)
+- [User Experience and Design](./ux-design.md)
+- [Project Management](./project-management.md)
+- [Devops and IT Support](./devops-it-support.md)
+
+<!-- TODO: Career Academy: Digital Marketer -->
 
 ## Pre-requisites
 Anyone participating in this course must achieve 100% completion of Introduction to Software Development Foundations (INTRO), Software Development Foundations Web (SDF-WEB), and Software Development Foundations Solo Project (SDF-SOLO).
