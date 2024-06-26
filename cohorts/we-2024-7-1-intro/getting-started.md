@@ -30,7 +30,6 @@ Explore how the course functions, navigate effectively, and make the most of the
 ```
 
 ## Course Syllabus
-```md
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: none/rolling; to be completed before application deadline
@@ -110,21 +109,18 @@ Maximum Canvas points goal: 227 points for the course.
 - Creating successful correspondence
 - Technical interview preparation
 - Panel Interview Preparation
-```
 
 ## Orientation Video
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: none/rolling; to be completed before application deadline
-```md
+
 [Orientation Video 👋](https://youtu.be/wBkfbvQ5jiM)
-```
 
 ## Join Discord chat 💬
 - **Points**: 0
 - **Requirements**: text entry box;submit discord user ID
 - **Due**: none/rolling; to be completed before application deadline
-```md
 
 ### Join Discord
 To join the Discord server to chat with your classmates and instructors start by clicking [here](https://discord.gg/2KGrR2NbtH) to make a join request.
@@ -155,7 +151,7 @@ You can access your Discord User Id by following the steps below:
 ![](./assets/join-discord-3.png)
 
 4. Submit this user ID as part of your assignment.
-```
+
 ## Peer-to-peer Learning Culture👐🏽👐🏿👐🏻
 - **Points**: 0
 - **Requirements**: text entry box; trainee must submit full name to agree to terms
@@ -186,9 +182,12 @@ I understand that my participation in Discovery Partners Institute’s (DPI) “
 
 ### What to submit for this assignment
 Type your first name, middle name (if any), and last name in the Text Entry box and submit to acknowledge your acceptance of these terms and conditions, and you empower us to make your learning experience richer and more connected.
-```
-- Course introduction video 📹
-```md
+
+## Course introduction video 📹
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: none/rolling; to be completed before application deadline
+
 Please watch [this ~50 minute video which introduces the course](https://share.descript.com/view/vaZyM1idzLJ).
 
 This is a recording of the first lecture from a recent real-time offering of the course.
@@ -197,9 +196,12 @@ This is a recording of the first lecture from a recent real-time offering of the
 (Note: you DO NOT need to take the survey referenced in this video)
 
 Please ask any questions that occur to you while you're watching the video in Discord!
-```
-- Setup your calendar 🗓️
-```md
+
+## Setup your calendar 🗓️
+- **Points**: 1
+- **Requirements**: text entry box; enter name of calendar application
+- **Due**: none/rolling; to be completed before application deadline
+
 Canvas has a really neat feature: the Calendar.
 
 It will aggregate events, assignments, etc, from all of the courses you are enrolled in:
@@ -219,18 +221,24 @@ This is a good opportunity to practice using your calendar, whether it's Apple C
 Please add subscribe to the canvas calendar feed and submit the name of your preferred calendar app.
 
 Enter the name of your calendar application you're using to subscribe to the canvas calendar.
-```
-- Setup a Password Manager 🔐
-```md
+
+## Setup a Password Manager 🔐
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: none/rolling; to be completed before application deadline
+
 I've noticed a lot of students use pen/paper or a text file on their computer to store passwords. 
 
 [Password Best Practices](https://www.it.ucsb.edu/secure-compute-research-environment-user-guide/password-best-practices).
 
 Please sign up for a password manager and enter the url of the one you've chosen. I personally use [Bitwarden](https://bitwarden.com/). (free for personal use and syncs desktop/mobile). There are many out there. Do your research. 🧑‍🔬🔬
-```
-- Asking Questions ❓
-```md
-## Questions ❓
+
+## Asking Questions ❓
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: none/rolling; to be completed before application deadline
+
+### Questions ❓
 - This course is question-driven.
 - We need you to ask questions.
 - Speak up whenever you feel like it, raise your hand in the classroom, post a question to Discord or [ask.firstdraft.com](http://ask.firstdraft.com/).
@@ -245,57 +253,69 @@ Please sign up for a password manager and enter the url of the one you've chosen
 - Don’t spin your wheels for longer than that!
 - When you have a question, instead of raising your hand or finding one of us, we want you to first type up your question on [ask.firstdraft.com](http://ask.firstdraft.com/) or Discord.
 
-## Why? 🤨
+### Why? 🤨
 - Writing out what you’re struggling with will often help you solve it yourself
 - Writing well is an essential component of succeeding as a software engineer (remote work, stack overflow, GitHub etc.)
 
-## Asking Questions 🙋
+### Asking Questions 🙋
 - State the problem you’re working on
 - What is your code doing right now?
 - What do you want it to be doing instead?
 - Copy-paste the snippet(s) of code that you think are relevant.
 - Describe what you’ve tried so far to resolve.
 
-## Code Snippets 👨‍💻
+### Code Snippets 👨‍💻
 Please use [markdown code snippets](https://www.freecodecamp.org/news/how-to-format-code-in-markdown/) when sharing pieces of code
 
 `<h1>Hello, world!</h1>`
 
-## Answering Questions 🤓
+### Answering Questions 🤓
 - Keep an eye on [ask.firstdraft.com](http://ask.firstdraft.com/) and try to help your classmates
 - After you solve your problem, please update your question with the answer
 
-## Participation 🏆
+### Participation 🏆
 - "Ask participation" is a component of your overall evaluation/”grade”
 - We keep track of:
   1. Number of questions you’ve asked (this is the most important metric)
   2. Number of other peoples’ questions you’ve read (2nd most important metric)
   3. Number of other peoples’ questions you’ve answered
 
-## In Review 📜
+### In Review 📜
 - Even though it’s weird to be asking & answering questions on a forum, please give it a try.
 - Trust us, it greatly improves learning and retention to write first and then talk it through.
 
-## Still not convinced?
+#### Still not convinced?
 - [Steve Jobs on 'asking for help'](https://www.youtube.com/watch?v=zkTf0LmDqKI)
-```
-  - Asking Questions ❓
-  ```md
-  How long are you allowed to be stuck before asking a question?
-  ```
-  - Asking Questions: Code Snippets 🧑‍💻
-  ```md
-  - What are code snippets?
-  - How do they work?  
-  - Please provide an example of a markdown code snippet.
-  ```
-- Ask: create an account 🛠️
-```md
+
+### Asking Questions ❓
+- **Points**: 1
+- **Requirements**: text entry box
+- **Due**: none/rolling; to be completed before application deadline
+
+How long are you allowed to be stuck before asking a question?
+
+### Asking Questions: Code Snippets 🧑‍💻
+- **Points**: 1
+- **Requirements**: text entry box
+- **Due**: none/rolling; to be completed before application deadline
+
+- What are code snippets?
+- How do they work?
+- Please provide an example of a markdown code snippet.
+
+## Ask: create an account 🛠️
+- **Points**: 0
+- **Requirements**: text entry box
+- **Due**: none/rolling; to be completed before application deadline
+
 - Sign up for an Ask account at ask.firstdraft.com.
 - Ask questions and experiment with requesting responses from the GP-TA.
-```
-- Learn: create an account 📚🔐
-```md
+
+## Learn: create an account 📚🔐
+- **Points**: 1
+- **Requirements**: mark as done
+- **Due**: none/rolling; to be completed before application deadline
+
 We will be using a platform called Learn to host project notes, embedded quizzes, and to launch GitHub projects.
 
 Visit https://learn.firstdraft.com/users/sign_up to sign up for an account before proceeding.
@@ -314,8 +334,11 @@ In the future, to get back the list of lessons you've begun, click on the "first
 
 You can close this browser tab when you've completed the sign up.
 ```
-- Sign up for GitHub 🖥️📝
-```md
+## Sign up for GitHub 🖥️📝
+- **Points**: 1
+- **Requirements**: website URL
+- **Due**: none/rolling; to be completed before application deadline
+
 Please sign up for [GitHub](https://github.com/join) and share your profile page. It should be something like this `github.com/<username>`. Please set a profile image and display name using your first and last name so it's easy to tag you. Your GitHub profile is like a software engineering resume. It's important for employers, clients, teammates, etc. to know it's you. I also recommend keeping only 1 GitHub account so your contribution graph is full of green. You can create organizations to separate your repositories. 
 
 ![](./assets/sign-up-for-github-1.png)
@@ -331,9 +354,12 @@ Here are the steps to update your 'display name':
 ![](./assets/sign-up-for-github-4.png)
 
 ![](./assets/sign-up-for-github-5.png)
-```
-- Setup your TIL blog 📝👨‍💻
-```md
+
+## Setup your TIL blog 📝👨‍💻
+- **Points**: 1
+- **Requirements**: website URL
+- **Due**: none/rolling; to be completed before application deadline
+
 Keeping a learning journal is extremely valuable for software developers, for many reasons:
 
 - Writing about what you’re doing helps clarify and internalize it.
@@ -356,4 +382,3 @@ Start jotting down notes in your blog. You can save posts as drafts if you're no
 A great source of TIL blog posts are answers to questions you've asked and other discussions (your own or others). To really cement what you learned, re-write the answer to your question or discussion as a TIL post.
 
 Keep track of everyone's TIL blogs on [news.dpi.dev](https://news.dpi.dev/). Someone else might have already written the answer to your question!
-```
