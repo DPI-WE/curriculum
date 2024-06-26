@@ -1,4 +1,4 @@
-# Introduction to Software Development Foundations (WE-2023-7-1-INTRO)
+# Introduction to Software Development Foundations (WE-2024-7-1-INTRO)
 ![](./assets/welcome-page-banner.gif)
 
 This "tech prep" curriculum is designed to be remote, self-paced, and prepare you for success in the 12-week in person full stack web development apprenticeship program.
@@ -14,6 +14,7 @@ Learning to code is an exponential process that requires innate interest, grit a
 - [HTML & CSS](./html-&-css.md)
 - [HTML & CSS References](./html-&-css-references.md)
 - [Intro to Ruby](./intro-to-ruby.md)
+<!-- Alex Start at additional ruby practice -->
 - [Additional Ruby Practice](./additional-ruby-practice.md)
 - [Debugging](./debugging.md)
 - [Style](./style.md)
