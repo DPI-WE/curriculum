@@ -22,7 +22,7 @@ After completion of this module, you should be able to:
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 Let’s exercise our newfound Ruby skills with Exercism.io, a wonderful non-profit project. It’s a community for leveling up programming skills through solving problems, discussion, and mentorship.
 
 Sadly, the demand for Ruby mentorship overwhelmed the supply of mentors, so for the time being you may not receive timely code reviews; but 1) we can still review each other, and 2) the previous solutions and discussions about them are public and still incredibly useful for learning various ways to solve a problem with Ruby.
@@ -66,7 +66,7 @@ To get another perspective on Ruby fundamentals, you should go through [Go Rails
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 Have fun playing with this step by step Ruby walkthrough created by the people who maintain the language.
 
 [Try Ruby](https://try.ruby-lang.org/)
