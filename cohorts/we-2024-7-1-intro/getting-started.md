@@ -95,9 +95,9 @@ Maximum Canvas points goal: 227 points for the course.
 - Developing solutions with numerical algorithms
 - Developing algorithms for string manipulation
 
-<!-- TODO: add command line interface project -->
 #### Command Line Interface (CLI) Project
-
+- This module is designed as a capstone for building your own object-oriented app.
+- Become familiar with the style of the technical interview exam, which will resemble any of the sample CLI apps but with a few corrections or additions
 
 #### Career Exploration
 - Understanding computer and internet fundamentals
