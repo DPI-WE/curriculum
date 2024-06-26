@@ -14,7 +14,6 @@ Learning to code is an exponential process that requires innate interest, grit a
 - [HTML & CSS](./html-&-css.md)
 - [HTML & CSS References](./html-&-css-references.md)
 - [Intro to Ruby](./intro-to-ruby.md)
-<!-- Alex Start at additional ruby practice -->
 - [Additional Ruby Practice](./additional-ruby-practice.md)
 - [Debugging](./debugging.md)
 - [Style](./style.md)
