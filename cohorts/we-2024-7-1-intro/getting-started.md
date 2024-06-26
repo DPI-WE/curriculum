@@ -96,14 +96,15 @@ Maximum Canvas points goal: 227 points for the course.
 - Developing algorithms for string manipulation
 
 <!-- TODO: add command line interface project -->
+#### Command Line Interface (CLI) Project
 
 
-### Career Exploration
+#### Career Exploration
 - Understanding computer and internet fundamentals
 - Exploration of career pathways
 - Reflecting upon developer testimonials
 
-### Preparation for Interview
+#### Preparation for Interview
 - Creating an effective elevator speech
 - Writing and designing a resume
 - Creating successful correspondence
