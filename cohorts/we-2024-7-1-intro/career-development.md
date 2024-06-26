@@ -66,7 +66,7 @@ Based on the tips you learned in the YouTube videos, upload your updated resume.
 
 ### Short Essay Response 1 📄📋
 - **Points**: 1
-- **Requirements**: mark as done
+- **Requirements**: text entry
 - **Due**: rolling due date
 
 Upload your response to the following essay question:
@@ -79,7 +79,7 @@ If you already completed this essay during Tech Prep in March, please write "Mar
 
 ### Short Essay Response 2 📄📋
 - **Points**: 1
-- **Requirements**: mark as done
+- **Requirements**: text entry
 - **Due**: rolling due date
 
 Upload your response to the following essay question:
@@ -92,7 +92,7 @@ If you already completed this essay during Tech Prep in March, please write "Mar
 
 ### Short Essay Response 3 📄📋
 - **Points**: 1
-- **Requirements**: mark as done
+- **Requirements**: text entry
 - **Due**: rolling due date
 
 Show off your critical thinking skills by uploading your response to the following essay question:
