@@ -1,7 +1,7 @@
 # Getting Started
 
 **Prerequisites**:
--none
+- none
 
 **Requirements**:
 - must complete all items in section
