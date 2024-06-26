@@ -1,10 +1,12 @@
 # Getting Started
 
+**Prerequisites**:
+-none
+
 **Requirements**:
 - must complete all items in section
 
 ## Overview: Getting Started
-```md
 In this module you will learn about several resources that represent how software development teams work, communicate, and share what they do.
 
 ### Objectives
@@ -27,7 +29,6 @@ After successful completion of this module, you will learn how to:
 Explore how the course functions, navigate effectively, and make the most of the abundant resources available.
 
 [Orientation Video](https://youtu.be/wBkfbvQ5jiM)
-```
 
 ## Course Syllabus
 - **Points**: 0
@@ -156,7 +157,7 @@ You can access your Discord User Id by following the steps below:
 - **Points**: 0
 - **Requirements**: text entry box; trainee must submit full name to agree to terms
 - **Due**: none/rolling; to be completed before application deadline
-```md
+
 Welcome to our culture of peer-to-peer learning! 🌟 We're excited to embark on this learning journey with you - one where we all grow together, not just as software developers but as invaluable contributors to each other's learning process. 
 
 Here's why this experience is going to be rewarding:
@@ -333,7 +334,7 @@ In the future, to get back the list of lessons you've begun, click on the "first
 ![](./assets/learn-click-firstdraft-icon.png)
 
 You can close this browser tab when you've completed the sign up.
-```
+
 ## Sign up for GitHub 🖥️📝
 - **Points**: 1
 - **Requirements**: website URL
