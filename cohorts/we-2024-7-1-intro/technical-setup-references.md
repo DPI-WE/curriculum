@@ -1,10 +1,16 @@
 # Technical Setup References
 
+**Prerequisites**:
+- none
+
+**Requirements**:
+- must complete all items in section
+
 ## Setup References (forking, coding, grading, git, etc.) 📚🔧💻📝
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 Here is your one-stop-shop for technical references. You completed many of these steps during the "Hello, world" deployment lesson, but these lessons provide dedicated expansions on some key topics. Keep this page handy, and skim through the materials now.
 
 - Forking, Setting up a Codespace, and using `rake grade`
@@ -19,4 +25,4 @@ Here is your one-stop-shop for technical references. You completed many of these
   - [Learn](https://learn.firstdraft.com/lessons/54)
 - Tips and Tricks: hard refreshing and keyboard shortcuts
   - [Learn](https://learn.firstdraft.com/lessons/31)
-```
+
