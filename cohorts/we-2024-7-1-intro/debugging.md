@@ -1,6 +1,12 @@
 # Debugging
-- Rubber duck debugging 🦆
-```md
+
+**Prerequisites**: 
+- Intro to Ruby
+
+## Rubber duck debugging 🦆
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: no due date
 
 ![](assets/debugging-duck.png)
 
@@ -17,7 +23,6 @@ The idea isn't that these listeners will provide solutions, but that the act of 
 Read more about [Rubber Duck Debugging: The Psychology of How it Works](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/).
 
 Come visit us at 200 S Wacker to get your own rubber duck for practice!
-```
 
 <!--
   TODO: more on debugging 
