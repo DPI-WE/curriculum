@@ -1,6 +1,15 @@
 # Preparation for Interview
 
+**Prerequisites**: 
+- none
+
+**Requirements**:
+- must complete all items in section
+
 ## Technical Preparation
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: rolling due date
 
 Preparing for the technical aspects of a software development interview requires a solid understanding of fundamental concepts in Ruby and the ability to apply them in practical scenarios. Here are key steps to help you prepare:
 
