@@ -125,13 +125,13 @@ Maximum Canvas points goal: 227 points for the course.
 - **Requirements**: text entry box;submit discord user ID
 - **Due**: none/rolling; to be completed before application deadline
 ```md
+
 ### Join Discord
 To join the Discord server to chat with your classmates and instructors start by clicking [here](https://discord.gg/2KGrR2NbtH) to make a join request.
 
 Then, please wait up to 24 hours to added to the main server channel. While you wait to be added, you can still submit your Discord User Id to this assignment and continue with the rest of this module.
 
 #### Discord Server Rules
-
 1. Be kind
 2. Please use your real name in discord as it appears in canvas. It’s ok to use a first initial for your last name.
 3. Use a workplace appropriate profile image
@@ -156,7 +156,10 @@ You can access your Discord User Id by following the steps below:
 
 4. Submit this user ID as part of your assignment.
 ```
-- Peer-to-peer Learning Culture👐🏽👐🏿👐🏻
+## Peer-to-peer Learning Culture👐🏽👐🏿👐🏻
+- **Points**: 0
+- **Requirements**: text entry box; trainee must submit full name to agree to terms
+- **Due**: none/rolling; to be completed before application deadline
 ```md
 Welcome to our culture of peer-to-peer learning! 🌟 We're excited to embark on this learning journey with you - one where we all grow together, not just as software developers but as invaluable contributors to each other's learning process. 
 
@@ -174,14 +177,14 @@ Here's why this experience is going to be rewarding:
 
 If you haven’t already, pop over to the Discord "Introduce-yourself" channel and let’s get the introductions rolling. Don't forget to also say hello 👋 to your peers who've already introduced themselves. This is more than just saying “Hi”; it’s about building the first bridge with your peers and maybe, friends for life (as we’ve often seen with DPI graduates 🙂)! We’ll use Discord to grow our peer learning community, so be sure to stay signed in and active on Discord as much as possible.
 
-## Agreement
+### Agreement
 I understand that my participation in Discovery Partners Institute’s (DPI) “Introduction to Software Development Foundations” course involves a collaborative learning approach. In this spirit, I agree to the following:
 
 - **Assisting Peers**: My Discord display name or username may be shared with fellow students who are experiencing challenges specifically related to the course content, in situations where I may be able to provide assistance. This process is designed to foster a supportive, interactive learning environment, and I am willing to contribute to the best of my ability.
 
 - **Receiving Assistance**: Similarly, I consent to have my Discord display name and Discord username shared with selected students whom DPI identifies as potentially helpful to me in addressing my own learning challenges within the course. This sharing aims to facilitate assistance and guidance from peers who may have insights or strategies to offer.
 
-## What to submit for this assignment
+### What to submit for this assignment
 Type your first name, middle name (if any), and last name in the Text Entry box and submit to acknowledge your acceptance of these terms and conditions, and you empower us to make your learning experience richer and more connected.
 ```
 - Course introduction video 📹
