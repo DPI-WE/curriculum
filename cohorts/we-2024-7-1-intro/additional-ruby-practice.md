@@ -3,6 +3,9 @@
 **Prerequisites**: 
 - complete HTML&CSS module
 
+**Requirements**:
+- none
+
 ## Overview: Additional Ruby practice
 This module contains additional Ruby content ranging from language guides, challenging exercises, and software developer networks.
 
