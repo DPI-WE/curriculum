@@ -1,11 +1,9 @@
 # Additional Ruby practice
-- **Requirements/Prerequisites**: complete HTML&CSS module
+
+**Prerequisites**: 
+- complete HTML&CSS module
 
 ## Overview: Additional Ruby practice
-- **Points**: 0
-- **Requirements**: mark as done
-- **Due**: no due date
-```md
 This module contains additional Ruby content ranging from language guides, challenging exercises, and software developer networks.
 
 ## Objectives
@@ -19,7 +17,6 @@ After completion of this module, you should be able to:
 - Review Ruby guides and information at Go Rails, Try Ruby, and more.
 - Try intermediate-level programming exercises at Exercism
 - Engagement with the Ruby developer community at Exercism and Ruby Weekly
-```
 
 ## Continuous practice with Exercism.org 🏋️‍♂️🔍💻
 - **Points**: 0
@@ -50,23 +47,20 @@ Overview.
   - Look at a few of the most-starred [Community Solutions](https://exercism.org/tracks/ruby/exercises/log-line-parser/solutions).
   - How do they compare to your solution?
 10. Try doing a few Exercism problems each week to keep improving your Ruby skills continuously.
-```
 
 ## Ruby Programming | In One Video 🎥🧐💻
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 Please watch [this extremely concise ruby language overview](https://www.edu-apps.org/lti_public_resources/launch?driver=youtube&remote_id=8wZ2ZD--VTk).
-```
 
 ## GoRails: Ruby for Beginners Series 🚂📚💻
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 To get another perspective on Ruby fundamentals, you should go through [Go Rails: Ruby for Beginners Series](https://gorails.com/series/ruby-for-beginners).
-```
 
 ## Try Ruby 💎👩‍💻📚
 - **Points**: 0
@@ -76,26 +70,24 @@ To get another perspective on Ruby fundamentals, you should go through [Go Rails
 Have fun playing with this step by step Ruby walkthrough created by the people who maintain the language.
 
 [Try Ruby](https://try.ruby-lang.org/)
-```
 
 ## Ruby References 📚🔍💎
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 Here are links to the official Ruby documentation. Make sure the documentation version matches the version you are running. You can enter `ruby -v` in the terminal to see which version you are running.
 
 - https://docs.ruby-lang.org/en/
 - https://ruby-doc.org/ 
 
 The documentation is organized by class (eg String, Float, Integer, Hash, etc.), their methods and what they do.
-```
 
 ## Subscribe to Ruby Weekly 💎
 - **Points**: 0
 - **Requirements**: mark as done
 - **Due**: no due date
-```md
+
 Subscribe to the [Ruby Weekly email newsletter](https://rubyweekly.com/) (or, as I prefer, subscribe to the RSS feed).
 
 Glance over it each week and see if anything intrigues you; click through if so. Quite often the articles cover beginner/intermediate-level material, and that's what interests me most. I usually skip the advanced stuff.
@@ -108,4 +100,4 @@ As a developer, this is:
 - incidentally, the only way that companies can ever successfully advertise to me, either products or for recruitment
 
 Every language has a similar newsletter; it's worth getting a feel for them.
-```
+
