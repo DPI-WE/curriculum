@@ -97,35 +97,18 @@ Maximum Canvas points goal: 227 points for the course.
 
 <!-- TODO: add command line interface project -->
 
-### HTTP & APIs
-- Interfacing with external APIs
-- Acquire and secure credentials
-- Comprehend and utilize the JSON data-interchange format
-
-### Web Apps with Sinatra
-- Develop a web app using a lightweight framework
-- Employ web servers to deliver HTML presentation
-- Deploy a web app to the Internet
-
-### Web Apps with Sinatra & OpenAI API
-- Implement external APIs in apps
-- Create requests and retrieve responses
-- Construct HTML presentation
-
-### Mini Project
-- Brainstorming ideas and conducting feasibility studies
-- Implementing business logic on the server-side
-- Design user-friendly HTML presentation
 
 ### Career Exploration
 - Understanding computer and internet fundamentals
 - Exploration of career pathways
 - Reflecting upon developer testimonials
 
-### Career Portfolio
+### Preparation for Interview
 - Creating an effective elevator speech
 - Writing and designing a resume
 - Creating successful correspondence
+- Technical interview preparation
+- Panel Interview Preparation
 ```
 
 - [Orientation Video 👋](https://youtu.be/wBkfbvQ5jiM)
