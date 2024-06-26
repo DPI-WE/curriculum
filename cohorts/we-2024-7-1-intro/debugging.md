@@ -3,6 +3,9 @@
 **Prerequisites**: 
 - Intro to Ruby
 
+**Requirements**: 
+- none
+
 ## Rubber duck debugging 🦆
 - **Points**: 0
 - **Requirements**: mark as done
