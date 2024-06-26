@@ -112,24 +112,34 @@ Maximum Canvas points goal: 227 points for the course.
 - Panel Interview Preparation
 ```
 
-- [Orientation Video 👋](https://youtu.be/wBkfbvQ5jiM)
-- Join Discord chat 💬
+## Orientation Video
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: none/rolling; to be completed before application deadline
 ```md
-# Join Discord
+[Orientation Video 👋](https://youtu.be/wBkfbvQ5jiM)
+```
+
+## Join Discord chat 💬
+- **Points**: 0
+- **Requirements**: text entry box;submit discord user ID
+- **Due**: none/rolling; to be completed before application deadline
+```md
+### Join Discord
 To join the Discord server to chat with your classmates and instructors start by clicking [here](https://discord.gg/2KGrR2NbtH) to make a join request.
 
 Then, please wait up to 24 hours to added to the main server channel. While you wait to be added, you can still submit your Discord User Id to this assignment and continue with the rest of this module.
 
-## Discord Server Rules
+#### Discord Server Rules
 
 1. Be kind
 2. Please use your real name in discord as it appears in canvas. It’s ok to use a first initial for your last name.
 3. Use a workplace appropriate profile image
 
-## Introduce yourself
+### Introduce yourself
 Find the introduce-yourself channel, follow the channel suggestions on what to put in your introduction, and add this to your About Me profile in Discord.
 
-## Submit your Discord User Id to this assignment
+### Submit your Discord User Id to this assignment
 You can access your Discord User Id by following the steps below:
 
 1. Go to your Discord “User Settings” by clicking on the wheel icon next your profile name at the bottom left side of your Discord view. 
