@@ -1,11 +1,13 @@
 # Getting Started
 
-- Overview: Getting Started
+**Requirements**:
+- must complete all items in section
+
+## Overview: Getting Started
 ```md
-# Overview: Getting Started
 In this module you will learn about several resources that represent how software development teams work, communicate, and share what they do.
 
-## Objectives
+### Objectives
 After successful completion of this module, you will learn how to:
 
 - Become familiar with typical software development team communication tools
@@ -14,7 +16,7 @@ After successful completion of this module, you will learn how to:
 - Perform research
 - Know when and how to ask for help
 
-## Activities
+### Activities
 - Join a Discord group
 - Set up a calendar feed
 - Select a password manager
@@ -27,16 +29,20 @@ Explore how the course functions, navigate effectively, and make the most of the
 [Orientation Video](https://youtu.be/wBkfbvQ5jiM)
 ```
 
-- Course Syllabus
+## Course Syllabus
 ```md
-# Introduction to Software Development Foundations 
+- **Points**: 0
+- **Requirements**: mark as done
+- **Due**: none/rolling; to be completed before application deadline
+
+### Introduction to Software Development Foundations 
 This course is a self-paced, project-based introduction to object-oriented programming, web app development, and career skills preparation.  There are no formal prerequisites.
 
 The curriculum includes state-of-the-art educational tools that includes access to an experienced and friendly instructional staff.  Learning materials consist of interactive lessons, helpful examples, knowledge checks, fun projects, and AI-powered virtual assistance.  Total completion time is approximately 126 hours.
 
 Maximum Canvas points goal: 227 points for the course.
 
-## Skills Gained
+### Skills Gained
 - HTML, CSS
 - Technical writing
 - Cloud Deployment
@@ -46,45 +52,45 @@ Maximum Canvas points goal: 227 points for the course.
 - HTTP Requests, REST APIs
 - Sinatra Web App Framework
 
-## Syllabus
+### Syllabus
 
-### Getting Started
+#### Getting Started
 - Familiarize typical software dev team communication tools
 - Sharing knowledge
 - Active communication
 - Research
 - When to ask for help
 
-### Technical Setup References
+#### Technical Setup References
 - Cloud-based development tools include VSCode
 - Introduction to GitHub
 
-### Hello, World!
+#### Hello, World!
 - Introduction to deployment
 - Developing a static web site
 - Deploying a static web site
 
-### HTML & CSS
+#### HTML & CSS
 - Fundamental HTML5 syntax
 - Comprehensive CSS styling
 - Deploying a user-friendly static web site
 
-### HTML & CSS Reference
+#### HTML & CSS Reference
 - How to research HTML and CSS skills
 - Introduction to a cloud-based development environment
 - Understanding high-quality web design
 
-### Intro to Ruby
+#### Intro to Ruby
 - Understand variables and data types
 - Identify and implement control structures
 - Understand and create classes, objects, methods, object-oriented design
 
-### Additional Ruby Practice
+#### Additional Ruby Practice
 - Continuous learning references for several levels of complexity
 - Summary learning references
 - Researching programming language APIs
 
-### Ruby Gym
+#### Ruby Gym
 - Employ analytical skills to solve algorithms of moderate complexity
 - Developing solutions with numerical algorithms
 - Developing algorithms for string manipulation
@@ -121,6 +127,7 @@ Maximum Canvas points goal: 227 points for the course.
 - Writing and designing a resume
 - Creating successful correspondence
 ```
+
 - [Orientation Video 👋](https://youtu.be/wBkfbvQ5jiM)
 - Join Discord chat 💬
 ```md
