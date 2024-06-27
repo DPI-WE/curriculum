@@ -29,14 +29,14 @@ By the end of this module, you will be able to:
 
 ### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋
 - **Points**: 5
-- **Requirements**: score at least 5.0
+- **Requirements**: a website url
 - **Due**: end of week 7
 - [Learn]()
 - [GitHub]()
 
 ### Pull Request URL for Photogram Industrial Authorization: add-authorization > main 📥📋 (giving a code review)
 - **Points**: 2
-- **Requirements**: score at least 2.0
+- **Requirements**: a website url
 - **Due**: end of week 7
 - [Learn]()
 - [GitHub]()
@@ -50,14 +50,14 @@ By the end of this module, you will be able to:
 
 ### Pull Request for Pundit Policies: add-pundit > main 📥📋
 - **Points**: 5
-- **Requirements**: score at least 5.0
+- **Requirements**: a website url
 - **Due**: end of week 7
 - [Learn]()
 - [GitHub]()
 
 ### Pull Request for Pundit Policies: add-pundit > main 📥📋 (giving a code review)
 - **Points**: 2
-- **Requirements**: score at least 2.0
+- **Requirements**: a website url
 - **Due**: end of week 7
 - [Learn]()
 - [GitHub]()
