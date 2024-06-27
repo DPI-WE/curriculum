@@ -93,12 +93,12 @@ Anyone participating in this course must achieve 100% completion of Introduction
 
 ### Week 3
 - Monday, 6/17/24
-  - [Yap 🍔](./domain-modeling.md#yap-🍔)
+  - [Must See Movies](./orm-rich-models-and-crud.md#refactoring-must-see-movies-gui-1-️)
 - Tuesday, 6/18/24
   - [Cargo Cults 🪂](./development-tooling-and-practices.md#cargo-cults-🪂)
   - [Debugging 🪳](./development-tooling-and-practices.md#debugging-🪳)
 - Wednesday, 6/19/24
-  - [Request to Meme 😂](./github-workflow.md#request-to-meme-😂)
+  - HOLIDAY
 - Thursday, 6/20/24
   - [Pain Points 🥲](./building-your-own-idea.md#pain-points-🥲)
 - Friday, 6/21/24
@@ -106,11 +106,12 @@ Anyone participating in this course must achieve 100% completion of Introduction
 
 ### Week 4
 - Monday, 6/24/24
-  - [Offer Right 🤝](./domain-modeling.md#offer-right-🤝)
+  - [Yap 🍔](./domain-modeling.md#yap-🍔)
 - Tuesday, 6/25/24
   - [One Sentence Story 📖](./github-workflow.md#one-sentence-story-📖)
+  - [Request to Meme 😂](./github-workflow.md#request-to-meme-😂)
 - Wednesday, 6/26/24
-  - TBD
+  - [Offer Right 🤝](./domain-modeling.md#offer-right-🤝)
 - Thursday, 6/27/24
   - [Keep it simple 😽](./building-your-own-idea.md#keep-it-simple-😽)
   - [Sketches ✍️](./building-your-own-idea.md#sketches-✍️)
@@ -288,6 +289,7 @@ Anyone participating in this course must achieve 100% completion of Introduction
 
 ### Week 6 - Due Date: Friday, July 12, 2024
 - [JavaScript: The Slimmest Guide ☕️](./javascript.md#javascript-the-slimmest-guide-️)
+- [Object Oriented JavaScript with Stimulus 💡](./javascript#)
 - [Organizing JavaScript Code ☕️](./javascript.md#organizing-javascript-code-️)
 - [Photogram Ajax 📸](./javascript.md#photogram-ajax-)
 - [Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests](./javascript.md#photogram-ajax--pull-request-url-for-comments-likes-and-follow-requests)
