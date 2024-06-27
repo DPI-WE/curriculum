@@ -125,10 +125,10 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - Tuesday, 7/2/24
   - [Migrations 🕰️](./databases-and-sql.md#database-migrations-🕰️)
 - Wednesday, 7/3/24
-  - TBD
-- Thursday, 7/4/24
   - [User Stories 📖](./building-your-own-idea.md#user-stories-📖)
   - [Domain model 🤓](./building-your-own-idea.md#domain-model-🤓)
+- Thursday, 7/4/24
+ - HOLIDAY
 - Friday, 7/5/24
   - [Balanced Parentheses ⚖️](./data-structures-algorithms.md#balanced-parentheses-)
 
