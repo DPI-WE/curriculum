@@ -312,7 +312,7 @@ Anyone participating in this course must achieve 100% completion of Introduction
 - [User Feedback 🗣️](./building-your-own-idea.md#user-feedback-️)
 - [User Stories 📖](./building-your-own-idea.md#user-stories-)
 
-### Week 8
+### Week 8 - Due Date: Friday, July 26, 2024
 - []()
 
 ### Week 9
