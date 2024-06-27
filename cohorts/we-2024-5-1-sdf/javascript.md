@@ -60,14 +60,23 @@ Give a code review to one your fellow trainees and share the GitHub URL.
 
 ## (Optional) More UJS Practice
 - **Points**: 0
-- **Requirements**:
-- **Due**:
+- **Requirements**: mark as done
+- **Due**: end of week 6
 ```md
 Here is a link to the repository for the [Todo List 📝](https://dpi.instructure.com/courses/294/assignments/2195) app we data modeled in sprint 2.
 
 https://github.com/appdev-projects/ujs-practice-1
 
 You can follow the [step by step commits](https://github.com/appdev-projects/ujs-practice-1/commits/bp-solution) and build your own todo list app to learn more about Rails UJS (Unobtrusive JavaScript)
+```
+
+## Object Oriented Javascript with Stimulus
+ **Points**: 0
+- **Requirements**: mark as done
+- **Due**: end of week 6
+```md
+- [Learn](https://learn.firstdraft.com/lessons/452-js-stimulus)
+- [GitHub](https://github.com/DPI-WE/js-stimulus)
 ```
 <!-- TODO: add quiz questions https://github.com/DPI-WE/rails-organizing-js-code/issues/6 -->
 ## Organizing JavaScript Code ☕️
