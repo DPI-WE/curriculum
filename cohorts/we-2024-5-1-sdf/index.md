@@ -289,7 +289,7 @@ Anyone participating in this course must achieve 100% completion of Introduction
 
 ### Week 6 - Due Date: Friday, July 12, 2024
 - [JavaScript: The Slimmest Guide ☕️](./javascript.md#javascript-the-slimmest-guide-️)
-- [Object Oriented JavaScript with Stimulus 💡](./javascript#)
+- [Object Oriented JavaScript with Stimulus 💡](./javascript#object-oriented-javascript-with-stimulus)
 - [Organizing JavaScript Code ☕️](./javascript.md#organizing-javascript-code-️)
 - [Photogram Ajax 📸](./javascript.md#photogram-ajax-)
 - [Photogram Ajax 📸 Pull Request URL for Comments, Likes, and Follow Requests](./javascript.md#photogram-ajax--pull-request-url-for-comments-likes-and-follow-requests)
