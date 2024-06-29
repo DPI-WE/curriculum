@@ -27,6 +27,7 @@ This bridge program is a curated collection of resources designed for "a la cart
 - [User Experience and Design](./ux-design.md)
 - [Project Management](./project-management.md)
 - [Devops and IT Support](./devops-it-support.md)
+- [Launch Plans](./launch-plans.md)
 
 <!-- TODO: Career Academy: Digital Marketer -->
 
